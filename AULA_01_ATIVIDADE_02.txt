@@ -1,0 +1,13 @@
+PERGUNTA:
+Programando...
+Esse será nosso primeiro exercício!
+
+No mundo da programação, quando vamos aprender um linguagem de programação, o primeiro exercício é sempre um Olá Mundo. Por isso, nesta disciplina não será diferente. O primeiro programa que você irá criar é exatamente esse.
+
+Abaixo você terá uma caixa de texto com alguns números na lateral esquerda e ela será o seu editor de códigos, responsável por receber o seu algoritmo e enviar ao meu computador para que seja realizada a correção. Sempre que essa caixa estiver presente, logo abaixo dela, existirá botões que permitem que você acione o envio de seu algoritmo para que ele seja corrigido.
+
+No editor de códigos abaixo, você deverá escrever o comando:
+escreva "Olá Mundo!"
+
+RESPOSTA:
+escreva "Olá Mundo!"
