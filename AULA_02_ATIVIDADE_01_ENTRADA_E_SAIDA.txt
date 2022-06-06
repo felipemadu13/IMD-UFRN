@@ -1,0 +1,7 @@
+var nome := leia_texto
+var idade := leia_inteiro
+var altura := leia_numero
+
+escreva "Eu sou {nome}"
+escreva "Tenho {idade} anos"
+escreva "Minha altura é de {altura}m"
