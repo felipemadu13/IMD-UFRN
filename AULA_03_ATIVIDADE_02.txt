@@ -1,0 +1,6 @@
+var numero := leia_inteiro
+se numero < 100 então
+	imprima "{numero + 100}"
+senão
+	imprima "{numero - 100}"
+fim
