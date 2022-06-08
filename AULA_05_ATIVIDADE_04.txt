@@ -1,0 +1,4 @@
+var numero1 := leia_real
+var numero2 := leia_real
+var media := (numero1 + numero2) / 2
+escreva "A média entre os números {numero1} e {numero2} é {media}"

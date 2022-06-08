@@ -1,0 +1,5 @@
+var nota1 := leia_real
+var nota2 := leia_real
+var nota3 := leia_real
+var media := (nota1 * 4 + nota2 * 5 + nota3 * 6) / 15
+imprima "{media}"

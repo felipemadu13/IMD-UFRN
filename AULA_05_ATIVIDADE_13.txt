@@ -1,0 +1,9 @@
+var x1 := leia_inteiro
+var x2 := leia_inteiro
+var x3 := leia_inteiro
+
+se (x3 >= x1) |e| (x3 <= x2) então
+	escreva "Dentro do Intervalo entre {x1} e {x2}"
+senão
+	escreva "Fora do Intervalo entre {x1} e {x2}"
+fim

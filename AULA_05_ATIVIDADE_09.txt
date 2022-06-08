@@ -1,0 +1,5 @@
+var numero1 := leia_inteiro
+var numero2:= leia_inteiro
+se numero1 mod numero2 == 0 então
+imprima "É divisor"
+fim

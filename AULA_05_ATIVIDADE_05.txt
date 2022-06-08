@@ -1,0 +1,5 @@
+var x := leia_real
+var y := leia_real
+var z := leia_real
+var resultado := (x * y) / z
+escreva "O resultado da expressão é {resultado}"

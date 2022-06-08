@@ -1,0 +1,4 @@
+var numero1 := leia_numero
+se numero1 > 0 então
+imprima "Número Positivo"
+fim
