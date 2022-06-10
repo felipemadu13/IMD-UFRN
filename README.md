@@ -12,8 +12,8 @@
 * [Atividade 02 - One Hundred](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2003/AULA_03_ATIVIDADE_02.txt)
 
 ### Aula 04 ###
-* Atividade 02 - Índice de Massa Corporal (IMC)
-* Atividade 03 - Encare esse desafio!
+* [Atividade 02 - Índice de Massa Corporal (IMC)](https://github.com/felipemadu13/Potigol/blob/94ac6dd45cc44f65ad0a9ce791fd02233014da28/ATIVIDADES%20-%20AULA%2004/AULA_04_ATIVIDADE_02.txt)
+* [Atividade 03 - Encare esse desafio!](https://github.com/felipemadu13/Potigol/blob/94ac6dd45cc44f65ad0a9ce791fd02233014da28/ATIVIDADES%20-%20AULA%2004/AULA_04_ATIVIDADE_03.txt)
 
 ### Aula 05 ###
 * Atividade 01 - Soma!
