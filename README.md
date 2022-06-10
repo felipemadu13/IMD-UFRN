@@ -5,11 +5,11 @@
 * [Atividade 02 - Olá Mundo!](https://github.com/felipemadu13/Potigol/blob/465856555e449254efc6853037889c2067ac8945/ATIVIDADES%20-%20AULA%2001/AULA_01_ATIVIDADE_02.txt)
 
 ### Aula 02 ###
-* Atividade 01 - Entrada e saída!
+* [Atividade 01 - Entrada e saída!](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2002/AULA_02_ATIVIDADE_01.txt))
 
 ### Aula 03 ###
-* Atividade 01 - Par ou ímpar!?
-* Atividade 02 - One Hundred
+* [Atividade 01 - Par ou ímpar!?](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2003/AULA_03_ATIVIDADE_01.txt)
+* [Atividade 02 - One Hundred](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2003/AULA_03_ATIVIDADE_02.txt)
 
 ### Aula 04 ###
 * Atividade 02 - Índice de Massa Corporal (IMC)
