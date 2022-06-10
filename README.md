@@ -34,3 +34,5 @@
 * Atividade 16 - System of a Download
 
 ### Aula 06 ###
+* Atividade 01 - O Primeiro Enquanto
+* Atividade 02 - O segundo enquanto
