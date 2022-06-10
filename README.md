@@ -36,3 +36,11 @@
 ### Aula 06 ###
 * Atividade 01 - O Primeiro Enquanto
 * Atividade 02 - O segundo enquanto
+
+### Aula 07 ###
+* Atividade 01 - Repetição para
+* Atividade 02 - Repetição enquanto
+* Atividade 03 - Repetição 2 para
+* Atividade 04 - Repetição enquanto
+
+
