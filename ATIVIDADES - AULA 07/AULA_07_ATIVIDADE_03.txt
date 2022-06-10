@@ -1,0 +1,18 @@
+var numero := leia_numero
+var divisores := 0
+var soma := 0
+
+para i de 1 até numero faça
+	para j de 1 até i faça
+    	se i mod j == 0 então
+        	divisores := divisores + 1
+            fim
+      fim
+      se divisores == 2 então
+      	soma := soma + i
+        fim
+        divisores := 0
+fim
+imprima "{soma}"
+
+#créditos: Jucelio Santos

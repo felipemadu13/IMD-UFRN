@@ -1,0 +1,7 @@
+var x1 := leia_numero
+var soma := 0
+
+para x1 de 1 até x1 passo 2 faça
+	soma := soma + x1
+fim
+	imprima "{soma}"
