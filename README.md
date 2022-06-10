@@ -34,13 +34,13 @@
 * [Atividade 16 - System of a Download](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_16.txt)
 
 ### Aula 06 ###
-* Atividade 01 - O Primeiro Enquanto
-* Atividade 02 - O segundo enquanto
+* [Atividade 01 - O Primeiro Enquanto](https://github.com/felipemadu13/Potigol/blob/cceb403dcc92e512512f13f3fc240238010cd135/ATIVIDADES%20-%20AULA%2006/AULA_06_ATIVIDADE_01.txt)
+* [Atividade 02 - O segundo enquanto](https://github.com/felipemadu13/Potigol/blob/cceb403dcc92e512512f13f3fc240238010cd135/ATIVIDADES%20-%20AULA%2006/AULA_06_ATIVIDADE_02.txt)
 
 ### Aula 07 ###
-* Atividade 01 - Repetição para
-* Atividade 02 - Repetição enquanto
-* Atividade 03 - Repetição 2 para
-* Atividade 04 - Repetição enquanto
+* [Atividade 01 - Repetição para](https://github.com/felipemadu13/Potigol/blob/cceb403dcc92e512512f13f3fc240238010cd135/ATIVIDADES%20-%20AULA%2007/AULA_07_ATIVIDADE_01.txt)
+* [Atividade 02 - Repetição enquanto](https://github.com/felipemadu13/Potigol/blob/cceb403dcc92e512512f13f3fc240238010cd135/ATIVIDADES%20-%20AULA%2007/AULA_07_ATIVIDADE_02.txt)
+* [Atividade 03 - Repetição 2 para](https://github.com/felipemadu13/Potigol/blob/cceb403dcc92e512512f13f3fc240238010cd135/ATIVIDADES%20-%20AULA%2007/AULA_07_ATIVIDADE_03.txt)
+* [Atividade 04 - Repetição enquanto](https://github.com/felipemadu13/Potigol/blob/cceb403dcc92e512512f13f3fc240238010cd135/ATIVIDADES%20-%20AULA%2007/AULA_07_ATIVIDADE_04.txt)
 
 
