@@ -1,0 +1,17 @@
+var x := leia_inteiro
+var y := leia_inteiro
+var i := 1
+var j := 1
+
+enquanto i <= x faça
+	j := 1
+    enquanto j <= y faça
+    	imprima "{i}.{j} "
+        j := j + 1
+        fim
+        i := i + 1
+        escreva ""
+fim
+
+
+#créditos: Jucelio Santos
