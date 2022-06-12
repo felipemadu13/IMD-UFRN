@@ -1,0 +1,14 @@
+var x1 := leia_inteiro
+var x2 := leia_inteiro
+
+enquanto x1 <> x2 faça
+	se x1 < x2 então
+    	escreva "crescente"
+        x1 := leia_inteiro
+        x2 := leia_inteiro
+	senão
+    	escreva "decrescente"
+        x1 := leia_inteiro
+        x2 := leia_inteiro
+     fim
+fim

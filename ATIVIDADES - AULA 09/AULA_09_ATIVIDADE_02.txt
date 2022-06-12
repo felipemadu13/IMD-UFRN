@@ -1,0 +1,14 @@
+var x1 := leia_inteiro
+var x2 := 0
+
+enquanto x1 <> 0 faça
+    se x1 > x2 então
+    	x2 := x1
+    	x1 := leia_inteiro
+    senão
+    	x1 := leia_inteiro
+    fim
+    se x1 == 0 então
+    imprima "{x2}"
+    fim
+fim

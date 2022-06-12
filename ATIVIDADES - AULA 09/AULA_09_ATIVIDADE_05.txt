@@ -1,0 +1,9 @@
+var x1 := leia_inteiro
+var x2 := leia_inteiro
+var soma := 0
+
+para i de x1 até x2 faça
+	soma := soma + x1
+    x1 := x1 + 1
+fim
+imprima soma
