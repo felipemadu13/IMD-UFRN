@@ -49,16 +49,16 @@
 * [Atividade 02 - Vai de para!](https://github.com/felipemadu13/Potigol/blob/ab0c3bc5f388786a00efe9543c8ab825799db31a/ATIVIDADES%20-%20AULA%2008/AULA_08_ATIVIDADE_02.txt)
 
 ### Aula 09 ###
-* Atividade 01 - Tabuada de Multiplicação
-* Atividade 02 - Caça ao Maior
-* Atividade 03 - Cálculo da Média com Validação de Entrada
-* Atividade 04 - Crescente ou Decrescente
-* Atividade 05 - Soma de X até Y
-* Atividade 06 - Divisores de um número
-* Atividade 07 - Divisores de X até Y
-* Atividade 08 - Caça aos primos
-* Atividade 09 - Número Perfeito
-* Atividade 10 - A série de Fibonacci
-* Atividade 11 - Soma de N termos pares/ímpares
-* Atividade 12 - Feliz Natal!
+* [Atividade 01 - Tabuada de Multiplicação](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_01.txt)
+* [Atividade 02 - Caça ao Maior](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_02.txt)
+* [Atividade 03 - Cálculo da Média com Validação de Entrada](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_03.txt)
+* [Atividade 04 - Crescente ou Decrescente](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_04.txt)
+* [Atividade 05 - Soma de X até Y](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_05.txt)
+* [Atividade 06 - Divisores de um número](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_06.txt)
+* [Atividade 07 - Divisores de X até Y](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_07.txt)
+* [Atividade 08 - Caça aos primos](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_08.txt)
+* [Atividade 09 - Número Perfeito](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_09.txt)
+* [Atividade 10 - A série de Fibonacci](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_10.txt)
+* [Atividade 11 - Soma de N termos pares/ímpares](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_11.txt)
+* [Atividade 12 - Feliz Natal!](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_12.txt)
 
