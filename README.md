@@ -44,3 +44,9 @@
 * [Atividade 04 - Repetição enquanto](https://github.com/felipemadu13/Potigol/blob/cceb403dcc92e512512f13f3fc240238010cd135/ATIVIDADES%20-%20AULA%2007/AULA_07_ATIVIDADE_04.txt)
 
 
+### Aula 08 ###
+* [Atividade 01 - Enquanto...](https://github.com/felipemadu13/Potigol/blob/ab0c3bc5f388786a00efe9543c8ab825799db31a/ATIVIDADES%20-%20AULA%2008/AULA_08_ATIVIDADE_01.txt)
+* [Atividade 02 - Vai de para!](https://github.com/felipemadu13/Potigol/blob/ab0c3bc5f388786a00efe9543c8ab825799db31a/ATIVIDADES%20-%20AULA%2008/AULA_08_ATIVIDADE_02.txt)
+
+
+
