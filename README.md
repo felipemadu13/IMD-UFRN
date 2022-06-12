@@ -1,4 +1,4 @@
-# Guia de Sobrevivência no Potigol
+# Guia de Sobrevivência do Potigol
  Exercícios do Técnico em Tecnologia da Informação 2022.1 - IMD
 
 ### Aula 01 ###
