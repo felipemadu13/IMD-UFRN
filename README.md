@@ -48,5 +48,17 @@
 * [Atividade 01 - Enquanto...](https://github.com/felipemadu13/Potigol/blob/ab0c3bc5f388786a00efe9543c8ab825799db31a/ATIVIDADES%20-%20AULA%2008/AULA_08_ATIVIDADE_01.txt)
 * [Atividade 02 - Vai de para!](https://github.com/felipemadu13/Potigol/blob/ab0c3bc5f388786a00efe9543c8ab825799db31a/ATIVIDADES%20-%20AULA%2008/AULA_08_ATIVIDADE_02.txt)
 
-
+### Aula 09 ###
+* Atividade 01 - Tabuada de Multiplicação
+* Atividade 02 - Caça ao Maior
+* Atividade 03 - Cálculo da Média com Validação de Entrada
+* Atividade 04 - Crescente ou Decrescente
+* Atividade 05 - Soma de X até Y
+* Atividade 06 - Divisores de um número
+* Atividade 07 - Divisores de X até Y
+* Atividade 08 - Caça aos primos
+* Atividade 09 - Número Perfeito
+* Atividade 10 - A série de Fibonacci
+* Atividade 11 - Soma de N termos pares/ímpares
+* Atividade 12 - Feliz Natal!
 
