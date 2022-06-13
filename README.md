@@ -62,3 +62,13 @@
 * [Atividade 11 - Soma de N termos pares/ímpares](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_11.txt)
 * [Atividade 12 - Feliz Natal!](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_12.txt)
 
+### Aula 10 ###
+* Atividade 01 - Comece pelo Desafio! Vá na sequência de 6.
+* Atividade 02 - Imprimindo pontos
+* Atividade 03 - Construindo um retângulo de pontos
+* Atividade 04 - Triângulo
+* Atividade 05 - Primo ou composto!
+* Atividade 06 - Triângulo 2
+* Atividade 07 - Sequência interrompida
+* Atividade 08 - Caçando todos os primos
+* Atividade 09 - Todos os Números Perfeitos
