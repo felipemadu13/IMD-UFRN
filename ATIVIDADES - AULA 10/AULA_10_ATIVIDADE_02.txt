@@ -1,0 +1,11 @@
+var x1 := leia_inteiro
+
+para i de 1 até x1
+    para j de 1 até x1
+    	imprima "*"
+        se j < x1 então
+        	imprima " "
+         fim
+	fim
+    	escreva ""
+fim
