@@ -63,12 +63,12 @@
 * [Atividade 12 - Feliz Natal!](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_12.txt)
 
 ### Aula 10 ###
-* Atividade 01 - Comece pelo Desafio! Vá na sequência de 6.
-* Atividade 02 - Imprimindo pontos
-* Atividade 03 - Construindo um retângulo de pontos
-* Atividade 04 - Triângulo
-* Atividade 05 - Primo ou composto!
-* Atividade 06 - Triângulo 2
-* Atividade 07 - Sequência interrompida
-* Atividade 08 - Caçando todos os primos
-* Atividade 09 - Todos os Números Perfeitos
+* [Atividade 01 - Comece pelo Desafio! Vá na sequência de 6.](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_01.txt)
+* [Atividade 02 - Imprimindo pontos](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_02.txt)
+* [Atividade 03 - Construindo um retângulo de pontos](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_03.txt)
+* [Atividade 04 - Triângulo](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_04.txt)
+* [Atividade 05 - Primo ou composto!](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_05.txt)
+* [Atividade 06 - Triângulo 2](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_06.txt)
+* Atividade 07 - Sequência interrompida _Atividade não realizada_
+* [Atividade 08 - Caçando todos os primos](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_08.txt)
+* [Atividade 09 - Todos os Números Perfeitos](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_09.txt)
