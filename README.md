@@ -69,6 +69,6 @@
 * [Atividade 04 - Triângulo](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_04.txt)
 * [Atividade 05 - Primo ou composto!](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_05.txt)
 * [Atividade 06 - Triângulo 2](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_06.txt)
-* Atividade 07 - Sequência interrompida _Atividade não realizada_
+* Atividade 07 - Sequência interrompida _(Atividade não realizada)_
 * [Atividade 08 - Caçando todos os primos](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_08.txt)
 * [Atividade 09 - Todos os Números Perfeitos](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_09.txt)
