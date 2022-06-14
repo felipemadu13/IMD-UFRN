@@ -12,16 +12,16 @@
 * [Atividade 02 - One Hundred](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2003/AULA_03_ATIVIDADE_02.txt)
 
 ### Atividade Presencial - Aula 01, 02 e 03 ###
-* Exercício 01
-* Exercício 02
-* Exercício 03
-* Exercício 04
-* Exercício 05
-* Exercício 06
-* Exercício 07
-* Exercício 08
-* Exercício 09
-* Exercício 10
+* [Exercício 01](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_01.txt)
+* [Exercício 02](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_02.txt)
+* [Exercício 03](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_03.txt)
+* [Exercício 04](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_04.txt)
+* [Exercício 05](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_05.txt)
+* [Exercício 06](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_06.txt)
+* [Exercício 07](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_07.txt)
+* [Exercício 08](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_08.txt)
+* [Exercício 09](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_09.txt)
+* [Exercício 10](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_10.txt)
 
 
 ### Aula 04 ###
