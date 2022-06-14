@@ -1,0 +1,9 @@
+escreva "Digite o primeiro número da operação"
+var primeiroValor = leia_real
+escreva "Digite o segundo número da operação"
+var segundoValor = leia_real
+
+escreva "Soma: {primeiroValor + segundoValor}"
+escreva "Subtracao: {primeiroValor - segundoValor}"
+escreva "multiplicacao: {primeiroValor * segundoValor}"
+escreva "Divisao: {primeiroValor / segundoValor}"

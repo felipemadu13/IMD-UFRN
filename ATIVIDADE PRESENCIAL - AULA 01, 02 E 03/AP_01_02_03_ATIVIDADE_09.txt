@@ -1,0 +1,10 @@
+imprima "Informe um número inteiro: "
+var numero := leia_inteiro
+
+se numero < 10 entao
+var resultado = numero + 5
+imprima "O seu resultado é {resultado}"
+senao
+var resultado = numero - 10
+imprima "O seu resultado é {resultado}"
+fim

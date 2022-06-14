@@ -1,0 +1,9 @@
+escreva "Digite o primeiro número"
+var primeironum := leia_real
+
+escreva "Digite o segundo número"
+var segundonum := leia_real
+
+var resultado = (primeironum + segundonum) / 2
+
+imprima "A sua média foi de {resultado} em lógica de programação"

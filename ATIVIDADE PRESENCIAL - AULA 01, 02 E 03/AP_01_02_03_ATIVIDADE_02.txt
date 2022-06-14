@@ -1,0 +1,5 @@
+var n1 := leia_real
+var n2 := leia_real
+var soma := (n1 + n2) / 2
+
+escreva "{soma}"

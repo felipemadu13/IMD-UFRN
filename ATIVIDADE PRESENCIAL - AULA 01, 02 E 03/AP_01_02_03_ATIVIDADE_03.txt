@@ -1,0 +1,2 @@
+var x1 := leia_texto
+escreva "Olá {x1}, seja bem-vindo(a) ao mundo da programação"
