@@ -34,7 +34,7 @@
 * [Atividade 02 - Subtração!](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_02.txt)
 * [Atividade 03 - Multiplicação!](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_03.txt)
 * [Atividade 04 - Multiplicação e Divisão!](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_04.txt)
-*[ Atividade 05 - Multiplicação e Divisão 2!](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_05.txt)
+* [ Atividade 05 - Multiplicação e Divisão 2!](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_05.txt)
 * [Atividade 06 - Multiplicação e Divisão 3!](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_06.txt)
 * [Atividade 07 - Multiplicação e Divisão 4!](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_07.txt)
 * [Atividade 08 - Positivo!?](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_08.txt)
