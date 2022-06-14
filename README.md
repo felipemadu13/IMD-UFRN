@@ -11,6 +11,19 @@
 * [Atividade 01 - Par ou ímpar!?](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2003/AULA_03_ATIVIDADE_01.txt)
 * [Atividade 02 - One Hundred](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2003/AULA_03_ATIVIDADE_02.txt)
 
+### Atividade Presencial - Aula 01, 02 e 03 ###
+* Exercício 01
+* Exercício 02
+* Exercício 03
+* Exercício 04
+* Exercício 05
+* Exercício 06
+* Exercício 07
+* Exercício 08
+* Exercício 09
+* Exercício 10
+
+
 ### Aula 04 ###
 * [Atividade 02 - Índice de Massa Corporal (IMC)](https://github.com/felipemadu13/Potigol/blob/94ac6dd45cc44f65ad0a9ce791fd02233014da28/ATIVIDADES%20-%20AULA%2004/AULA_04_ATIVIDADE_02.txt)
 * [Atividade 03 - Encare esse desafio!](https://github.com/felipemadu13/Potigol/blob/94ac6dd45cc44f65ad0a9ce791fd02233014da28/ATIVIDADES%20-%20AULA%2004/AULA_04_ATIVIDADE_03.txt)
