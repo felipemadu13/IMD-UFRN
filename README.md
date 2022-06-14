@@ -3,6 +3,7 @@
 
 ### Aula 01 ###
 * [Atividade 02 - Olá Mundo!](https://github.com/felipemadu13/Potigol/blob/465856555e449254efc6853037889c2067ac8945/ATIVIDADES%20-%20AULA%2001/AULA_01_ATIVIDADE_02.txt)
+  * **Explicação:** [Professor Jucelio Santos](https://youtu.be/vgTHczydzFw?t=1594)
 
 ### Aula 02 ###
 * [Atividade 01 - Entrada e saída!](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2002/AULA_02_ATIVIDADE_01.txt)
