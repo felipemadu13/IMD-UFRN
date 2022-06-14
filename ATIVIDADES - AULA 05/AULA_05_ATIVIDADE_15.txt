@@ -1,7 +1,7 @@
 var x := leia_inteiro
 
 escolha x
-	caso 11 => imprima "11-São Paulo"
+    caso 11 => imprima "11-São Paulo"
     caso 21 => imprima "21-Rio de Janeiro"
     caso 27 => imprima "27-Espírito Santo"
     caso 31 => imprima "31-Minas Gerais"
@@ -10,7 +10,7 @@ escolha x
     caso 51 => imprima "51-Rio Grande do Sul"
     caso 61 => imprima "61-Distrito Federal"
     caso 62 => imprima "62-Goiás"
-	caso 63 => imprima "63-Tocantins"
+    caso 63 => imprima "63-Tocantins"
     caso 65 => imprima "65-Mato Grosso"
     caso 67 => imprima "67-Mato Grosso do Sul"
     caso 68 => imprima "68-Acre"
