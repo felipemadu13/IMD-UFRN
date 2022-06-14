@@ -7,6 +7,8 @@
 
 ### Aula 02 ###
 * [Atividade 01 - Entrada e saída!](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2002/AULA_02_ATIVIDADE_01.txt)
+  * **Explicação:** [Professor Jucelio Santos](https://youtu.be/DeQBKB9d83M?t=1517)
+
 
 ### Aula 03 ###
 * [Atividade 01 - Par ou ímpar!?](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2003/AULA_03_ATIVIDADE_01.txt)
