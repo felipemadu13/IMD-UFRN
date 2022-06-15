@@ -50,11 +50,11 @@
 * [Atividade 16 - System of a Download](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_16.txt)
 
 ### Atividade Presencial - Aula 04 e 05 ###
-* Exercício 01
-* Exercício 02
-* Exercício 03
-* Exercício 04
-* Exercício 05
+* [Exercício 01](https://github.com/felipemadu13/Potigol/blob/d22d591a0ca0d9d3e5188e4cdea2bceb9802ac89/AP%20-%20AULA%2004%20E%2005/AP_04_05_ATIVIDADE_01.txt)
+* [Exercício 02](https://github.com/felipemadu13/Potigol/blob/d22d591a0ca0d9d3e5188e4cdea2bceb9802ac89/AP%20-%20AULA%2004%20E%2005/AP_04_05_ATIVIDADE_02.txt)
+* [Exercício 03](https://github.com/felipemadu13/Potigol/blob/d22d591a0ca0d9d3e5188e4cdea2bceb9802ac89/AP%20-%20AULA%2004%20E%2005/AP_04_05_ATIVIDADE_03.txt)
+* [Exercício 04](https://github.com/felipemadu13/Potigol/blob/d22d591a0ca0d9d3e5188e4cdea2bceb9802ac89/AP%20-%20AULA%2004%20E%2005/AP_04_05_ATIVIDADE_04.txt)
+* [Exercício 05](https://github.com/felipemadu13/Potigol/blob/d22d591a0ca0d9d3e5188e4cdea2bceb9802ac89/AP%20-%20AULA%2004%20E%2005/AP_04_05_ATIVIDADE_05.txt)
 
 ### Aula 06 ###
 * [Atividade 01 - O Primeiro Enquanto](https://github.com/felipemadu13/Potigol/blob/cceb403dcc92e512512f13f3fc240238010cd135/ATIVIDADES%20-%20AULA%2006/AULA_06_ATIVIDADE_01.txt)
