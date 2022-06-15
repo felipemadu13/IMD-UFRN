@@ -49,6 +49,13 @@
 * [Atividade 15 - Qual o DDD?](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_15.txt)
 * [Atividade 16 - System of a Download](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_16.txt)
 
+### Atividade Presencial - Aula 04 e 05 ###
+* Exercício 01
+* Exercício 02
+* Exercício 03
+* Exercício 04
+* Exercício 05
+
 ### Aula 06 ###
 * [Atividade 01 - O Primeiro Enquanto](https://github.com/felipemadu13/Potigol/blob/cceb403dcc92e512512f13f3fc240238010cd135/ATIVIDADES%20-%20AULA%2006/AULA_06_ATIVIDADE_01.txt)
 * [Atividade 02 - O segundo enquanto](https://github.com/felipemadu13/Potigol/blob/cceb403dcc92e512512f13f3fc240238010cd135/ATIVIDADES%20-%20AULA%2006/AULA_06_ATIVIDADE_02.txt)
