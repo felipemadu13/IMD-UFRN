@@ -1,0 +1,8 @@
+var w = leia_inteiro
+var x = leia_inteiro
+var y = leia_inteiro
+var z = leia_inteiro
+
+var c = (((((x + y ) / z ) + w) / z) + w) / (x + (y * y) - w)
+
+escreva "O resultado da equação é {c}"

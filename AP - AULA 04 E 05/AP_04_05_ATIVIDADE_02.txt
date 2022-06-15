@@ -1,0 +1,46 @@
+escreva "Digite sua média em Introdução a Tecnologia da Informação"
+var miti := leia_real
+escreva "Digite sua média em Matemática"
+var mmat := leia_real
+escreva "Digite sua média em Inglês"
+var ming := leia_real
+escreva "Digite sua média em Sistemas Operacionais"
+var mso := leia_real
+escreva "Digite sua média em Arquitetura de Computadores"
+var marq := leia_real
+escreva "Digite sua média em Lógica de Programação"
+var mlog := leia_real
+var rec = " "
+var aprovacao = true
+se miti < 3 então
+    rec = rec + "Introdução a Tecnologia da Informação"
+    aprovacao = false
+fim
+se mmat < 3 então
+	rec = rec + "Matemática"
+    aprovacao = false
+fim
+se ming < 3 então
+	rec = rec + "Inglês"
+    aprovacao = false
+fim
+se mso < 3 então
+	rec = rec + "Sistemas Operacionais"
+    aprovacao = false
+fim
+se marq < 3 então
+	rec = rec + "Arquitetura de Computadores "
+    aprovacao = false
+fim
+se mlog < 3 então
+	rec = rec + "Lógica de Programação "
+    aprovacao = false
+fim
+var media := (miti * 60 + mmat * 40 + ming * 40 + mso * 60 + marq * 20 + mlog * 60) / 280
+se media < 5 então
+	escreva "O aluno está reprovado"
+senãose media >= 5 |e| aprovacao == false então
+	escreva " O aluno está em recuperação em: {rec}"
+senão
+	escreva "Aluno está Aprovado"
+fim

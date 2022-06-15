@@ -1,0 +1,6 @@
+var a := leia_inteiro
+var b := leia_inteiro
+var c := leia_inteiro
+
+var volume := ((a * b) / 2) * c
+escreva "O volume é {volume}"
