@@ -1,0 +1,14 @@
+var nomes := vetor[3]
+var faltas := vetor[3]
+var media := vetor[3]
+
+para i de 0 até 3 faça
+    nomes[i + 1] := leia_texto
+    faltas[i + 1] := leia_inteiro
+    media[i + 1] := leia_real   
+fim
+
+	escreva "Nome – Nº de Faltas – Média"
+para j de 0 até 3 faça
+	escreva "{nomes[j + 1]} – {faltas[j + 1]} – {media [j + 1]}"
+fim

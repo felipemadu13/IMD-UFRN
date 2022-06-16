@@ -1,0 +1,8 @@
+var x1 := ""
+var contador := 0
+
+enquanto contador < 10 faça
+	x1 := leia_texto
+    contador := contador + 1
+    escreva x1
+fim
