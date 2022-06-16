@@ -95,3 +95,8 @@
 * Atividade 07 - Sequência interrompida _(Atividade não realizada)_
 * [Atividade 08 - Caçando todos os primos](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_08.txt)
 * [Atividade 09 - Todos os Números Perfeitos](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_09.txt)
+
+### Aula 11 ###
+* Atividade 01 - Alunos da turma
+* Atividade 02 - Lendo e imprimindo dados organizados
+* Atividade 03 - Trabalhando com vetores
