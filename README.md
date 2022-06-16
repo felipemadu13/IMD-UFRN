@@ -12,9 +12,9 @@
 
 ### Aula 03 ###
 * [Atividade 01 - Par ou ímpar!?](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2003/AULA_03_ATIVIDADE_01.txt)
-  * **Explicação:** [Professor Jucelio Santos]()
+* **Explicação - Aula 03 - Atividade 01:** [Professor Jucelio Santos]()
 * [Atividade 02 - One Hundred](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2003/AULA_03_ATIVIDADE_02.txt)
-  * **Explicação:** [Professor Jucelio Santos]()
+* **Explicação:** [Professor Jucelio Santos]()
 
 ### Atividade Presencial - Aula 01, 02 e 03 ###
 * [Exercício 01](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_01.txt)
