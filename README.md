@@ -131,3 +131,16 @@
 * [Atividade 03 - Trabalhando com vetores](https://github.com/felipemadu13/Potigol/blob/ab24a8b96fd944636159d99b53373b97384ed848/ATIVIDADES%20-%20AULA%2011/AULA_11_ATIVIDADE_03.txt)
 
 ### Explicação ###
+
+## Aula 12 ##
+* Atividade 01
+* Atividade 02
+* Atividade 03
+* Atividade 04
+* Atividade 05
+* Atividade 06
+* Atividade 07
+* Atividade 08
+* Atividade 09
+
+### Explicação ###
