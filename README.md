@@ -86,6 +86,15 @@
 
 ### Explicação ###
 
+## Atividade Presencial - Aula 06, 07 e 08 ##
+* Exercício 01
+* Exercício 02
+* Exercício 03
+* Exercício 04
+* Exercício 05
+* Exercício 06
+
+
 ## Aula 09 ##
 * [Atividade 01 - Tabuada de Multiplicação](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_01.txt)
 * [Atividade 02 - Caça ao Maior](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_02.txt)
