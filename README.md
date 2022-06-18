@@ -87,12 +87,12 @@
 ### Explicação ###
 
 ## Atividade Presencial - Aula 06, 07 e 08 ##
-* Exercício 01
-* Exercício 02
-* Exercício 03
-* Exercício 04
-* Exercício 05
-* Exercício 06
+* [Exercício 01](https://github.com/felipemadu13/Potigol/blob/2785fc525d391bf4b47e92d4ab942027005ca310/AP%20-%20AULA%2006,%2007%20E%2008/AP_06_07_08_ATIVIDADE_01.txt)
+* [Exercício 02](https://github.com/felipemadu13/Potigol/blob/2785fc525d391bf4b47e92d4ab942027005ca310/AP%20-%20AULA%2006,%2007%20E%2008/AP_06_07_08_ATIVIDADE_02.txt)
+* [Exercício 03](https://github.com/felipemadu13/Potigol/blob/2785fc525d391bf4b47e92d4ab942027005ca310/AP%20-%20AULA%2006,%2007%20E%2008/AP_06_07_08_ATIVIDADE_03.txt)
+* [Exercício 04](https://github.com/felipemadu13/Potigol/blob/2785fc525d391bf4b47e92d4ab942027005ca310/AP%20-%20AULA%2006,%2007%20E%2008/AP_06_07_08_ATIVIDADE_04.txt)
+* [Exercício 05](https://github.com/felipemadu13/Potigol/blob/2785fc525d391bf4b47e92d4ab942027005ca310/AP%20-%20AULA%2006,%2007%20E%2008/AP_06_07_08_ATIVIDADE_05.txt)
+* [Exercício 06](https://github.com/felipemadu13/Potigol/blob/2785fc525d391bf4b47e92d4ab942027005ca310/AP%20-%20AULA%2006,%2007%20E%2008/AP_06_07_08_ATIVIDADE_06.txt)
 
 ### Explicação ###
 
