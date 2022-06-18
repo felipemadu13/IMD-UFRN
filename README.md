@@ -5,17 +5,21 @@
 * [Atividade 02 - Olá Mundo!](https://github.com/felipemadu13/Potigol/blob/465856555e449254efc6853037889c2067ac8945/ATIVIDADES%20-%20AULA%2001/AULA_01_ATIVIDADE_02.txt)
 
 ### Explicação ###
+* Aula 01 - Atividade 02
 
 ## Aula 02 ##
 * [Atividade 01 - Entrada e saída!](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2002/AULA_02_ATIVIDADE_01.txt)
 
 ### Explicação ###
+* Aula 02 - Atividade 01
 
 ## Aula 03 ##
 * [Atividade 01 - Par ou ímpar!?](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2003/AULA_03_ATIVIDADE_01.txt)
 * [Atividade 02 - One Hundred](https://github.com/felipemadu13/Potigol/blob/a970c70d9570cfcd34f635e93718204b1702d859/ATIVIDADES%20-%20AULA%2003/AULA_03_ATIVIDADE_02.txt)
 
 ### Explicação ###
+* Aula 03 - Atividade 01
+* Aula 03 - Atividade 02
 
 ## Atividade Presencial - Aula 01, 02 e 03 ##
 * [Exercício 01](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_01.txt)
@@ -30,12 +34,24 @@
 * [Exercício 10](https://github.com/felipemadu13/Potigol/blob/92515160f711b1c8b6272a3f9bbed977e035ad0d/AP%20-%20AULA%2001,%2002%20E%2003/AP_01_02_03_ATIVIDADE_10.txt)
 
 ### Explicação ###
+* AP - Semana 08 - Exercício 01
+* AP - Semana 08 - Exercício 02
+* AP - Semana 08 - Exercício 03
+* AP - Semana 08 - Exercício 04
+* AP - Semana 08 - Exercício 05
+* AP - Semana 08 - Exercício 06
+* AP - Semana 08 - Exercício 07
+* AP - Semana 08 - Exercício 08
+* AP - Semana 08 - Exercício 09
+* AP - Semana 08 - Exercício 10
 
 ## Aula 04 ##
 * [Atividade 02 - Índice de Massa Corporal (IMC)](https://github.com/felipemadu13/Potigol/blob/94ac6dd45cc44f65ad0a9ce791fd02233014da28/ATIVIDADES%20-%20AULA%2004/AULA_04_ATIVIDADE_02.txt)
 * [Atividade 03 - Encare esse desafio!](https://github.com/felipemadu13/Potigol/blob/94ac6dd45cc44f65ad0a9ce791fd02233014da28/ATIVIDADES%20-%20AULA%2004/AULA_04_ATIVIDADE_03.txt)
 
 ### Explicação ###
+* Aula 04 - Atividade 02
+* Aula 04 - Atividade 03
 
 ## Aula 05 ##
 * [Atividade 01 - Soma!](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_01.txt)
@@ -56,6 +72,22 @@
 * [Atividade 16 - System of a Download](https://github.com/felipemadu13/Potigol/blob/3de6eb62d7d09d3dfeaf40800993f2bc9e810bd5/ATIVIDADES%20-%20AULA%2005/AULA_05_ATIVIDADE_16.txt)
 
 ### Explicação ###
+* Aula 05 - Atividade 01
+* Aula 05 - Atividade 02
+* Aula 05 - Atividade 03
+* Aula 05 - Atividade 04
+* Aula 05 - Atividade 05
+* Aula 05 - Atividade 06
+* Aula 05 - Atividade 07
+* Aula 05 - Atividade 08
+* Aula 05 - Atividade 09
+* Aula 05 - Atividade 10
+* Aula 05 - Atividade 11
+* Aula 05 - Atividade 12
+* Aula 05 - Atividade 13
+* Aula 05 - Atividade 14
+* Aula 05 - Atividade 15
+* Aula 05 - Atividade 16
 
 ## Atividade Presencial - Aula 04 e 05 ##
 * [Exercício 01](https://github.com/felipemadu13/Potigol/blob/d22d591a0ca0d9d3e5188e4cdea2bceb9802ac89/AP%20-%20AULA%2004%20E%2005/AP_04_05_ATIVIDADE_01.txt)
