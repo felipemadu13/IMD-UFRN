@@ -133,14 +133,14 @@
 ### Explicação ###
 
 ## Aula 12 ##
-* Atividade 01
-* Atividade 02
-* Atividade 03
-* Atividade 04
-* Atividade 05
-* Atividade 06
-* Atividade 07
-* Atividade 08
-* Atividade 09
+* Atividade 01 - Preenchendo e Lendo um Vetor I
+* Atividade 02 - Preenchendo e Lendo um Vetor II
+* Atividade 03 - Menor e Posição
+* Atividade 04 - Preenchimento de Vetor I
+* Atividade 05 - Preenchendo e Lendo um Vetor III
+* Atividade 06 - Seleção em Vetor I
+* Atividade 07 - Seleção em Vetor II
+* Atividade 08 - Divisão no Vetor
+* Atividade 09 - Ordenação de Um Vetor
 
 ### Explicação ###
