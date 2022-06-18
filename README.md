@@ -133,10 +133,10 @@
 ### Explicação ###
 
 ## Aula 12 ##
-* Atividade 01 - Preenchendo e Lendo um Vetor I
-* Atividade 02 - Preenchendo e Lendo um Vetor II
-* Atividade 03 - Menor e Posição
-* Atividade 04 - Preenchimento de Vetor I
+* [Atividade 01 - Preenchendo e Lendo um Vetor I](https://github.com/felipemadu13/Potigol/blob/859296031306958acbda040b5608193e35982b9a/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_01.txt)
+* [Atividade 02 - Preenchendo e Lendo um Vetor II](https://github.com/felipemadu13/Potigol/blob/859296031306958acbda040b5608193e35982b9a/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_02.txt)
+* [Atividade 03 - Menor e Posição](https://github.com/felipemadu13/Potigol/blob/859296031306958acbda040b5608193e35982b9a/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_03.txt)
+* [Atividade 04 - Preenchimento de Vetor I](https://github.com/felipemadu13/Potigol/blob/859296031306958acbda040b5608193e35982b9a/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_04.txt)
 * Atividade 05 - Preenchendo e Lendo um Vetor III
 * Atividade 06 - Seleção em Vetor I
 * Atividade 07 - Seleção em Vetor II
