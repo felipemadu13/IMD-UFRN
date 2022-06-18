@@ -94,6 +94,7 @@
 * Exercício 05
 * Exercício 06
 
+### Explicação ###
 
 ## Aula 09 ##
 * [Atividade 01 - Tabuada de Multiplicação](https://github.com/felipemadu13/Potigol/blob/9593ce576336080fb143f71389b45e04576c6f3e/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_01.txt)
