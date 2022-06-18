@@ -1,0 +1,20 @@
+var vpar := vetor[29]
+var vimpar := vetor[29]
+
+para i de 0 até 29 faça
+	x1 := leia_inteiro
+    vpar[i] := x1
+	vimpar[i] := x1
+fim
+
+para i de 0 até 29 faça
+	se vpar[i] mod 2 == 0 então
+	imprima "{vpar[i]}, "
+    fim
+fim
+escreva ""
+para i de 0 até 29 faça
+	se vimpar[i] mod 2 <> 0 então
+    imprima "{vimpar[i]}, "
+    fim
+fim
