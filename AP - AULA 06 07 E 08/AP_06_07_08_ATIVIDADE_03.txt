@@ -1,0 +1,15 @@
+escreva "Digite a quantidade de carros a ser verificada"
+var carros := leia_inteiro
+escreva "Digite o número de bloqueio"
+var bloqueio := leia_inteiro
+var contador := 0
+para contador de 1 até carros faça
+escreva "Digite somento os 4 últimos números da sua placa"
+var placa := leia_inteiro
+var placa_f := placa mod 10
+se placa_f == bloqueio então
+escreva "Veículo proibido de rodar"
+senão
+escreva "Veículo liberado de rodar"
+fim
+fim

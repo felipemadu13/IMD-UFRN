@@ -1,0 +1,16 @@
+var x1 := leia_inteiro
+var x2 := leia_inteiro
+var contador1 := 0
+var contador2 := 0
+var cont := 0
+enquanto cont <= x1 faça
+contador1 := contador2
+escreva ""
+enquanto contador1 < x2 faça
+contador1 := contador1 +1
+imprima "{contador1}"
+fim
+x2 := x2 + 1
+contador2 := contador2 + 1
+cont:= cont + 1
+fim
