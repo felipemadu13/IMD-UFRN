@@ -99,6 +99,8 @@
 * [Atividade 08 - Caçando todos os primos](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_08.txt)
 * [Atividade 09 - Todos os Números Perfeitos](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_09.txt)
 
+## Atividade Presencial - Aula 09 E 10 ##
+
 ## Aula 11 ##
 * [Atividade 01 - Alunos da turma](https://github.com/felipemadu13/Potigol/blob/ab24a8b96fd944636159d99b53373b97384ed848/ATIVIDADES%20-%20AULA%2011/AULA_11_ATIVIDADE_01.txt)
 * [Atividade 02 - Lendo e imprimindo dados organizados](https://github.com/felipemadu13/Potigol/blob/ab24a8b96fd944636159d99b53373b97384ed848/ATIVIDADES%20-%20AULA%2011/AULA_11_ATIVIDADE_02.txt)
@@ -114,3 +116,5 @@
 * [Atividade 07 - Seleção em Vetor II](https://github.com/felipemadu13/Potigol/blob/1e3b0b20278f5cd0d0242db862c4cfd950dfd351/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_07.txt)
 * [Atividade 08 - Divisão no Vetor](https://github.com/felipemadu13/Potigol/blob/1e3b0b20278f5cd0d0242db862c4cfd950dfd351/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_08.txt)
 * [Atividade 09 - Ordenação de Um Vetor](https://github.com/felipemadu13/Potigol/blob/1e3b0b20278f5cd0d0242db862c4cfd950dfd351/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_09.txt)
+
+## Atividade Presencial - Aula 11 e 12 ##
