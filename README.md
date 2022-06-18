@@ -129,4 +129,35 @@
 * Exercício 04
 * Exercício 05
 
+## Aula 13 ##
+* Atividade 01 - Preenchendo e imprimindo o conteúdo de uma matriz
+* Atividade 02 - Preenchendo e imprimindo o conteúdo de uma matriz 2
+* Atividade 03 - Somando em uma matriz
 
+## Aula 14 ##
+
+## Atividade Presencial - Aula 13 e 14 ##
+* Exercício 01
+* Exercício 02
+* Exercício 03
+* Exercício 04
+* Exercício 05
+
+## Aula 15 ##
+* Atividade 01 - Preenchendo e Lendo uma Matriz I
+* Atividade 02 - Preenchendo e Lendo uma Matriz II
+* Atividade 03 - Menor Número e Posição
+* Atividade 04 - Preenchimento de Matriz I
+* Atividade 05 - Preenchendo uma Matriz 10x3
+* Atividade 06 - Função Produto
+* Atividade 07 - Função Fatorial
+* Atividade 08 - Função do Maior
+* Atividade 09 - Função do Par
+* Atividade 10 - Função do Primo
+
+## Atividade Presencial - Aula 15 ##
+* Exercício 01
+* Exercício 02
+* Exercício 03
+* Exercício 04
+* Exercício 05
