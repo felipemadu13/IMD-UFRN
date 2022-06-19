@@ -1,0 +1,11 @@
+var contador := 1
+var x1 := ""
+var x2 := leia_inteiro
+para i de contador até 999 faça
+x1 := leia_inteiro
+contador := contador + 1
+se x1 < x2 então
+x2 := x1
+fim
+fim
+imprima x2

@@ -1,0 +1,8 @@
+var x1 := leia_inteiro
+var contador := 1
+para i de contador até x1 faça
+se contador mod 2 == 0 então
+escreva contador
+fim
+contador := contador + 1
+fim
