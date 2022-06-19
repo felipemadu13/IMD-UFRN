@@ -100,11 +100,11 @@
 * [Atividade 09 - Todos os Números Perfeitos](https://github.com/felipemadu13/Potigol/blob/46fa96a42bde1d666b7795aebc0d110395ec9649/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_09.txt)
 
 ## Atividade Presencial - Aula 09 e 10 ##
-* Exercício 01
-* Exercício 02
-* Exercício 03
-* Exercício 04
-* Exercício 05
+* [Exercício 01](https://github.com/felipemadu13/Potigol/blob/3735fd5eeb562cc406c2c1cee65a73c4d8f46e9a/AP%20-%20AULA%2009%20E%2010/AP_09_10_ATIVIDADE_01.txt)
+* [Exercício 02](https://github.com/felipemadu13/Potigol/blob/3735fd5eeb562cc406c2c1cee65a73c4d8f46e9a/AP%20-%20AULA%2009%20E%2010/AP_09_10_ATIVIDADE_02.txt)
+* [Exercício 03](https://github.com/felipemadu13/Potigol/blob/3735fd5eeb562cc406c2c1cee65a73c4d8f46e9a/AP%20-%20AULA%2009%20E%2010/AP_09_10_ATIVIDADE_03.txt)
+* [Exercício 04](https://github.com/felipemadu13/Potigol/blob/3735fd5eeb562cc406c2c1cee65a73c4d8f46e9a/AP%20-%20AULA%2009%20E%2010/AP_09_10_ATIVIDADE_04.txt)
+* [Exercício 05](https://github.com/felipemadu13/Potigol/blob/3735fd5eeb562cc406c2c1cee65a73c4d8f46e9a/AP%20-%20AULA%2009%20E%2010/AP_09_10_ATIVIDADE_05.txt)
 
 ## Aula 11 ##
 * [Atividade 01 - Alunos da turma](https://github.com/felipemadu13/Potigol/blob/ab24a8b96fd944636159d99b53373b97384ed848/ATIVIDADES%20-%20AULA%2011/AULA_11_ATIVIDADE_01.txt)
