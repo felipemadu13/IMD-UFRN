@@ -134,6 +134,7 @@
 * [Atividade 03 - Somando em uma matriz](https://github.com/felipemadu13/Potigol/blob/62b31a572756dd28775edde4e16c72c2c0c5122b/ATIVIDADES%20-%20AULA%2013/AULA_13_ATIVIDADE_03.txt)
 
 ## Aula 14 ##
+* Não possui atividades
 
 ## Atividade Presencial - Aula 13 e 14 ##
 * Exercício 01
