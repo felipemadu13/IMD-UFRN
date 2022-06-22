@@ -129,9 +129,9 @@
 * Exercício 04
 
 ## Aula 13 ##
-* Atividade 01 - Preenchendo e imprimindo o conteúdo de uma matriz
-* Atividade 02 - Preenchendo e imprimindo o conteúdo de uma matriz 2
-* Atividade 03 - Somando em uma matriz
+* [Atividade 01 - Preenchendo e imprimindo o conteúdo de uma matriz](https://github.com/felipemadu13/Potigol/blob/62b31a572756dd28775edde4e16c72c2c0c5122b/ATIVIDADES%20-%20AULA%2013/AULA_13_ATIVIDADE_01.txt)
+* [Atividade 02 - Preenchendo e imprimindo o conteúdo de uma matriz 2](https://github.com/felipemadu13/Potigol/blob/62b31a572756dd28775edde4e16c72c2c0c5122b/ATIVIDADES%20-%20AULA%2013/AULA_13_ATIVIDADE_02.txt)
+* [Atividade 03 - Somando em uma matriz](https://github.com/felipemadu13/Potigol/blob/62b31a572756dd28775edde4e16c72c2c0c5122b/ATIVIDADES%20-%20AULA%2013/AULA_13_ATIVIDADE_03.txt)
 
 ## Aula 14 ##
 
