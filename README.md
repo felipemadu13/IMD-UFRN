@@ -127,7 +127,6 @@
 * Exercício 02
 * Exercício 03
 * Exercício 04
-* Exercício 05
 
 ## Aula 13 ##
 * Atividade 01 - Preenchendo e imprimindo o conteúdo de uma matriz
