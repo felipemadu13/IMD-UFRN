@@ -148,7 +148,7 @@
 * [Atividade 02 - Preenchendo e Lendo uma Matriz II](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_02.txt)
 * [Atividade 03 - Menor Número e Posição](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_03.txt)
 * [Atividade 04 - Preenchimento de Matriz I](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_04.txt)
-* Atividade 05 - Preenchendo uma Matriz 10x3 __(Atividade não realizada)__
+* Atividade 05 - Preenchendo uma Matriz 10x3 _(Atividade não realizada)_
 * [Atividade 06 - Função Produto](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_06.txt)
 * [Atividade 07 - Função Fatorial](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_07.txt)
 * [Atividade 08 - Função do Maior](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_08.txt)
