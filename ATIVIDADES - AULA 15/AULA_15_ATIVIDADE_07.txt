@@ -1,0 +1,18 @@
+fatorial(fat: inteiro, num: inteiro)
+	var mult := 0
+    para i de num até 1 passo -1 faça
+    	se i == num então
+        	mult := i * (i-1)
+        fim
+        se (i < num) |e| (i <> 1) então
+        	mult := mult * (i-1)
+        fim
+    fim
+    se mult == fat então
+    	retorne "s"
+    senão
+    	retorne "n"
+    fim
+fim
+
+#créditos: Jucelio Santos

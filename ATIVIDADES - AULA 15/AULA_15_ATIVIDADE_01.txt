@@ -1,0 +1,29 @@
+var elementos := matriz[5,5]
+
+para linha de 0 até 4 faça
+    para coluna de 0 até 4 faça
+        elementos[linha][coluna] := leia_inteiro
+    fim
+fim
+
+para linha de 0 até 4 faça
+    para coluna de 0 até 4 faça
+    	se coluna < 4 então
+        	imprima "{elementos[linha][coluna]} "
+        senão
+        	imprima "{elementos[linha][coluna]}" 
+        fim
+    fim
+    escreva ""
+fim
+escreva ""
+para linha de 4 até 0 passo -1 faça
+    para coluna de 4 até 0 passo -1 faça
+    	se coluna > 0 então
+        	imprima "{elementos[linha][coluna]} "
+        senão
+        	imprima "{elementos[linha][coluna]}" 
+       fim
+    fim
+    escreva ""
+fim

@@ -1,0 +1,4 @@
+produto(x: inteiro, y: inteiro)
+	var d := x * y
+    retorne d
+fim
