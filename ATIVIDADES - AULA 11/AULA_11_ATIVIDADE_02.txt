@@ -1,6 +1,6 @@
-var nomes := vetor[3]
-var faltas := vetor[3]
-var media := vetor[3]
+var nomes := vetor[4]
+var faltas := vetor[4]
+var media := vetor[4]
 
 para i de 0 até 3 faça
     nomes[i + 1] := leia_texto
