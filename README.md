@@ -123,10 +123,10 @@
 * [Atividade 09 - Ordenação de Um Vetor](https://github.com/felipemadu13/Potigol/blob/1e3b0b20278f5cd0d0242db862c4cfd950dfd351/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_09.txt)
 
 ## Atividade Presencial - Aula 11 e 12 ##
-* Exercício 01
-* Exercício 02
-* Exercício 03
-* Exercício 04
+* [Exercício 01](https://github.com/felipemadu13/Potigol/blob/2da2ea87983b146017e68417a35aab8d99af50dd/AP%20-%20AULA%2011%20E%2012/AP_11_12_ATIVIDADE_01.txt)
+* [Exercício 02](https://github.com/felipemadu13/Potigol/blob/2da2ea87983b146017e68417a35aab8d99af50dd/AP%20-%20AULA%2011%20E%2012/AP_11_12_ATIVIDADE_02.txt)
+* [Exercício 03](https://github.com/felipemadu13/Potigol/blob/2da2ea87983b146017e68417a35aab8d99af50dd/AP%20-%20AULA%2011%20E%2012/AP_11_12_ATIVIDADE_03.txt)
+* [Exercício 04](https://github.com/felipemadu13/Potigol/blob/2da2ea87983b146017e68417a35aab8d99af50dd/AP%20-%20AULA%2011%20E%2012/AP_11_12_ATIVIDADE_04.txt)
 
 ## Aula 13 ##
 * [Atividade 01 - Preenchendo e imprimindo o conteúdo de uma matriz](https://github.com/felipemadu13/Potigol/blob/62b31a572756dd28775edde4e16c72c2c0c5122b/ATIVIDADES%20-%20AULA%2013/AULA_13_ATIVIDADE_01.txt)
