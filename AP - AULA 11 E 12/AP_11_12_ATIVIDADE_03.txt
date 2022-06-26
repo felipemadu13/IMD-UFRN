@@ -1,0 +1,37 @@
+var numeros := vetor[10]
+var leitura := vetor[10]
+var menor := 0
+var auxiliar := 0
+
+
+para i de 0 até 9 faça
+	numeros[i] := leia_inteiro
+    leitura[i] := numeros[i]
+fim
+
+
+para i de 0 até 8 faça
+	menor := i
+    para j de i+1 até 9 faça
+    	se numeros[j] < numeros[menor] então
+        	menor := j
+         fim
+     fim
+     se numeros[i] <> numeros[menor] então
+     	auxiliar := numeros[i]
+        numeros[i] := numeros[menor]
+        numeros[menor] := auxiliar
+     fim
+fim
+
+
+escreva "Números na ordem que foram lidos: "
+para i de 0 até 9 faça
+	imprima "{leitura[i]}, "
+fim
+escreva ""
+escreva "Números em ordem crescente: "
+para i de 0 até 9 faça
+	imprima "{numeros[i]}, "
+fim
+

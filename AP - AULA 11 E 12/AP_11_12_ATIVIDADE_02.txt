@@ -1,0 +1,31 @@
+var x1 := ""
+var numeros := vetor[99]
+var soma := 0
+var i := 0
+
+enquanto x1 <> 0 |e| i < 100 faça
+	x1:= leia_real
+    soma := soma + x1
+    numeros[i] := x1
+    i := i + 1
+fim 
+
+
+var media := soma / (i - 1)
+escreva "A média dos números recebidos é {media}"
+escreva "A quantidade de números recebidos é {i}"
+
+imprima "Números que foram recebidos e estão acima da média: "
+para i de 0 até (i-1) faça
+	se numeros[i] > media então
+    	imprima "{numeros[i]}, "
+    fim
+fim
+escreva ""
+imprima "Números que foram recebidos e estão abaixo da média: "
+para i de 0 até (i-1) faça
+	se numeros[i] < media então
+    	imprima "{numeros[i]}, "
+     fim
+fim
+
