@@ -137,11 +137,9 @@
 * [Definindo Mais Funções](https://github.com/felipemadu13/Potigol/blob/42c0adcd396c28f7b7c527059b97f0a0247fea1a/ATIVIDADES%20-%20AULA%2014/PAGINA_05.txt)
 
 ## Atividade Presencial - Aula 13 e 14 ##
-* Exercício 01
-* Exercício 02
-* Exercício 03
-* Exercício 04
-* Exercício 05
+* https://github.com/felipemadu13/Potigol/blob/c46b91012a2443f6fbc40c07e6667909da8ed2e6/AP%20-%20AULA%2013%20E%2014/AP_13_14_ATIVIDADE_01.txt
+* https://github.com/felipemadu13/Potigol/blob/c46b91012a2443f6fbc40c07e6667909da8ed2e6/AP%20-%20AULA%2013%20E%2014/AP_13_14_ATIVIDADE_02.txt
+* https://github.com/felipemadu13/Potigol/blob/c46b91012a2443f6fbc40c07e6667909da8ed2e6/AP%20-%20AULA%2013%20E%2014/AP_13_14_ATIVIDADE_03.txt
 
 ## Aula 15 ##
 * [Atividade 01 - Preenchendo e Lendo uma Matriz I](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_01.txt)
