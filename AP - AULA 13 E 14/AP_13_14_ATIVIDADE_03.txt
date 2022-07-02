@@ -1,0 +1,38 @@
+var elementos = matriz[5,5]
+var aux = 0
+
+escreva "Digite números da matriz 5x5"
+para linha de 0 até 4 faça
+    para coluna de 0 até 4 faça
+        elementos[linha][coluna] = leia_inteiro
+    fim
+fim
+
+escreva "Matriz original: "
+para linha de 0 até 4 faça
+    para coluna de 0 até 4 faça
+        imprima "{elementos[linha][coluna]} "
+    fim
+    escreva ""
+fim
+
+para linha de 0 até 4 faça
+    para coluna de 0 até 3 faça
+        para menor de coluna até 4 faça
+            se elementos[linha][coluna] > elementos[linha][menor]
+                aux = elementos[linha][coluna]
+                elementos[linha][coluna] = elementos[linha][menor]
+                elementos[linha][menor] = aux
+            fim
+        fim
+    fim
+fim
+
+escreva ""
+escreva "Matriz ordenada: "
+para linha de 0 até 4 faça
+    para coluna de 0 até 4 faça
+        imprima "{elementos[linha][coluna]} "
+    fim
+    escreva ""
+fim
