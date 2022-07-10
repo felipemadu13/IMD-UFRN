@@ -1,8 +1,0 @@
-escreva "Digite o número"
-var numero = leia_inteiro
-var resultado = numero mod 2
-se resultado == 0 entao
-imprima "par"
-senao
-imprima "impar"
-fim

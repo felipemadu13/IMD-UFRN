@@ -1,6 +1,0 @@
-var a := leia_inteiro
-var b := leia_inteiro
-var c := leia_inteiro
-
-resultado := -a - (b + c * a * b) / (c * a)
-escreva "O resultado da expressão é {resultado}"

@@ -1,9 +1,0 @@
-escreva "Primeira Nota"
-var primeiranota := leia_real
-
-escreva "Segunda Nota"
-var segundanota := leia_real
-
-var resultado := (primeiranota * 2 + segundanota * 3) / 5
-
-imprima "A sua média é {resultado}"

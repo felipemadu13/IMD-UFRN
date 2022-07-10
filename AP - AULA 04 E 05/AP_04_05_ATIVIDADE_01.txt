@@ -1,9 +1,0 @@
-escreva "Digite sua nota de Atividade Presencial"
-var natv := leia_real
-escreva "Digite sua nota de Participação Virtual"
-var npart := leia_real
-escreva "Digite sua nota da Prova Escrita"
-var nprova := leia_real
-var nd := (natv + npart + nprova * 2) / 4
-
-escreva "Sua média é {nd}"

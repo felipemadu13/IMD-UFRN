@@ -1,8 +1,0 @@
-var altura := leia_inteiro
-var largura := leia_inteiro
-para altura de 1 até altura faça
-escreva ""
-para largura de 1 até largura faça
-imprima "*"
-fim
-fim

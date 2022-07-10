@@ -1,3 +1,0 @@
-escreva "Digite um número"
-var numero := leia_inteiro
-imprima "O último dígito é {numero mod 10}"

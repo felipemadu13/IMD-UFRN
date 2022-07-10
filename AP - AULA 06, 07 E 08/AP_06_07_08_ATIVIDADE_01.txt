@@ -1,9 +1,0 @@
-escreva "Digite a senha"
-var senha := leia_texto
-enquanto senha <> "20p@ssword22" faça
-escreva "Senha incorreta!"
-var senha := leia_texto
-fim
-se senha == "20p@ssword22" então
-escreva "Acesso concedido"
-fim
