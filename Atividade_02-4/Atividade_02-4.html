@@ -13,6 +13,17 @@
         <p id="minhaResposta"></p>
 
         <script>
+        var linhas = 1;
+        var resposta = `Esta é a linha ${linhas}`;
+
+        linhas++;
+        resposta = resposta + `<br> Esta é a linha ${linhas}`
+        linhas++;
+        resposta = resposta + `<br> Esta é a linha ${linhas}`
+        linhas++;
+        resposta = resposta + `<br> Esta é a linha ${linhas}`
+        linhas++;
+        resposta = resposta + `<br> Esta é a linha ${linhas}`
 
         document.getElementById("minhaResposta").innerHTML = resposta;
         </script>
