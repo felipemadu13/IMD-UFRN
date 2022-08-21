@@ -11,10 +11,42 @@
         <h2>Atividade 02-2</h2>
 
         <p id="minhaResposta"></p>
-
         <script>
-        // var resposta = ??? ;    
-        //document.getElementById("minhaResposta").innerHTML = resposta;
+        let x1 = 0;
+        let x2 = 3.14;
+        let x3 = Infinity;
+        let x4 = NaN;
+        let x5 = true;
+        let x6 = 4 > 1;
+        let x7 = "texto";
+        let x8 = "É tetra "+ 1994;
+        let x9 = Symbol("id");
+        let x10 = Date;
+        let x11 = String;
+        let x12 = [1,2,3,4];
+        let x13 = null;
+        let x14 = undefined;
+        let x15 = alert;
+
+        var resposta = `
+        ${typeof x1}<br>
+        ${typeof x2}<br>
+        ${typeof x3}<br>
+        ${typeof x4}<br>
+        ${typeof x5}<br>
+        ${typeof x6}<br>
+        ${typeof x7}<br>
+        ${typeof x8}<br>
+        ${typeof x9}<br>
+        ${typeof x10}<br>
+        ${typeof x11}<br>
+        ${typeof x12}<br>
+        ${typeof x13}<br>
+        ${typeof x14}<br>
+        ${typeof x15}
+        `
+
+        document.getElementById("minhaResposta").innerHTML = resposta;
         </script>
     </body>
 </html>
