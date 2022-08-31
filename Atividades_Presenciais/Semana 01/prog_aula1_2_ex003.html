@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programação Estruturada - Aula 1 e 2</title>
+    <style>
+        body{
+            background: rgb(43, 43, 43);
+            color: white;
+        }
+        header {
+            text-align: center;
+        }
+        section {
+            background: white;
+            color: darkslategray;
+            border-radius: 10px;
+            padding: 15px;
+            width: 500px;
+            margin: auto;
+            text-align: center;
+
+        }
+        footer {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Programação Estruturada - Aula 1 e 2</h1>
+        <h2>Exercício 3</h2>
+    </header>
+
+    <section>
+        <h3>Digite seu nome</h3>
+    
+        Nome: <input type="text" id="nome" value="">
+    
+        <button onclick="nome()">Clique Aqui</button>
+    
+        <p id="resposta"></p>
+
+    </section>
+
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+    
+    <script>
+        function nome() {
+            let nome = document.getElementById("nome").value;
+            document.getElementById("resposta").innerHTML = `Olá ${nome}, seja bem vindo(a) ao mundo da programação estruturada!`;
+        }
+    </script>
+
+
+</body>
+</html>

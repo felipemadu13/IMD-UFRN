@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programação Estruturada - Aula 1 e 2</title>
+    <style>
+        body{
+            background: rgb(43, 43, 43);
+            color: white;
+        }
+        header {
+            text-align: center;
+        }
+        section {
+            background: white;
+            color: darkslategray;
+            border-radius: 10px;
+            padding: 15px;
+            width: 500px;
+            margin: auto;
+            text-align: center;
+
+        }
+        footer {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+    <h1>Programação Estruturada - Aula 1 e 2</h1>
+    <h2>Exercício 1</h2>
+    
+    </header>
+
+    <section>
+        <h3>Digite dois números e veja sua somatória</h3>
+        x1: <input type="number" id="x1" value="">
+        x2: <input type="number" id="x2" value="">
+
+        <button onclick="soma()">Clique Aqui</button>
+
+        <p id="resposta"></p>
+
+    </section>
+
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+    
+    <script>
+        function soma() {
+          let x1 = Number(document.getElementById("x1").value);
+          let x2 = Number(document.getElementById("x2").value);
+          let resultado = x1 + x2;
+          document.getElementById("resposta").innerHTML = `A soma de ${x1} e ${x2} é ${resultado}`;
+        }
+    </script>
+</body>
+</html>
