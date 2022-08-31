@@ -17,3 +17,7 @@
 * [Exercício 4](https://github.com/felipemadu13/JavaScript_IMD/blob/20d8fe0279e950c46457e2fdb2850077f5b53ffa/Atividades_Presenciais/Semana%2001/prog_aula1_2_ex004.html)
 * [Exercício 5](https://github.com/felipemadu13/JavaScript_IMD/blob/20d8fe0279e950c46457e2fdb2850077f5b53ffa/Atividades_Presenciais/Semana%2001/prog_aula1_2_ex005.html)
 * [Exercício 6](https://github.com/felipemadu13/JavaScript_IMD/blob/20d8fe0279e950c46457e2fdb2850077f5b53ffa/Atividades_Presenciais/Semana%2001/prog_aula1_2_ex006.html)
+
+ ## Aula 03 - Atividade Moodle
+ 
+ ## Aula 04 - Atividade Moodle
