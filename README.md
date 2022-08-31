@@ -43,6 +43,11 @@
  * [Atividade 04 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/fdab2752820e9bc869f6e60bada88db93a36fc6b/Atividades_Moodle/Aula%2004/Atividade_04-4/Atividade_04_4.js)
  
  ## AP Semana 02 - Aula 03 e 04
+ * Exercício 1
+ * Exercício 2
+ * Exercício 3
+ * Exercício 4
+ * Exercício 5
  
  ## Aula 05 - Atividade Moodle
  
