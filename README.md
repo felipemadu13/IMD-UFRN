@@ -19,8 +19,19 @@
 * [Exercício 6](https://github.com/felipemadu13/JavaScript_IMD/blob/20d8fe0279e950c46457e2fdb2850077f5b53ffa/Atividades_Presenciais/Semana%2001/prog_aula1_2_ex006.html)
 
  ## Aula 03 - Atividade Moodle
+ * Atividade 01
+ * Atividade 02
+ * Atividade 03
+ * Atividade 04
+ * Atividade 05
+ * Atividade 06
+ * Atividade 07
  
  ## Aula 04 - Atividade Moodle
+ * Atividade 01
+ * Atividade 02
+ * Atividade 03
+ * Atividade 04
  
  ## AP Semana 02 - Aula 03 e 04
  
