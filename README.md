@@ -35,10 +35,12 @@
  * [Atividade 07 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-7/Atividade_03_7.js)
  
  ## Aula 04 - Atividade Moodle
- * Atividade 01
- * Atividade 02
- * Atividade 03
- * Atividade 04
+ * [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/fdab2752820e9bc869f6e60bada88db93a36fc6b/Atividades_Moodle/Aula%2004/Atividade_04-1/index.html)
+ * [Atividade 02](https://github.com/felipemadu13/JavaScript_IMD/blob/fdab2752820e9bc869f6e60bada88db93a36fc6b/Atividades_Moodle/Aula%2004/Atividade_04-2/index.html)
+ * [Atividade 03 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/fdab2752820e9bc869f6e60bada88db93a36fc6b/Atividades_Moodle/Aula%2004/Atividade_04-3/Atividade_04_3.html)
+ * [Atividade 03 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/fdab2752820e9bc869f6e60bada88db93a36fc6b/Atividades_Moodle/Aula%2004/Atividade_04-3/Atividade_04_3.js)
+ * [Atividade 04 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/fdab2752820e9bc869f6e60bada88db93a36fc6b/Atividades_Moodle/Aula%2004/Atividade_04-4/Atividade_04_4.html)
+ * [Atividade 04 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/fdab2752820e9bc869f6e60bada88db93a36fc6b/Atividades_Moodle/Aula%2004/Atividade_04-4/Atividade_04_4.js)
  
  ## AP Semana 02 - Aula 03 e 04
  
