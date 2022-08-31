@@ -10,4 +10,10 @@
 * [Atividade 03](https://github.com/felipemadu13/JavaScript_IMD/blob/badb205d9d86b0a466a072e6e3c6317cec3b3c76/Atividades_Moodle/Aula%2002/Atividade_02-3/Atividade_02-3.html)
 * [Atividade 04](https://github.com/felipemadu13/JavaScript_IMD/blob/badb205d9d86b0a466a072e6e3c6317cec3b3c76/Atividades_Moodle/Aula%2002/Atividade_02-4/Atividade_02-4.html)
 
-## Atividade Presencial - Aula 01 e 02
+## AP Semana 01 - Aula 01 e 02
+* Exercício 1
+* Exercício 2
+* Exercício 3
+* Exercício 4
+* Exercício 5
+* Exercício 6
