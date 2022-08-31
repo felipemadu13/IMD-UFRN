@@ -19,13 +19,20 @@
 * [Exercício 6](https://github.com/felipemadu13/JavaScript_IMD/blob/20d8fe0279e950c46457e2fdb2850077f5b53ffa/Atividades_Presenciais/Semana%2001/prog_aula1_2_ex006.html)
 
  ## Aula 03 - Atividade Moodle
- * Atividade 01
- * Atividade 02
- * Atividade 03
- * Atividade 04
- * Atividade 05
- * Atividade 06
- * Atividade 07
+ * [Atividade 01 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/f8f0ccd8f9213c656e1caaaa052eef491a5f5145/Atividades_Moodle/Aula%2003/Atividade_03-1/Atividade_03_1.html)
+ * [Atividade 01 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/f8f0ccd8f9213c656e1caaaa052eef491a5f5145/Atividades_Moodle/Aula%2003/Atividade_03-1/Atividade_03_1.js)
+ * Atividade 02 - HTML
+ * Atividade 02 - JS
+ * Atividade 03 - HTML
+ * Atividade 03 - JS
+ * Atividade 04 - HTML
+ * Atividade 04 - JS
+ * Atividade 05 - HTML
+ * Atividade 05 - JS
+ * Atividade 06 - HTML
+ * Atividade 06 - JS
+ * Atividade 07 - HTML
+ * Atividade 07 - JS
  
  ## Aula 04 - Atividade Moodle
  * Atividade 01
