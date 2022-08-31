@@ -1,0 +1,47 @@
+body {
+    background-color: #3a3333;
+    background-image: linear-gradient(rgba(209, 83, 49, 0.71), rgba(158, 20, 73, 0.81));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+header {
+  text-align: center;
+  background-color: pink;
+  height: 50px;
+  font-size: 30px;
+  font-weight: bold;
+}   
+
+main h2 {
+  color: white;
+}
+
+main h3 {
+  color: white;
+}
+
+
+div {
+  text-align: center;
+}
+footer {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}  
+
+a:link {
+    color: rgb(255, 255, 255);
+  }
+  
+  a:visited {
+    color: rgb(0, 0, 0);
+  }
+  
+  a:hover {
+    color: rgb(70, 9, 128);
+  }
+  
+  a:active {
+    color: rgb(255, 255, 0);
+  }
