@@ -43,11 +43,11 @@
  * [Atividade 04 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/fdab2752820e9bc869f6e60bada88db93a36fc6b/Atividades_Moodle/Aula%2004/Atividade_04-4/Atividade_04_4.js)
  
  ## AP Semana 02 - Aula 03 e 04
- * Exercício 1
- * Exercício 2
- * Exercício 3
- * Exercício 4
- * Exercício 5
+ * [Exercício 1](https://github.com/felipemadu13/JavaScript_IMD/blob/de71f8c78a50db5274c0e1757e72020ac35c228a/Atividades_Presenciais/Semana%2002/prog_aula_3_4_ex001.html)
+ * [Exercício 2](https://github.com/felipemadu13/JavaScript_IMD/blob/de71f8c78a50db5274c0e1757e72020ac35c228a/Atividades_Presenciais/Semana%2002/prog_aula_3_4_ex002.html)
+ * [Exercício 3](https://github.com/felipemadu13/JavaScript_IMD/blob/de71f8c78a50db5274c0e1757e72020ac35c228a/Atividades_Presenciais/Semana%2002/prog_aula_3_4_ex003.html)
+ * [Exercício 4](https://github.com/felipemadu13/JavaScript_IMD/blob/de71f8c78a50db5274c0e1757e72020ac35c228a/Atividades_Presenciais/Semana%2002/prog_aula_3_4_ex004.html)
+ * [Exercício 5](https://github.com/felipemadu13/JavaScript_IMD/blob/de71f8c78a50db5274c0e1757e72020ac35c228a/Atividades_Presenciais/Semana%2002/prog_aula_3_4_ex005.html)
  
  ## Aula 05 - Atividade Moodle
  
