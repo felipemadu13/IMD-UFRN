@@ -58,5 +58,8 @@
  * [Atividade 03 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/2f9eec95cb3c2fb8e8bfa249c47adc6d1b0f49cd/Atividades_Moodle/Aula%2005/Atividade_05-3/Atividade_05_3.js)
  
  ## AP Semana 03 - Aula 05
+ * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/3a09d7b2226c23b79ef652770d96ef4b1cfceac2/Atividades_Presenciais/Semana%2003/prog_aula_5_ex001.html)
+ * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/3a09d7b2226c23b79ef652770d96ef4b1cfceac2/Atividades_Presenciais/Semana%2003/prog_aula_5_ex002_01.html)
+ * [Exercício 02 - COM IF](https://github.com/felipemadu13/JavaScript_IMD/blob/3a09d7b2226c23b79ef652770d96ef4b1cfceac2/Atividades_Presenciais/Semana%2003/prog_aula_5_ex002_02.html)
  
  
