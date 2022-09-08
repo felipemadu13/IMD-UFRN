@@ -20,3 +20,7 @@ function escrever_saida(campo, valor) {
 function maior(valor, limiar) {
     return valor > limiar;
 }
+
+// A questão apresenta um erro no anunciado.
+// No anunciado pede "se os dois valores passados como entrada forem maiores que zero, ou “false”, se pelo menos um dos dois valores passados como entrada for menor ou igual a zero."
+// mas na tabela. 0 e 0 está com true

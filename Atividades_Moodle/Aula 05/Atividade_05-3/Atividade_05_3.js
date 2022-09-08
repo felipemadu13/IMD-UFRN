@@ -19,5 +19,5 @@ function escrever_saida(campo, valor) {
 }
 
 function quadrado(x) {
-    return x*x;
+    return x * x;
 }
