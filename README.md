@@ -62,4 +62,17 @@
  * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/3a09d7b2226c23b79ef652770d96ef4b1cfceac2/Atividades_Presenciais/Semana%2003/prog_aula_5_ex002_01.html)
  * [Exercício 02 - COM IF](https://github.com/felipemadu13/JavaScript_IMD/blob/3a09d7b2226c23b79ef652770d96ef4b1cfceac2/Atividades_Presenciais/Semana%2003/prog_aula_5_ex002_02.html)
  
- 
+  ## Aula 06 - Atividade Moodle
+  * Atividade 1 - HTML
+  * Atividade 1 - JS
+  * Atividade 2 - HTML
+  * Atividade 2 - JS
+  * Atividade 3 - HTML
+  * Atividade 3- JS
+  * Atividade 4 - HTML
+  * Atividade 4 - JS
+  * Atividade 5 - HTML
+  * Atividade 5 - JS
+  * Atividade 6 - HTML
+  * Atividade 6 - JS
+    
