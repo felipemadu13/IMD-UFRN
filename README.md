@@ -78,4 +78,6 @@
 
 ## AP Semana 04 - Aula 06
 * Exercício 01
+* Exercício 02
+* Exercício 03
     
