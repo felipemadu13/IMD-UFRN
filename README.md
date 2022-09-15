@@ -77,7 +77,7 @@
   * [Atividade 6 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/8244cc36057fc10d33c2b0524bdc79ceaf616a08/Atividades_Moodle/Aula%2006/Atividade_06-6/Atividade_06_6.js)
 
 ## AP Semana 04 - Aula 06
-* Exercício 01
-* Exercício 02
-* Exercício 03
+* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/f706ca86f53df01cde73fbbde6be9229cfbd8cd4/Atividades_Presenciais/Semana%2004/prog_aula_6_ex001.html)
+* [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/f706ca86f53df01cde73fbbde6be9229cfbd8cd4/Atividades_Presenciais/Semana%2004/prog_aula_6_ex002.html)
+* [Exercício 03](https://github.com/felipemadu13/JavaScript_IMD/blob/f706ca86f53df01cde73fbbde6be9229cfbd8cd4/Atividades_Presenciais/Semana%2004/prog_aula_6_ex003.html)
     
