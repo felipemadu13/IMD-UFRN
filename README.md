@@ -18,4 +18,5 @@
  * [Aula 05 - Exercício 01](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/8f8f2f40b86327878d67e8792e680f2589d85523/Atividades_Presenciais/Semana%2003/front_aula_5_ex001.html)
  
  ## AP Semana 04 - Aula 06
- * Exercício 01
+ * Exercício 01 - HTML
+ * Exercício 02 - CSS
