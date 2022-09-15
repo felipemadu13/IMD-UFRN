@@ -75,4 +75,7 @@
   * [Atividade 5 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/8244cc36057fc10d33c2b0524bdc79ceaf616a08/Atividades_Moodle/Aula%2006/Atividade_06-5/Atividade_06_5.js)
   * [Atividade 6 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/8244cc36057fc10d33c2b0524bdc79ceaf616a08/Atividades_Moodle/Aula%2006/Atividade_06-6/Atividade_06_6.html)
   * [Atividade 6 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/8244cc36057fc10d33c2b0524bdc79ceaf616a08/Atividades_Moodle/Aula%2006/Atividade_06-6/Atividade_06_6.js)
+
+## AP Semana 04 - Aula 06
+* Exercício 01
     
