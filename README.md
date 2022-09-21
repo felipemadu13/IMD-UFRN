@@ -81,3 +81,30 @@
 * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/f706ca86f53df01cde73fbbde6be9229cfbd8cd4/Atividades_Presenciais/Semana%2004/prog_aula_6_ex002.html)
 * [Exercício 03](https://github.com/felipemadu13/JavaScript_IMD/blob/f706ca86f53df01cde73fbbde6be9229cfbd8cd4/Atividades_Presenciais/Semana%2004/prog_aula_6_ex003.html)
     
+## AP Semana 04 - Aula 07
+* Atividade 01 - HTML
+* Atividade 01 - JS
+* Atividade 02 - HTML
+* Atividade 02 - JS
+* Atividade 03 - HTML
+* Atividade 03 - JS
+* Atividade 04 - HTML
+* Atividade 04 - JS
+* Atividade 05 - HTML
+* Atividade 05 - JS
+* Atividade 06 - HTML
+* Atividade 06 - JS
+
+## AP Semana 04 - Aula 08
+* Atividade 01 - HTML
+* Atividade 01 - JS
+* Atividade 02 - HTML
+* Atividade 02 - JS
+* Atividade 03 - HTML
+* Atividade 03 - JS
+* Atividade 04 - HTML
+* Atividade 04 - JS
+* Atividade 05 - HTML
+* Atividade 05 - JS
+* Atividade 06 - HTML
+* Atividade 06 - JS
