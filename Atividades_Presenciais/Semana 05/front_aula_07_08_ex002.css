@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+div {
+    background-color: green;
+    display: inline-block;
+    height: 50px;
+    padding: 5px;
+}
+
+div#p1 {
+    width: 10%;
+}
+
+div#p2 {
+    width: 20%;
+}
+
+div#p3 {
+    width: 40%;
+}
+
+div#p4 {
+    width: 60%;
+}
+
+span#p5 {
+    background-color: green;
+    display: inline-block;
+    height: 50px;
+    padding: 5px;
+    width: 80%;
+}
+
+footer{
+    text-align: center;
+}
