@@ -20,3 +20,8 @@
  ## AP Semana 04 - Aula 06
  * [Exercício 01 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/3dceb55da26d828a50d7278eb1d1d8df762560de/Atividades_Presenciais/Semana%2004/front_aula_5_ex001_html.html)
  * [Exercício 02 - CSS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/3dceb55da26d828a50d7278eb1d1d8df762560de/Atividades_Presenciais/Semana%2004/front_aula_5_ex001_css.css)
+
+ ## AP Semana 05 - Aula 07 e 08
+ * Exercício 01 - HTML
+ * Exercício 01 - CSS
+ 
