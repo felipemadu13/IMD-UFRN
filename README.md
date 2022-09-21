@@ -24,4 +24,6 @@
  ## AP Semana 05 - Aula 07 e 08
  * Exercício 01 - HTML
  * Exercício 01 - CSS
+ * Exercício 02 - HTML
+ * Exercício 02 - CSS
  
