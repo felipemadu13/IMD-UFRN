@@ -1,0 +1,35 @@
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Programação Estruturada</title>
+</head>
+
+<body>
+    <h1>Exercício 02 - Aula 07 e 08</h1>
+    <h2>Entrada do Programa</h2>
+    <h3>Descubra a hora atual!</h3>
+    <button onclick='executarExercicio()'>OK</button>
+    <p id="resultado"></p>
+    <script>
+        function executarExercicio() {
+            var data = new Date()
+            var texto = data.toString()
+            document.getElementById('resultado').innerHTML = texto;
+
+            var dia = texto.slice(7, 10)
+            var mes = texto.slice(4, 8)
+            var ano = texto.slice(10, 15)
+            var hora = texto.slice(16, 18)
+            var minutos = texto.slice(19, 21)
+
+            document.getElementById('resultado').innerHTML = `Data: ${dia} de ${mes} de ${ano} <br> Hora: ${hora}h${minutos}`;
+        }
+    </script>
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+</body>
+
+</html>

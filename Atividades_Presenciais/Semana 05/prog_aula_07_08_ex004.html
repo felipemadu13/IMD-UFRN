@@ -1,0 +1,54 @@
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Programação Estruturada</title>
+</head>
+
+<body>
+    <h1>Exercício 04 - Aula 07 e 08</h1>
+    <h2>Entrada do Programa</h2>
+    <h3>Em que dia da semana cai/caiu esta data?</h3>
+    Dia: <input id="dia" value=""><br />
+    Mês: <input id="mes" value=""><br />
+    Ano: <input id="ano" value=""><br />
+    <button onclick='executarExercicio()'>OK</button>
+    <p id="resultado"></p>
+    <script>
+        function executarExercicio() {
+            var dia = Number(document.getElementById('dia').value);
+            var mes = Number(document.getElementById('mes').value) - 1;
+            var ano = Number(document.getElementById('ano').value);
+
+
+            var data = new Date(ano, mes, dia)
+            var diadata = data.getDay()
+
+            if (diadata == 0) {
+                document.getElementById('resultado').innerHTML = `Este dia cai/caiu em um <strong>Domingo</strong>`;
+            } else if (diadata == 1) {
+                document.getElementById('resultado').innerHTML = `Este dia cai/caiu em uma <strong>Segunda-feira</strong>`;
+            } else if (diadata == 2) {
+                document.getElementById('resultado').innerHTML = `Este dia cai/caiu em uma <strong>Terça-feira</strong>`;
+            } else if (diadata == 3) {
+                document.getElementById('resultado').innerHTML = `Este dia cai/caiu em uma <strong>Quarta-feira</strong>`;
+            } else if (diadata == 4) {
+                document.getElementById('resultado').innerHTML = `Este dia cai/caiu em uma <strong>Quinta-feira</strong>`;
+            } else if (diadata == 5) {
+                document.getElementById('resultado').innerHTML = `Este dia cai/caiu em uma <strong>Sexta-feira</strong>`;
+            } else if (diadata == 6) {
+                document.getElementById('resultado').innerHTML = `Este dia cai/caiu em um <strong>Sábado</strong>`;
+            } else {
+                document.getElementById('resultado').innerHTML = `Data Inválida`;
+            }
+
+
+        }
+    </script>
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+</body>
+
+</html>
