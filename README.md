@@ -22,8 +22,8 @@
  * [Exercício 02 - CSS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/3dceb55da26d828a50d7278eb1d1d8df762560de/Atividades_Presenciais/Semana%2004/front_aula_5_ex001_css.css)
 
  ## AP Semana 05 - Aula 07 e 08
- * Exercício 01 - HTML
- * Exercício 01 - CSS
- * Exercício 02 - HTML
- * Exercício 02 - CSS
+ * [Exercício 01 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/9f1852cedab567b7b42ff4c17dfd10e07ce665d9/Atividades_Presenciais/Semana%2005/front_aula_07_08_ex001.html)
+ * [Exercício 01 - CSS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/9f1852cedab567b7b42ff4c17dfd10e07ce665d9/Atividades_Presenciais/Semana%2005/front_aula_07_08_ex001.css)
+ * [Exercício 02 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/9f1852cedab567b7b42ff4c17dfd10e07ce665d9/Atividades_Presenciais/Semana%2005/front_aula_07_08_ex002.html)
+ * [Exercício 02 - CSS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/9f1852cedab567b7b42ff4c17dfd10e07ce665d9/Atividades_Presenciais/Semana%2005/front_aula_07_08_ex002.css)
  
