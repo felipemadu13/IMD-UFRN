@@ -110,10 +110,10 @@
 * [Atividade 06 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/ed9be7ca35e48a0eeda455e0be6e8e00ee64a9f3/Atividades_Moodle/Aula%2008/Atividade_08-6/Atividade_08_6.js)
 
 ## AP Semana 05 - Aula 07 e 08
-* Exercício 01
-* Exercício 02
-* Exercício 03
-* Exercício 04
-* Exercício 05
+* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/c17e7715dce209fabfa30f49d22ef9e0dd812abe/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex001.html)
+* [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/c17e7715dce209fabfa30f49d22ef9e0dd812abe/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex002.html)
+* [Exercício 03](https://github.com/felipemadu13/JavaScript_IMD/blob/c17e7715dce209fabfa30f49d22ef9e0dd812abe/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex003.html)
+* [Exercício 04](https://github.com/felipemadu13/JavaScript_IMD/blob/c17e7715dce209fabfa30f49d22ef9e0dd812abe/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex004.html)
+* [Exercício 05](https://github.com/felipemadu13/JavaScript_IMD/blob/c17e7715dce209fabfa30f49d22ef9e0dd812abe/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex005.html)
 
 
