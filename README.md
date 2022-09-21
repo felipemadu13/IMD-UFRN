@@ -82,18 +82,18 @@
 * [Exercício 03](https://github.com/felipemadu13/JavaScript_IMD/blob/f706ca86f53df01cde73fbbde6be9229cfbd8cd4/Atividades_Presenciais/Semana%2004/prog_aula_6_ex003.html)
     
 ## AP Semana 04 - Aula 07
-* Atividade 01 - HTML
-* Atividade 01 - JS
-* Atividade 02 - HTML
-* Atividade 02 - JS
-* Atividade 03 - HTML
-* Atividade 03 - JS
-* Atividade 04 - HTML
-* Atividade 04 - JS
-* Atividade 05 - HTML
-* Atividade 05 - JS
-* Atividade 06 - HTML
-* Atividade 06 - JS
+* [Atividade 01 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-1/Atividade_07_1.html)
+* [Atividade 01 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-1/Atividade_07_1.js)
+* [Atividade 02 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-2/Atividade_07_2.html)
+* [Atividade 02 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-2/Atividade_07_2.js)
+* [Atividade 03 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-3/Atividade_07_3.html)
+* [Atividade 03 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-3/Atividade_07_3.js)
+* [Atividade 04 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-4/Atividade_07_4.html)
+* [Atividade 04 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-4/Atividade_07_4.js)
+* [Atividade 05 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-5/Atividade_07_5.html)
+* [Atividade 05 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-5/Atividade_07_5.js)
+* [Atividade 06 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-6/Atividade_07_6.html)
+* [Atividade 06 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a39ead8c5caa033676270f09b6931254a5776135/Atividades_Moodle/Aula%2007/Atividade_07-6/Atividade_07_6.js)
 
 ## AP Semana 04 - Aula 08
 * Atividade 01 - HTML
