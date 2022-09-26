@@ -116,4 +116,17 @@
 * [Exercício 04](https://github.com/felipemadu13/JavaScript_IMD/blob/c17e7715dce209fabfa30f49d22ef9e0dd812abe/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex004.html)
 * [Exercício 05](https://github.com/felipemadu13/JavaScript_IMD/blob/c17e7715dce209fabfa30f49d22ef9e0dd812abe/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex005.html)
 
-
+ ## Aula 09 - Atividade Moodle
+ * Atividade 01 - HTML
+ * Atividade 01 - JS
+ * Atividade 02 - HTML
+ * Atividade 02 - JS
+ * Atividade 03 - HTML
+ * Atividade 03 - JS
+ * Atividade 04 - HTML
+ * Atividade 04 - JS
+ * Atividade 05 - HTML
+ * Atividade 05 - JS
+ 
+ 
+ 
