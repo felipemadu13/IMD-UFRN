@@ -116,4 +116,29 @@
 * [Exercício 04](https://github.com/felipemadu13/JavaScript_IMD/blob/c17e7715dce209fabfa30f49d22ef9e0dd812abe/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex004.html)
 * [Exercício 05](https://github.com/felipemadu13/JavaScript_IMD/blob/c17e7715dce209fabfa30f49d22ef9e0dd812abe/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex005.html)
 
+ ## Aula 09 - Atividade Moodle
+ * [Atividade 01 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/949b723bb8f981e196cedb9ddca4a943ed15211b/Atividades_Moodle/Aula%2009/Atividade_09-1/Atividade_09_1.html)
+ * [Atividade 01 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/main/Atividades_Moodle/Aula%2009/Atividade_09-1/Atividade_09_1.js)
+ * [Atividade 02 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/87a180b7301c35d5949acf1eb0596993de5d0b92/Atividades_Moodle/Aula%2009/Atividade_09-2/Atividade_09_2.html)
+ * [Atividade 02 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/87a180b7301c35d5949acf1eb0596993de5d0b92/Atividades_Moodle/Aula%2009/Atividade_09-2/Atividade_09_2.js)
+ * [Atividade 03 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/87a180b7301c35d5949acf1eb0596993de5d0b92/Atividades_Moodle/Aula%2009/Atividade_09-3/Atividade_09_3.html)
+ * [Atividade 03 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/87a180b7301c35d5949acf1eb0596993de5d0b92/Atividades_Moodle/Aula%2009/Atividade_09-3/Atividade_09_3.js)
+ * [Atividade 04 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/87a180b7301c35d5949acf1eb0596993de5d0b92/Atividades_Moodle/Aula%2009/Atividade_09-4/Atividade_09_4.html)
+ * [Atividade 04 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/87a180b7301c35d5949acf1eb0596993de5d0b92/Atividades_Moodle/Aula%2009/Atividade_09-4/Atividade_09_4.js)
+ * [Atividade 05 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/87a180b7301c35d5949acf1eb0596993de5d0b92/Atividades_Moodle/Aula%2009/Atividade_09-5/Atividade_09_5.html)
+ * [Atividade 05 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/87a180b7301c35d5949acf1eb0596993de5d0b92/Atividades_Moodle/Aula%2009/Atividade_09-5/Atividade_09_5.js)
 
+ ## Aula 10 - Atividade Moodle
+ * Atividade 01 - HTML
+ * Atividade 01 - JS
+ * Atividade 02 - HTML
+ * Atividade 02 - JS
+ * Atividade 03 - HTML
+ * Atividade 03 - JS
+ * Atividade 04 - HTML
+ * Atividade 04 - JS
+ * Atividade 05 - HTML
+ * Atividade 05 - JS
+ 
+ 
+ 
