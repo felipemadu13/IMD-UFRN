@@ -142,11 +142,11 @@
  
  
  ## AP Semana 06 - Aula 09 e 10
- * Exercício 01
- * Exercício 02
- * Exercício 03
- * Exercício 04
- * Exercício 05
- * Exercício 06 [for]
- * Exercício 06 [while]
- * Exercício 07
+ * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex001.html)
+ * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex002.html)
+ * [Exercício 03](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex003.html)
+ * [Exercício 04](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex004.html)
+ * [Exercício 05](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex005.html)
+ * [Exercício 06 [for]](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex006.1.html)
+ * [Exercício 06 [while]](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex006.2.html)
+ * [Exercício 07](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex007.html)
