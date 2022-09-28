@@ -28,7 +28,7 @@
  * [Exercício 02 - CSS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/9f1852cedab567b7b42ff4c17dfd10e07ce665d9/Atividades_Presenciais/Semana%2005/front_aula_07_08_ex002.css)
  
  ## AP Semana 05 - Aula 09
- * Exercício 01 - HTML
- * Exercício 01 - CSS
- * Exercício 01 - IMAGEM
- * Exercício 01 - IMAGEM
+ * [Exercício 01 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/965548de49fb1ef8bf3b9c5660f2ca207a71dfcf/Atividades_Presenciais/Semana%2006/front_aula_09_ex001.html)
+ * [Exercício 01 - CSS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/965548de49fb1ef8bf3b9c5660f2ca207a71dfcf/Atividades_Presenciais/Semana%2006/front_aula_09_ex001.css)
+ * [Exercício 01 - FACEBOOK LOGO](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/965548de49fb1ef8bf3b9c5660f2ca207a71dfcf/Atividades_Presenciais/Semana%2006/front_aula_09_ex001_facebook.png)
+ * [Exercício 01 - HEADER](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/965548de49fb1ef8bf3b9c5660f2ca207a71dfcf/Atividades_Presenciais/Semana%2006/front_aula_09_ex001_header.jpg)
