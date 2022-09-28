@@ -1,0 +1,36 @@
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Programação Estruturada</title>
+</head>
+
+<body>
+    <h1>Entrada do Programa</h1>
+    <h2>Exercício 01 - Aula 09 e 10</h2>
+    N1: <input type="number" id="a" value=""><br/>
+    <button onclick='executarExercicio()'>OK</button>
+    <p id="resultado"></p>
+    <script>
+        function executarExercicio() {
+            var a = Number(document.getElementById('a').value);
+            var resultado = ""
+           
+            if (a > 0) {
+                resultado = `O valor ${a} é positivo`
+            } else if (a < 0) {
+                resultado = `O valor ${a} é negativo` 
+            } else {
+                resultado = `O valor é zero`
+            }
+    
+            document.getElementById('resultado').innerHTML = resultado;
+        }
+    </script>
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+</body>
+
+</html>

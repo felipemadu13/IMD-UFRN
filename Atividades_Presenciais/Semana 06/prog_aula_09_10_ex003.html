@@ -1,0 +1,35 @@
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Programação Estruturada</title>
+</head>
+
+<body>
+    <h1>Entrada do Programa</h1>
+    <h2>Exercício 03 - Aula 09 e 10</h2>
+    X: <input type="number" id="x" value=""><br />
+    Y: <input type="number" id="y" value=""><br />
+    <button onclick='executarExercicio()'>OK</button>
+    <p id="resultado"></p>
+    <script>
+        function executarExercicio() {
+            var x = Number(document.getElementById('x').value);
+            var y = Number(document.getElementById('y').value);
+            var soma = 0
+
+            while (x <= y) {
+                soma = x + soma
+                x++;
+            }
+            document.getElementById('resultado').innerHTML = soma
+ 
+        }
+    </script>
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+</body>
+
+</html>
