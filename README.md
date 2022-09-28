@@ -28,4 +28,7 @@
  * [Exercício 02 - CSS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/9f1852cedab567b7b42ff4c17dfd10e07ce665d9/Atividades_Presenciais/Semana%2005/front_aula_07_08_ex002.css)
  
  ## AP Semana 05 - Aula 09
- * Exercício 01
+ * Exercício 01 - HTML
+ * Exercício 01 - CSS
+ * Exercício 01 - IMAGEM
+ * Exercício 01 - IMAGEM
