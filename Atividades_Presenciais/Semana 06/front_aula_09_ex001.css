@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    background-color: white;
+    width: 1080px;
+    margin: auto;
+}
+
+#conteudo {
+    padding: 16px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #eeeeee;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#topo {
+    padding: 4px;
+    background-color: rgb(50, 50, 50);
+    text-align: right;
+    padding-right: 10px;
+}
+
+#navegacao {
+    background-color: rgb(50, 50, 50);
+    margin: 0px;
+    position: sticky;
+    top: 0px;
+}
+
+#destaque {
+    height: 300px;
+    margin: 0px;
+    background-color: blueviolet;
+}
+
+.menu {
+    list-style: none;
+    padding: 16px;
+    margin-top: 0px;
+    margin: 0px;
+}
+
+.menu > li {
+    display: inline;
+    padding: 16px;
+}
+
+#rodape {
+    background-color: rgb(50, 50, 50);
+    padding: 16px;
+    text-align: center;
+}
+
+.icon {
+    width: 2em;
+}
+
+
