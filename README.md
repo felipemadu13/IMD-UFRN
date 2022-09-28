@@ -141,4 +141,12 @@
  * [Atividade 05 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/eae0ad31a2e6604c1d818ef6214a7bf683e720d9/Atividades_Moodle/Aula%2010/Atividade_10-5/Atividade_10_5.js)
  
  
- 
+ ## AP Semana 06 - Aula 09 e 10
+ * Exercício 01
+ * Exercício 02
+ * Exercício 03
+ * Exercício 04
+ * Exercício 05
+ * Exercício 06 [for]
+ * Exercício 06 [while]
+ * Exercício 07
