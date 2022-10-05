@@ -1,0 +1,52 @@
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Programação Estruturada</title>
+</head>
+
+<body>
+    <h1>Entrada do Programa</h1>
+    <h2>Exercício 03 - Aula 11 e 12</h2>
+    <button onclick='executarExercicio()'>OK</button>
+    <p id="resultado"></p>
+    <p id="resultado2"></p>
+    <script>
+        var matriz = [
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        [0,0,0,0,0],
+        ];
+
+        function executarExercicio() {
+    
+            for (var i = 0; i < 10; i++) {
+                for (var j = 0; j < 5; j++) {
+                    matriz[i][j] = Number(prompt("Informe um número:"));
+                }
+            }
+            var coluna = Number(prompt("Informe o número da coluna (0 a 9):"));
+
+            var resultado = matriz[0][coluna] + matriz[1][coluna] + matriz[2][coluna] + matriz[3][coluna] + matriz[4][coluna] + matriz[5][coluna] + matriz[6][coluna] + matriz[7][coluna] + matriz[8][coluna] + matriz[9][coluna];
+
+
+            document.getElementById('resultado').innerHTML = resultado;
+            document.getElementById('resultado2').innerHTML = matriz;
+        }
+
+
+    </script>
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+</body>
+
+</html>
