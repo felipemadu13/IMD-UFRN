@@ -158,28 +158,28 @@
   * [Atividade 02 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/5f316a9f99360c59b689e4d1e6adfe43ae8f4946/Atividades_Moodle/Aula%2011/Atividade_11-2/Atividade_11_2.js)
   * [Atividade 03 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/5f316a9f99360c59b689e4d1e6adfe43ae8f4946/Atividades_Moodle/Aula%2011/Atividade_11-3/Atividade_11_3.html)
   * [Atividade 03 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/5f316a9f99360c59b689e4d1e6adfe43ae8f4946/Atividades_Moodle/Aula%2011/Atividade_11-3/Atividade_11_3.js)
-  * Atividade 04 - HTML
-  * Atividade 04 - JS
-  * Atividade 05 - HTML
-  * Atividade 05 - JS
-  * Atividade 06 - HTML
-  * Atividade 06 - JS
-  * Atividade 07 - HTML
-  * Atividade 07 - JS
+  * [Atividade 04 - HTML]
+  * [Atividade 04 - JS]
+  * [Atividade 05 - HTML]
+  * [Atividade 05 - JS]
+  * [Atividade 06 - HTML]
+  * [Atividade 06 - JS]
+  * [Atividade 07 - HTML]
+  * [Atividade 07 - JS]
 
   ## Aula 12 - Atividade Moodle
-  * Atividade 01 - HTML
-  * Atividade 01 - JS
-  * Atividade 02 - HTML
-  * Atividade 02 - JS
-  * Atividade 03 - HTML
-  * Atividade 03 - JS
-  * Atividade 04 - HTML
-  * Atividade 04 - JS
-  * Atividade 05 - HTML
-  * Atividade 05 - JS
-  * Atividade 06 - HTML
-  * Atividade 06 - JS
+  * [Atividade 01 - HTML]
+  * [Atividade 01 - JS]
+  * [Atividade 02 - HTML]
+  * [Atividade 02 - JS]
+  * [Atividade 03 - HTML]
+  * [Atividade 03 - JS]
+  * [Atividade 04 - HTML]
+  * [Atividade 04 - JS]
+  * [Atividade 05 - HTML]
+  * [Atividade 05 - JS]
+  * [Atividade 06 - HTML]
+  * [Atividade 06 - JS]
   
    ## AP Semana 07 - Aula 10 e 11
    * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/a34de2556b83f046af73973abbf8c61493e3aca6/Atividades_Presenciais/Semana%2007/prog_aula_11_12_ex001.html)
