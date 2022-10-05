@@ -150,3 +150,35 @@
  * [Exercício 06 [for]](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex006.1.html)
  * [Exercício 06 [while]](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex006.2.html)
  * [Exercício 07](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex007.html)
+ 
+  ## Aula 11 - Atividade Moodle
+  * Atividade 01 - HTML
+  * Atividade 01 - JS
+  * Atividade 02 - HTML
+  * Atividade 02 - JS
+  * Atividade 03 - HTML
+  * Atividade 03 - JS
+  * Atividade 04 - HTML
+  * Atividade 04 - JS
+  * Atividade 05 - HTML
+  * Atividade 05 - JS
+  * Atividade 06 - HTML
+  * Atividade 06 - JS
+  * Atividade 07 - HTML
+  * Atividade 07 - JS
+
+  ## Aula 12 - Atividade Moodle
+  * Atividade 01 - HTML
+  * Atividade 01 - JS
+  * Atividade 02 - HTML
+  * Atividade 02 - JS
+  * Atividade 03 - HTML
+  * Atividade 03 - JS
+  * Atividade 04 - HTML
+  * Atividade 04 - JS
+  * Atividade 05 - HTML
+  * Atividade 05 - JS
+  * Atividade 06 - HTML
+  * Atividade 06 - JS
+  
+  
