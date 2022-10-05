@@ -150,3 +150,13 @@
  * [Exercício 06 [for]](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex006.1.html)
  * [Exercício 06 [while]](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex006.2.html)
  * [Exercício 07](https://github.com/felipemadu13/JavaScript_IMD/blob/568b61f8b696eb83952c1e8bc4e09d5fd602c692/Atividades_Presenciais/Semana%2006/prog_aula_09_10_ex007.html)
+ 
+  ## Aula 09 - Atividade Moodle
+  * Atividade 01
+  * Atividade 01
+  * Atividade 02
+  * Atividade 02
+  * Atividade 03
+  * Atividade 03
+  
+  
