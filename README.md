@@ -182,4 +182,7 @@
   * Atividade 06 - JS
   
    ## AP Semana 07 - Aula 10 e 11
+   * Exercício 01
+   * Exercício 02
+   * Exercício 03
   
