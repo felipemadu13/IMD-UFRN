@@ -182,7 +182,7 @@
   * Atividade 06 - JS
   
    ## AP Semana 07 - Aula 10 e 11
-   * Exercício 01
-   * Exercício 02
-   * Exercício 03
+   * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/a34de2556b83f046af73973abbf8c61493e3aca6/Atividades_Presenciais/Semana%2007/prog_aula_11_12_ex001.html)
+   * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/a34de2556b83f046af73973abbf8c61493e3aca6/Atividades_Presenciais/Semana%2007/prog_aula_11_12_ex002.html)
+   * [Exercício 03](https://github.com/felipemadu13/JavaScript_IMD/blob/a34de2556b83f046af73973abbf8c61493e3aca6/Atividades_Presenciais/Semana%2007/prog_aula_11_12_ex003.html)
   
