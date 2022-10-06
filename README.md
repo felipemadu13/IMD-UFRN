@@ -34,7 +34,7 @@
  * [Exercício 01 - HEADER](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/965548de49fb1ef8bf3b9c5660f2ca207a71dfcf/Atividades_Presenciais/Semana%2006/front_aula_09_ex001_header.jpg)
  
   ## AP Semana 05 - Aula 10 e 11
-  * Aula 10 - Exercício 01 - HTML
-  * Aula 10 - Exercício 01 - 
+  * [Aula 10 - Exercício 01 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/e94e93cddb7a2f4aa0d03bff022677f1bf72f48b/Atividades_Presenciais/Semana%2007/front_aula_10_ex001.html)
+  * [Aula 10 - Exercício 01 - MP3](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/e94e93cddb7a2f4aa0d03bff022677f1bf72f48b/Atividades_Presenciais/Semana%2007/front_aula_10_ex001.mp3)
   * Aula 10 - Exercício 02 - HTML
   * Aula 10 - Exercício 02
