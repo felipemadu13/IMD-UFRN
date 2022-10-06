@@ -37,4 +37,5 @@
   * [Aula 10 - Exercício 01 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/e94e93cddb7a2f4aa0d03bff022677f1bf72f48b/Atividades_Presenciais/Semana%2007/front_aula_10_ex001.html)
   * [Aula 10 - Exercício 01 - MP3](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/e94e93cddb7a2f4aa0d03bff022677f1bf72f48b/Atividades_Presenciais/Semana%2007/front_aula_10_ex001.mp3)
   * Aula 10 - Exercício 02 - HTML
-  * Aula 10 - Exercício 02
+  * Aula 10 - Exercício 02 - MP4
+  * Aula 10 - Exercício 02 - THUMB
