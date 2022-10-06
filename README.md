@@ -36,6 +36,9 @@
   ## AP Semana 05 - Aula 10 e 11
   * [Aula 10 - Exercício 01 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/e94e93cddb7a2f4aa0d03bff022677f1bf72f48b/Atividades_Presenciais/Semana%2007/front_aula_10_ex001.html)
   * [Aula 10 - Exercício 01 - MP3](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/e94e93cddb7a2f4aa0d03bff022677f1bf72f48b/Atividades_Presenciais/Semana%2007/front_aula_10_ex001.mp3)
-  * Aula 10 - Exercício 02 - HTML
-  * Aula 10 - Exercício 02 - MP4
-  * Aula 10 - Exercício 02 - THUMB
+  * [Aula 10 - Exercício 02 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/c57bac44ecb7a69f529b7d82505d55fe632e4cec/Atividades_Presenciais/Semana%2007/front_aula_10_ex002.html)
+  * [Aula 10 - Exercício 02 - MP4](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/c57bac44ecb7a69f529b7d82505d55fe632e4cec/Atividades_Presenciais/Semana%2007/front_aula_10_ex002.mp4)
+  * [Aula 10 - Exercício 02 - THUMB](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/c57bac44ecb7a69f529b7d82505d55fe632e4cec/Atividades_Presenciais/Semana%2007/front_aula_10_ex002_thumb.jpg)
+  * Aula 11 - Exercício 01 - HTML
+  * Aula 11 - Exercício 01 - CSS
+  * Aula 11 - Exercício 01 - LOGO
