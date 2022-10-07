@@ -186,3 +186,7 @@
    * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/a34de2556b83f046af73973abbf8c61493e3aca6/Atividades_Presenciais/Semana%2007/prog_aula_11_12_ex002.html)
    * [Exercício 03](https://github.com/felipemadu13/JavaScript_IMD/blob/a34de2556b83f046af73973abbf8c61493e3aca6/Atividades_Presenciais/Semana%2007/prog_aula_11_12_ex003.html)
   
+  ## Aula 13 - Atividade Moodle
+  * Atividade 01 - HTML
+  * Atividade 01 - JS - ITERAÇÃO
+  * Atividade 01 - JS - RECURSIVA
