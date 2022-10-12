@@ -44,6 +44,6 @@
   * [Aula 11 - Exercício 01 - LOGO](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/66f696537b10db61e7ec703ad27e6bf96f32d065/Atividades_Presenciais/Semana%2007/front_aula_11_ex001_logo.png)
   
  ## AP Semana 08 - Aula 12 e 13
- * Exercício 01 - HTML
- * Exercício 01 - CSS
- * Exercício 01 - LOGO
+ * [Exercício 01 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/edd5121855fe2c8e27cb81dcba414155368d4ae8/Atividades_Presenciais/Semana%2008/front_aula_12_13_ex001.html)
+ * [Exercício 01 - CSS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/edd5121855fe2c8e27cb81dcba414155368d4ae8/Atividades_Presenciais/Semana%2008/front_aula_12_13_ex001.css)
+ * [Exercício 01 - LOGO](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/edd5121855fe2c8e27cb81dcba414155368d4ae8/Atividades_Presenciais/Semana%2008/front_aula_12_13_ex001_logo.png)
