@@ -212,5 +212,5 @@
 * [Atividade 05 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/12256ebf2b3514a1c6a1cfde2e268a59b05d24a1/Atividades_Moodle/Aula%2014/Atividade_14-5/Atividade_14_5.js)
   
  ## AP Semana 08 - Aula 12 e 13
- * Exercício 01
- * Exercício 02
+ * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/a782b8d2e5d32f7535785ba442c75a21035075da/Atividades_Presenciais/Semana%2008/prog_aula_13_14_ex001.html)
+ * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/a782b8d2e5d32f7535785ba442c75a21035075da/Atividades_Presenciais/Semana%2008/prog_aula_13_14_ex002.html)
