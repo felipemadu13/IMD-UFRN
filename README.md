@@ -186,7 +186,29 @@
    * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/a34de2556b83f046af73973abbf8c61493e3aca6/Atividades_Presenciais/Semana%2007/prog_aula_11_12_ex002.html)
    * [Exercício 03](https://github.com/felipemadu13/JavaScript_IMD/blob/a34de2556b83f046af73973abbf8c61493e3aca6/Atividades_Presenciais/Semana%2007/prog_aula_11_12_ex003.html)
   
-  ## Aula 13 - Atividade Moodle
-  * Atividade 01 - HTML
-  * Atividade 01 - JS - ITERAÇÃO
-  * Atividade 01 - JS - RECURSIVA
+## Aula 13 - Atividade Moodle
+* [Atividade 01 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/e5512b15a290dbb1849604039598c7839cc6cc76/Atividades_Moodle/Aula%2013/Atividade_13-1/Atividade_13_1.html)
+* [Atividade 01 - JS - ITERAÇÃO](https://github.com/felipemadu13/JavaScript_IMD/blob/ff95edd50097b9b4ec21b2bcb6e7f304d21af5d3/Atividades_Moodle/Aula%2013/Atividade_13-1/Atividade_13_1.js)
+* [Atividade 01 - JS - RECURSIVA](https://github.com/felipemadu13/JavaScript_IMD/blob/ff95edd50097b9b4ec21b2bcb6e7f304d21af5d3/Atividades_Moodle/Aula%2013/Atividade_13-1/Atividade_13_1_recursiva.js)
+* [Atividade 02 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/ff95edd50097b9b4ec21b2bcb6e7f304d21af5d3/Atividades_Moodle/Aula%2013/Atividade_13-2/Atividade_13_2.html)
+* [Atividade 02 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/ff95edd50097b9b4ec21b2bcb6e7f304d21af5d3/Atividades_Moodle/Aula%2013/Atividade_13-2/Atividade_13_2.js)
+* [Atividade 03 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/ff95edd50097b9b4ec21b2bcb6e7f304d21af5d3/Atividades_Moodle/Aula%2013/Atividade_13-3/Atividade_13_3.html)
+* [Atividade 03 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/ff95edd50097b9b4ec21b2bcb6e7f304d21af5d3/Atividades_Moodle/Aula%2013/Atividade_13-3/Atividade_13_3.js)
+* [Atividade 04 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/ff95edd50097b9b4ec21b2bcb6e7f304d21af5d3/Atividades_Moodle/Aula%2013/Atividade_13-4/Atividade_13_4.html)
+* [Atividade 04 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/ff95edd50097b9b4ec21b2bcb6e7f304d21af5d3/Atividades_Moodle/Aula%2013/Atividade_13-4/Atividade_13_4.js)
+* [Atividade 05 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/ff95edd50097b9b4ec21b2bcb6e7f304d21af5d3/Atividades_Moodle/Aula%2013/Atividade_13-5/Atividade_13_5.html)
+* [Atividade 05 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/ff95edd50097b9b4ec21b2bcb6e7f304d21af5d3/Atividades_Moodle/Aula%2013/Atividade_13-5/Atividade_13_5.js)
+  
+## Aula 14 - Atividade Moodle
+* [Atividade 01 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/12256ebf2b3514a1c6a1cfde2e268a59b05d24a1/Atividades_Moodle/Aula%2014/Atividade_14-1/Atividade_14_1.html)
+* [Atividade 01 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/12256ebf2b3514a1c6a1cfde2e268a59b05d24a1/Atividades_Moodle/Aula%2014/Atividade_14-1/Atividade_14_1.js)
+* [Atividade 02 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/12256ebf2b3514a1c6a1cfde2e268a59b05d24a1/Atividades_Moodle/Aula%2014/Atividade_14-2/Atividade_14_2.html)
+* [Atividade 02 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/12256ebf2b3514a1c6a1cfde2e268a59b05d24a1/Atividades_Moodle/Aula%2014/Atividade_14-2/Atividade_14_2.js)
+* [Atividade 03 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/12256ebf2b3514a1c6a1cfde2e268a59b05d24a1/Atividades_Moodle/Aula%2014/Atividade_14-3/Atividade_14_3.html)
+* [Atividade 03 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/12256ebf2b3514a1c6a1cfde2e268a59b05d24a1/Atividades_Moodle/Aula%2014/Atividade_14-3/Atividade_14_3.js)
+* [Atividade 04 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/12256ebf2b3514a1c6a1cfde2e268a59b05d24a1/Atividades_Moodle/Aula%2014/Atividade_14-4/Atividade_14_4.html)
+* [Atividade 04 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/12256ebf2b3514a1c6a1cfde2e268a59b05d24a1/Atividades_Moodle/Aula%2014/Atividade_14-4/Atividade_14_4.js)
+* [Atividade 05 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/12256ebf2b3514a1c6a1cfde2e268a59b05d24a1/Atividades_Moodle/Aula%2014/Atividade_14-5/Atividade_14_5.html)
+* [Atividade 05 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/12256ebf2b3514a1c6a1cfde2e268a59b05d24a1/Atividades_Moodle/Aula%2014/Atividade_14-5/Atividade_14_5.js)
+  
+  
