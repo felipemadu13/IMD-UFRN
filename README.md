@@ -216,4 +216,4 @@
  * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/a782b8d2e5d32f7535785ba442c75a21035075da/Atividades_Presenciais/Semana%2008/prog_aula_13_14_ex002.html)
  
  ## Aula 15 - Atividade Moodle
- * Exercício 01
+ * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/451df8d07eb264f396ac28e1efdc32638917738b/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2009/prog_aula_15_ex001.html)
