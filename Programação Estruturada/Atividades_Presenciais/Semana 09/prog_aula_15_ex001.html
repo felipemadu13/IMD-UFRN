@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programação Estruturada</title>
+</head>
+<body>
+    <h1>Entrada do Programa</h1>
+    <h2>Exercício 01 - Aula 15</h2>
+
+    N1: <input type="text" id="n1"> <br>
+    N2: <input type="text" id="n2"> <br>
+    N3: <input type="text" id="n3"> <br>
+    
+    <button onclick='executarExercicio()'>OK</button>
+    <p id="resultado"></p>
+
+ <script>
+
+        function executarExercicio() {
+            try {
+                var n1 = Number(obterValor("n1"));
+                var n2 = Number(obterValor("n2"));
+                var n3 = Number(obterValor("n3"));
+
+                var media = calcularMedia(n1, n2, n3);
+
+                var verificador = verificarResultado(media);
+
+                document.getElementById("resultado").innerHTML = verificador;
+
+            } catch (erro) {
+                window.alert(erro);
+
+            }
+        }
+
+        function obterValor(entrada) {
+            var valor = Number(document.getElementById(entrada).value);
+
+            if (valor === "") {
+                throw new Error("Valor Vazio!");
+            } else if (valor < 0 || valor > 10) {
+                throw new TypeError("Valor Inválido!");
+            }
+            return valor;
+        }
+
+        function calcularMedia(n1, n2, n3) {
+
+            var media = (n1 + n2 + n3) / 3;
+            var media = media.toFixed(1);
+
+            if (media < 0 || media > 10) {
+                throw new Error("Média inválida!");
+            }
+            return media;
+        }
+
+        function verificarResultado(media) {
+            var resultado = "";
+
+            if (media < 0 || media > 10) {
+                throw new RangeError("A nota está fora do intervalo permitido!");
+            }
+            else if (media >= 7) {
+                resultado = `A média do aluno é <strong>${media}</strong> e ele está <strong>aprovado!</strong>`;
+            } else if (media >= 3) {
+                resultado = `A média do aluno é <strong>${media}</strong> e ele está em <strong>recuperação!</strong>`;
+            } else {
+                resultado = `A média do aluno é <strong>${media}</strong> e ele está <strong>reprovado!</strong>`;
+            }
+            return resultado;
+        }
+
+
+    </script>
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+
+
+</body>
+</html>
