@@ -49,9 +49,8 @@
  * [Exercício 01 - LOGO](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/edd5121855fe2c8e27cb81dcba414155368d4ae8/Atividades_Presenciais/Semana%2008/front_aula_12_13_ex001_logo.png)
  
   ## AP Semana 08 - Aula 14 e 15
-  * Exercício 01 - HTML
-  * Exercício 01 - CSS
-  * Exercício 01 - HTML - CONTATO
-  * Exercício 01 - JS
-  * Exercício 01 - IMAGENS
+  * [Exercício 01 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/68b69a54997a0fd43cc221d5c744162ce4972232/Desenvolvimento%20Front-End%20I/Atividades_Presenciais/Semana%2009/front_aula_14_15_ex001.html)
+  * [Exercício 01 - CSS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/68b69a54997a0fd43cc221d5c744162ce4972232/Desenvolvimento%20Front-End%20I/Atividades_Presenciais/Semana%2009/front_aula_14_15_ex001.css)
+  * [Exercício 01 - HTML - CONTATO](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/68b69a54997a0fd43cc221d5c744162ce4972232/Desenvolvimento%20Front-End%20I/Atividades_Presenciais/Semana%2009/front_aula_14_15_ex001_contato.html)
+  * [Exercício 01 - IMAGENS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/68b69a54997a0fd43cc221d5c744162ce4972232/Desenvolvimento%20Front-End%20I/Atividades_Presenciais/Semana%2009/imagens.rar)
   
