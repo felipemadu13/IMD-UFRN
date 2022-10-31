@@ -1,0 +1,11 @@
+Observe os objetos a sua volta, escolha um deles e descreva de 3 a 5 características (atributos) e comportamentos (métodos).
+
+Televisão {
+	cor: preta
+	tamanhoEmPol: 32
+	marca: aoc
+	
+	ligar(){}
+	desligar(){}	
+
+}
