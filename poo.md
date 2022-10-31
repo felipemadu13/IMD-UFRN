@@ -5,7 +5,9 @@
 * [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/6a9ac6f0a209cfb9144c422454097439ee8404b8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2001/atividade_01.txt)
 
 ## Aula 02 - Atividade Moodle
-* Exercício 01
+* Atividade 01 - TS
+* Atividade 01 - JS
+* Atividade 01 - TSCONFIG
 
 ## AP Semana 01 - Aula 01 e 02
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/c8b9dd383ce985837541224c24dcf51ae7412756/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2010/poo_aula_01_02_ex001.js)
