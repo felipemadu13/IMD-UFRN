@@ -8,14 +8,15 @@
 * Exercício 01
 
 ## AP Semana 01 - Aula 01 e 02
-* Exercício 01
-* Exercício 02
+* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/c8b9dd383ce985837541224c24dcf51ae7412756/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2010/poo_aula_01_02_ex001.js)
+* [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/c8b9dd383ce985837541224c24dcf51ae7412756/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2010/poo_aula_01_02_ex002.js)
 
 ## Aula 03 - Atividade Moodle
 * Sem Atividade
 
 ## Aula 04 - Atividade Moodle
-* Exercício 01
+* Atividade 01
+* Atividade 02
 
 
  
