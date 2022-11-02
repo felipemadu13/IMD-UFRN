@@ -21,9 +21,9 @@
 * Atividade 02
 
 ## AP Semana 11 - Aula 03
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/6bee03ace5eb1bce7a856616305a20a200bc07bb/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_04_ex001.js)
 
 ## AP Semana 11 - Aula 04
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/6bee03ace5eb1bce7a856616305a20a200bc07bb/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_05_ex001.js)
 
  
