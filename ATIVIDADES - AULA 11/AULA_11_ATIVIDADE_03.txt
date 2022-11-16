@@ -1,4 +1,4 @@
-var valores := vetor[99]
+var valores := vetor[100]
 
 para i de 0 até 99 faça
 	valores[i] := leia_real
