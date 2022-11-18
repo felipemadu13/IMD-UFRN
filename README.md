@@ -5,4 +5,4 @@
 * [Programação Estruturada](https://github.com/felipemadu13/JavaScript_IMD/blob/94230343aaab673439acb24e331e77aa378643f5/pe.md)
 
 ## Programação Orientada a Objetos (TypeScript)
-* [Programação Orientada a Objetos](https://github.com/felipemadu13/JavaScript_IMD/blob/9f74d24b9082e98d3d12aa2142afbcf02a147742/poo.md)
+* [Programação Orientada a Objetos](https://github.com/felipemadu13/JavaScript_IMD/blob/791f19d121c6fcfcf31ae25322ea13947f9b7810/poo.md)
