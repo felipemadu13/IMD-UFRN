@@ -20,5 +20,6 @@
  * [Exercício 01](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/38fae74ba359085d49e48229c4c604661430ea73/Desenvolvimento%20Front-End%20II/Semana%2011/frontii_aula_05_ex001.html)
 
  ## AP Semana 12 - Aula 06 e 07
- * Exercício 01
+ * Exercício 01 - HTML
+ * Exercício 01 - JS
  * Exercício 02
