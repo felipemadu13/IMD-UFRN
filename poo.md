@@ -6,10 +6,10 @@
 * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/c8b9dd383ce985837541224c24dcf51ae7412756/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2010/poo_aula_01_02_ex002.js)
 
 ## AP Semana 11 - Aula 03
-* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/6bee03ace5eb1bce7a856616305a20a200bc07bb/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_04_ex001.js)
+* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/b77ce737a2edb73afa06cedf0d4d2dbdc6790ea8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_03_ex001.js)
 
 ## AP Semana 11 - Aula 04
-* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/6bee03ace5eb1bce7a856616305a20a200bc07bb/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_05_ex001.js)
+* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/b77ce737a2edb73afa06cedf0d4d2dbdc6790ea8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_04_ex001.js)
 
 ## AP Semana 12- Aula 05
 * [Exercício 01 - Animal.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/c9c1cfd753a90ca4dd91a01e9085333a829cf60b/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_05_ex001/Animal.ts)
@@ -23,6 +23,8 @@
 * [Exercício 01 - Laptop.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/c9c1cfd753a90ca4dd91a01e9085333a829cf60b/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_06_ex001/Laptop.ts)
 * [Exercício 01 - teste.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/c9c1cfd753a90ca4dd91a01e9085333a829cf60b/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_06_ex001/teste.ts)
 
-## AP Semana 13 - Aula 07 e 08
+## AP Semana 13 - Aula 07
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/0e0d07d715b857ca07293b4235d0c111accd6736/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2013/poo_aula_07_ex001.ts)
-* Exercício 02
+
+## AP Semana 13 - Aula 08
+* [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/b77ce737a2edb73afa06cedf0d4d2dbdc6790ea8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2013/poo_aula_08_ex001.ts)
