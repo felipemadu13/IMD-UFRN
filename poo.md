@@ -24,5 +24,5 @@
 * [Exercício 01 - teste.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/c9c1cfd753a90ca4dd91a01e9085333a829cf60b/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_06_ex001/teste.ts)
 
 ## AP Semana 13 - Aula 06 e 07
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/0e0d07d715b857ca07293b4235d0c111accd6736/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2013/poo_aula_07_ex001.ts)
 * Exercício 02
