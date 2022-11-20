@@ -1,25 +1,31 @@
-class Animal {
-    public grupo: string = "indefinido";
+class Personagem {
 
-    constructor(grupo: string = "indefinido") {
-        this.grupo = grupo
-    }
-
-    get _grupo(): string {
-        return this._grupo
-    }
-
-    set _grupo(grupo: string) {
-        this._grupo = grupo
-        
+    atacar() {
+        console.log('Não recebi dano')
     }
 }
 
-class Cachorro extends Animal {
-    constructor(grupo: string = 'mamífero') {
-        super(grupo)
+class Guerreiro extends Personagem {
+
+    atacar() {
+        console.log('recebi 10 de dano')
     }
 }
 
-var exibir = new Cachorro()
-console.log(exibir)
+class Arqueiro extends Personagem {
+    
+    atacar() {
+        console.log('recebi 20 de dano')
+    }
+}
+
+function atacarPersonagem(fulano: Personagem) {
+    fulano.atacar()
+}
+
+var atacarGuerreiro = new Guerreiro();
+var atacarArqueiro = new Arqueiro();
+
+atacarPersonagem(atacarGuerreiro);
+atacarPersonagem(atacarArqueiro);
+
