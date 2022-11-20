@@ -1,13 +1,11 @@
-import { Computador } from "./Computador";
-import { Desktop } from "./Desktop";
-import { Laptop } from "./Laptop";
+import { Cidade } from "./Cidade";
+import { Pessoa } from "./Pessoa";
+import { Animal } from "./Animal";
 
-var pc = new Computador();
-var note = new Laptop();
-var mesa = new Desktop();
+const natal = new Cidade("Natal");
+const joao = new Pessoa("João", natal);
+const toto = new Animal("Totó", joao);
 
-note.processador = "Intel Core 9"
-mesa.memoria = 8
-
-console.log(note);
-console.log(mesa);
+console.log(joao) //Pessoa { _nome: 'João', _cidade: Cidade { _nome: 'Natal' } }
+console.log(joao.nome) //João
+console.log(joao.cidade.nome) //Natal
