@@ -23,3 +23,7 @@
  * [Exercício 01 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/3413926821ef287f9ecd3e7fc344369d9a9f1571/Desenvolvimento%20Front-End%20II/Semana%2012/frontii_aula_06_07_ex001.html)
  * [Exercício 01 - JS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/3413926821ef287f9ecd3e7fc344369d9a9f1571/Desenvolvimento%20Front-End%20II/Semana%2012/frontii_aula_06_07_ex001.js)
  * [Exercício 02](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/3413926821ef287f9ecd3e7fc344369d9a9f1571/Desenvolvimento%20Front-End%20II/Semana%2012/frontii_aula_06_07_ex002.html)
+
+ ## AP Semana 13 - Aula 08 e 09
+ * Exercício 01
+ * Exercício 02
