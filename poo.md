@@ -5,7 +5,7 @@
 * [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/47457d6591cba57582d44b61ab80f79b493f8708/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2001/atividade_01.txt)
 
 ## Aula 02 - Atividade Moodle
-* Atividade 01
+* [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/0672a938d3f53cc5a9b7b3f99f46b48a2822a641/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2002/Atividade%2001/atividade_01.ts)
 
 ## AP Semana 10 - Aula 01 e 02
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/c8b9dd383ce985837541224c24dcf51ae7412756/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2010/poo_aula_01_02_ex001.js)
