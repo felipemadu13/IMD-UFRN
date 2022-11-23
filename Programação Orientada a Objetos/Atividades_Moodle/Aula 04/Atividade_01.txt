@@ -1,0 +1,3 @@
+Classe ContaCorrente com saldo privado
+Classe Cadastro com cpf privado
+Classe GrupoControle com nome, endereço e telefone como privados.
