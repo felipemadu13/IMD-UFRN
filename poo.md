@@ -11,6 +11,13 @@
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/c8b9dd383ce985837541224c24dcf51ae7412756/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2010/poo_aula_01_02_ex001.js)
 * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/c8b9dd383ce985837541224c24dcf51ae7412756/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2010/poo_aula_01_02_ex002.js)
 
+## Aula 03 - Atividade Moodle
+* Sem atividades
+
+## Aula 04 - Atividade Moodle
+* [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/19d8774f8c86797f017aba75d4ec940b1f79d9bc/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2004/Atividade_01.txt)
+* Atividade 02
+
 ## AP Semana 11 - Aula 03
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/b77ce737a2edb73afa06cedf0d4d2dbdc6790ea8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_03_ex001.js)
 
