@@ -34,3 +34,12 @@
 
 ## AP Semana 13 - Aula 08
 * [Exercício 02](https://github.com/felipemadu13/JavaScript_IMD/blob/b77ce737a2edb73afa06cedf0d4d2dbdc6790ea8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2013/poo_aula_08_ex001.ts)
+
+## AP Semana 13 - Aula 09
+* Exercício 01 - app.ts
+* Exercício 01 - Jogador.ts
+* Exercício 01 - Volante.ts
+* Exercício 01 - Controlavel.ts
+
+## AP Semana 13 - Aula 10
+* Exercício 01
