@@ -42,4 +42,4 @@
 * [Exercício 01 - Controlavel.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/4a032740a70bb827332fca8da7ff374c73be4801/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2014/poo_aula_09_ex001/Controlavel.ts)
 
 ## AP Semana 13 - Aula 10
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/59fe24a606f3c8060de17b064c48228b083d2a21/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2014/poo_aula_10_ex001/poo_aula_10_ex001.ts)
