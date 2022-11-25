@@ -55,6 +55,9 @@
 * [Atividade 02 - CelularSmart.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/00fab20484309841ddf50503328af1eab26a9de6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_02/CelularSmart.ts)
 * [Atividade 02 - app.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/00fab20484309841ddf50503328af1eab26a9de6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_02/app.ts)
 
+## Aula 08 - Atividade Moodle
+# Atividade 01
+
 ## AP Semana 13 - Aula 07
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/0e0d07d715b857ca07293b4235d0c111accd6736/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2013/poo_aula_07_ex001.ts)
 
