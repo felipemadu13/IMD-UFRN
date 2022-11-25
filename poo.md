@@ -50,6 +50,10 @@
 * [Atividade 01 - CelularFlip.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/732b0570688476cca41900f535210aad73b3ddd8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_01/CelularFlip.ts)
 * [Atividade 01 - CelularSmart.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/732b0570688476cca41900f535210aad73b3ddd8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_01/CelularSmart.ts)
 * [Atividade 01 - app.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/732b0570688476cca41900f535210aad73b3ddd8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_01/app.ts)
+* Atividade 02 - CelularTijolo.ts
+* Atividade 02 - CelularFlip.ts
+* Atividade 02 - CelularSmart.ts
+* Atividade 02 - app.ts
 
 ## AP Semana 13 - Aula 07
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/0e0d07d715b857ca07293b4235d0c111accd6736/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2013/poo_aula_07_ex001.ts)
