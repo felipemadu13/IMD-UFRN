@@ -57,12 +57,12 @@
 
 ## Aula 08 - Atividade Moodle
 * [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/daf71e21d69aad3d4ff0056487ea8572f9c4dbb0/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_01.txt)
-* Atividade 02 - app.ts
-* Atividade 02 - Circulo.ts
-* Atividade 02 - FiguraEquilatero.ts
-* Atividade 02 - FiguraGeometrica.ts
-* Atividade 02 - Quadrado.ts
-* Atividade 02 - Triangulo
+* [Atividade 02 - app.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/app.ts)
+* [Atividade 02 - Circulo.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/Circulo.ts)
+* [Atividade 02 - FiguraEquilatero.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/FiguraEquilatero.ts)
+* [Atividade 02 - FiguraGeometrica.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/FiguraGeometrica.ts)
+* [Atividade 02 - Quadrado.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/Quadrado.ts)
+* [Atividade 02 - Triangulo](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/Triangulo.ts)
 
 
 ## AP Semana 13 - Aula 07
