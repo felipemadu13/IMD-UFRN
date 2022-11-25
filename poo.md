@@ -25,10 +25,10 @@
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/b77ce737a2edb73afa06cedf0d4d2dbdc6790ea8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_04_ex001.js)
 
 ## Aula 05 - Atividade Moodle
-* Atividade 01
-* Atividade 02 - Guerreiro
-* Atividade 02 - Mago
-* Atividade 02 - Personagens
+* [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/430f0a67648f53afa0c53d596e7d5c7b7d78726a/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2005/Atividade_01.txt)
+* [Atividade 02 - Guerreiro](https://github.com/felipemadu13/JavaScript_IMD/blob/430f0a67648f53afa0c53d596e7d5c7b7d78726a/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2005/Atividade_02/Guerreiro.ts)
+* [Atividade 02 - Mago](https://github.com/felipemadu13/JavaScript_IMD/blob/430f0a67648f53afa0c53d596e7d5c7b7d78726a/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2005/Atividade_02/Mago.ts)
+* [Atividade 02 - Personagens](https://github.com/felipemadu13/JavaScript_IMD/blob/430f0a67648f53afa0c53d596e7d5c7b7d78726a/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2005/Atividade_02/Personagens.ts)
 
 ## AP Semana 12- Aula 05
 * [Exercício 01 - Animal.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/c9c1cfd753a90ca4dd91a01e9085333a829cf60b/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_05_ex001/Animal.ts)
