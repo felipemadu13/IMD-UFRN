@@ -30,6 +30,9 @@
 * [Atividade 02 - Mago](https://github.com/felipemadu13/JavaScript_IMD/blob/430f0a67648f53afa0c53d596e7d5c7b7d78726a/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2005/Atividade_02/Mago.ts)
 * [Atividade 02 - Personagens](https://github.com/felipemadu13/JavaScript_IMD/blob/430f0a67648f53afa0c53d596e7d5c7b7d78726a/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2005/Atividade_02/Personagens.ts)
 
+## Aula 06 - Atividade Moodle
+* [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/da79ca3060229ddf1b274060d166cdfe7c344467/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2006/Atividade_01.txt)
+
 ## AP Semana 12- Aula 05
 * [Exercício 01 - Animal.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/c9c1cfd753a90ca4dd91a01e9085333a829cf60b/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_05_ex001/Animal.ts)
 * [Exercício 01 - Cidade.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/c9c1cfd753a90ca4dd91a01e9085333a829cf60b/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_05_ex001/Cidade.ts)
