@@ -73,6 +73,9 @@
 ## Aula 09 - Atividade Moodle
 * Sem atividades
 
+## Aula 10 - Atividade Moodle
+* Sem atividades
+
 ## AP Semana 13 - Aula 09
 * [Exercício 01 - app.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/4a032740a70bb827332fca8da7ff374c73be4801/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2014/poo_aula_09_ex001/app.ts)
 * [Exercício 01 - Jogador.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/4a032740a70bb827332fca8da7ff374c73be4801/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2014/poo_aula_09_ex001/Jogador.ts)
