@@ -64,7 +64,6 @@
 * [Atividade 02 - Quadrado.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/Quadrado.ts)
 * [Atividade 02 - Triangulo](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/Triangulo.ts)
 
-
 ## AP Semana 13 - Aula 07
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/0e0d07d715b857ca07293b4235d0c111accd6736/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2013/poo_aula_07_ex001.ts)
 
