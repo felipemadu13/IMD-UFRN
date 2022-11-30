@@ -91,7 +91,11 @@
 ## Aula 12 - Atividade Moodle
 * Sem atividades
 
-## AP Semana 15 - Aula 11 e 12
+## AP Semana 15 - Aula 11
+* Exercício 01
+
+## AP Semana 15 - Aula 12
+* Exercício 01
 
 ## Aula 13 - Atividade Moodle
 * Sem atividades
