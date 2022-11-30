@@ -92,10 +92,10 @@
 * Sem atividades
 
 ## AP Semana 15 - Aula 11
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/d75581c30ee75de4fd34916d517dba19b1b9f1e7/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2015/poo_aula_11_ex001.ts)
 
 ## AP Semana 15 - Aula 12
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/d75581c30ee75de4fd34916d517dba19b1b9f1e7/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2015/poo_aula_12_ex001.ts)
 
 ## Aula 13 - Atividade Moodle
 * Sem atividades
