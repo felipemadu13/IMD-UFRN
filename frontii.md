@@ -36,7 +36,7 @@
 * [Exercício 02](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/8b610a51ece818885906025ba3a3f7f4ee448553/Desenvolvimento%20Front-End%20II/Semana%2015/frontii_aula_12_13_ex002.html)
 
 ## AP Semana 16 - Aula 14 e 15
-* Exercício 01 - HTML
-* Exercício 01 - CSS
-* Exercício 01 - JS
+* [Exercício 01 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/87127feee9c2c2ab21413d6cbf8968dfdad5a700/Desenvolvimento%20Front-End%20II/Semana%2016/index.html)
+* [Exercício 01 - CSS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/87127feee9c2c2ab21413d6cbf8968dfdad5a700/Desenvolvimento%20Front-End%20II/Semana%2016/styles.css)
+* [Exercício 01 - JS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/87127feee9c2c2ab21413d6cbf8968dfdad5a700/Desenvolvimento%20Front-End%20II/Semana%2016/index.js)
 
