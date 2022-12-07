@@ -106,4 +106,17 @@
 ## Aula 15 - Atividade Moodle
 * Sem atividades
 
-## AP Semana 16 - Aula 13, 14 e 15
+## AP Semana 16 - Aula 13
+* Exercício 01 - app.ts
+* Exercício 01 - pessoa.ts
+
+## AP Semana 16 - Aula 14
+* Exercício 01 - app.ts
+* Exercício 01 - pessoa.ts
+
+## AP Semana 16 - Aula 15
+* Exercício 01 - app.ts
+=
+
+
+
