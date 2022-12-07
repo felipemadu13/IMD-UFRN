@@ -107,16 +107,15 @@
 * Sem atividades
 
 ## AP Semana 16 - Aula 13
-* Exercício 01 - app.ts
-* Exercício 01 - pessoa.ts
+* [Exercício 01 - app.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/fa7d83ae61a4fd847b4298f6066cc729f5f5088f/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_13_ex001/app.ts)
+* [Exercício 01 - pessoa.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/fa7d83ae61a4fd847b4298f6066cc729f5f5088f/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_13_ex001/pessoa.ts)
 
 ## AP Semana 16 - Aula 14
-* Exercício 01 - app.ts
-* Exercício 01 - pessoa.ts
+* [Exercício 01 - app.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/fa7d83ae61a4fd847b4298f6066cc729f5f5088f/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_14_ex001/app.ts)
+* [Exercício 01 - pessoa.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/fa7d83ae61a4fd847b4298f6066cc729f5f5088f/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_14_ex001/livro.ts)
 
 ## AP Semana 16 - Aula 15
-* Exercício 01 - app.ts
-=
+[* Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/fa7d83ae61a4fd847b4298f6066cc729f5f5088f/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_15_ex001.pdf)
 
 
 
