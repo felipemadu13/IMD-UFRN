@@ -1,0 +1,35 @@
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Programação Estruturada</title>
+</head>
+
+<body>
+    <h1>Entrada do Programa</h1>
+    <h2>Exercício 01 - Aula 11 e 12</h2>
+    <button onclick='executarExercicio()'>OK</button>
+    <p id="resultado"></p>
+    <p id="resultado2"></p>
+    <script>
+        function executarExercicio() {
+            var contador = 0;
+            var array = [];
+
+            while (contador < 10) {
+                var a = Number(prompt("Informe um número:"));
+                array.push(a)
+                contador++;
+            }
+            document.getElementById('resultado').innerHTML = `<strong>Ordem de Leitura:</strong> ${array}`;
+            document.getElementById('resultado2').innerHTML = `<strong>Ordem Crescente:</strong> ${array.sort((a,b) => a-b)}`;
+
+        }
+    </script>
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+</body>
+
+</html>

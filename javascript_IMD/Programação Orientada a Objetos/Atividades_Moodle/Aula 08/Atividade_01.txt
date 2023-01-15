@@ -1,0 +1,1 @@
+Uma bola(abstrata) pode servir para jogar basquete, futebol, volei, etc.

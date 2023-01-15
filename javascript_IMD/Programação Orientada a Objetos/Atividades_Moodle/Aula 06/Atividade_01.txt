@@ -1,0 +1,7 @@
+classe Aéreo: tipoDePropulsao
+classe Avião: tamanhoDasAsas
+
+Aéreo teria dois atributos (capacidade e tipoDePropulsao)
+Avião teria três atributos (capacidade, tipoDePropulsao e tamanhoDasAsas)
+
+

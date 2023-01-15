@@ -1,0 +1,5 @@
+interface Controlavel {
+
+    mover?: () => void;
+    
+}

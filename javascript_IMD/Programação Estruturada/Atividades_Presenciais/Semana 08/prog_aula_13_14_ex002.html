@@ -1,0 +1,47 @@
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Programação Estruturada</title>
+</head>
+
+<body>
+    <h1>Entrada do Programa</h1>
+    <h2>Exercício 01 - Aula 13 e 14</h2>
+    <button onclick='executarExercicio()'>OK</button>
+    <p id="resultado"></p>
+    <script>
+        var x1 = ""
+        var array = [];
+
+        function executarExercicio() {
+            var resultado = recursiva();
+            var resultadopop = resultado.pop()
+            document.getElementById('resultado').innerHTML = resultado;
+            
+        }
+        
+        function recursiva(x1) {
+            var retorno = ""
+            
+            if (x1 != 0) {
+                var x1 = Number(prompt("Informe um número:"));
+                array.push(x1);
+                retorno = recursiva(x1);
+            } else {
+                retorno = array;
+            }
+
+            return retorno
+
+        }
+
+
+    </script>
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+</body>
+
+</html>

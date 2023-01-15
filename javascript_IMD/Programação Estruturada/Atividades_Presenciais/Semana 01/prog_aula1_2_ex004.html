@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programação Estruturada - Aula 1 e 2</title>
+    <style>
+        body{
+            background: rgb(43, 43, 43);
+            color: white;
+        }
+        header {
+            text-align: center;
+        }
+        section {
+            background: white;
+            color: darkslategray;
+            border-radius: 10px;
+            padding: 15px;
+            width: 500px;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        footer {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Programação Estruturada - Aula 1 e 2</h1>
+        <h2>Exercício 4</h2>
+    </header>
+
+    <section>
+        <h3>Média do Aluno</h3>
+        Primeira Nota: <input type="number" id="nota1" value="">
+        Segunda Nota: <input type="number" id="nota2" value="">
+        <button onclick="media()">Clique Aqui</button>
+        <p id="resposta"></p>
+    </section>
+
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+    
+    <script>
+        function media() {
+          let n1 = Number(document.getElementById("nota1").value);
+          let n2 = Number(document.getElementById("nota2").value);
+          let resultado = ((n1 * 2) + (n2 * 3)) / 5
+          document.getElementById("resposta").innerHTML = `Sua média é ${resultado}`;
+        }
+    </script>
+</body>
+</html>
