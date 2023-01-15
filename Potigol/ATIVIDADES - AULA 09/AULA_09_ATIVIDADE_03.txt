@@ -1,0 +1,13 @@
+var n1 := leia_real
+
+enquanto (n1 < 0) |ou| (n1 > 10) faça
+	escreva "Nota com valor inválido!"
+    var n1 := leia_real
+fim
+var n2 := leia_real
+enquanto (n2 < 0) |ou| (n2 > 10) faça
+	escreva "Nota com valor inválido!"
+    var n2 := leia_real
+fim
+var media := (n1 + n2) / 2
+escreva "{media}"

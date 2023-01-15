@@ -1,0 +1,7 @@
+var mes = leia_inteiro
+escolha mes
+    caso 1, 3, 5, 7, 8, 10, 12 => imprima "Mês com 31 dias"                  
+    caso 2 => imprima "Mês com 28 dias"                
+    caso 4, 6, 9, 11  => imprima "Mês com 30 dias"
+    caso_  => imprima "Mês inválido"    
+fim

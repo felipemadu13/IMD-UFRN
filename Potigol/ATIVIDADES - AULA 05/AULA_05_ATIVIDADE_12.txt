@@ -1,0 +1,6 @@
+var senha := leia_texto
+se senha == "200724040105" então
+	imprima "Acesso Permitido"
+senão
+	imprima "Senha Inválida"
+fim

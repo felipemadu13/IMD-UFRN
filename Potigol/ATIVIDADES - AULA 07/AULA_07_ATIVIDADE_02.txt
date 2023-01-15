@@ -1,0 +1,11 @@
+var x1 := leia_numero
+var soma := 0
+var total := 0
+
+enquanto soma < x1 faça
+	soma := soma + 1
+    se soma mod 2 == 0 então
+    total := total + soma
+fim
+fim
+imprima "{total}"

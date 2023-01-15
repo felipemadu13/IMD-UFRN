@@ -1,0 +1,8 @@
+var a := 1
+var b := leia_inteiro
+var total := 0
+
+para i de 1 até 10 faça
+	escreva "{a}x{b}={a * b}"
+    a := a + 1
+fim

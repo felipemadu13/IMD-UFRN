@@ -1,0 +1,12 @@
+var valores := vetor[100]
+
+para i de 0 até 99 faça
+	valores[i] := leia_real
+fim
+
+
+para i de 0 até 99 faça
+	se valores[i] <= 10 então
+    	escreva "v[{i}] = {valores[i]}"
+    fim
+fim

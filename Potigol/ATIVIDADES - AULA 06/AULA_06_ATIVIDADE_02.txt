@@ -1,0 +1,17 @@
+var senha = leia_texto
+var flag = verdadeiro
+
+
+enquanto flag faça
+    senha = leia_texto
+    
+    se senha == acertadamente então
+        escreva Acesso concedido
+        flag = falso
+    senãose senha == sair então
+        escreva Programa encerrado
+        flag = falso
+    fim
+fim
+
+#créditos: Alex Silva

@@ -1,0 +1,25 @@
+var valores := vetor[100]
+var x1 := ""
+var x2 := 99999999999999999999999999999999999999999999999999999999999999999999999
+var menor := ""
+
+para i de 0 até 99 faça
+	x1 := leia_inteiro
+    valores[i] := x1
+    se x2 > x1 então
+    	x2 := x1
+        menor := i
+     fim
+fim
+
+escreva "Menor valor recebido: {x2}"
+escreva "Índice do menor valor: {menor}"
+
+se menor > 0 então
+	escreva "Valor armazenado na posição anterior [{menor-1}]: {valores[menor-1]}"
+    senão
+fim
+se menor < 99 então
+	escreva "Valor armazenado na posição posterior [{menor+1}]: {valores[menor+1]}"
+    senão
+fim

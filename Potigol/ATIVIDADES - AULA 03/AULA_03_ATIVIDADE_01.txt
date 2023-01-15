@@ -1,0 +1,6 @@
+var numero := leia_inteiro
+se numero mod 2 == 0 então
+imprima "{numero}"
+senão
+imprima "{numero + 1}"
+fim

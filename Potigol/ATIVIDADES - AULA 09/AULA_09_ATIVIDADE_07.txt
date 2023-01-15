@@ -1,0 +1,9 @@
+var x := leia_inteiro
+var y := leia_inteiro
+
+para i de x até y faça
+	se y mod x == 0 |e| x <> y então
+    	escreva x
+    fim
+    x := x + 1
+fim

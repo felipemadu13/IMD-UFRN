@@ -1,0 +1,7 @@
+ehPar(x1: inteiro)
+se x1 mod 2 == 0 então
+	retorne "par"
+senão
+	retorne "ímpar"
+fim
+fim

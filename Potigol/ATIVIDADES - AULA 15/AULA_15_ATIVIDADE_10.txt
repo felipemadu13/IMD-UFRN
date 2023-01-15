@@ -1,0 +1,15 @@
+ehPrimo(x1: inteiro)
+var divisores := 0
+
+para i de 1 até x1 faça
+	se x1 mod i == 0 então
+    	divisores := divisores + 1
+     fim
+fim
+
+se divisores == 2 então
+	retorne true
+senão
+	retorne false
+fim
+fim

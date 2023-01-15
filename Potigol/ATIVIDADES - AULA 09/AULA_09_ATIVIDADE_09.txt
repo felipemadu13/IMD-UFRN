@@ -1,0 +1,17 @@
+var x1 := leia_inteiro
+var contador := 0
+var soma := 0
+
+para i de contador até x1 faça
+	contador := contador + 1
+    se x1 mod contador == 0 |e| x1 <> contador então
+    	soma := soma + contador
+	senão
+    fim
+fim
+
+se soma == x1 então
+	imprima "é um número perfeito"
+senão
+	imprima "não é um número perfeito"
+fim

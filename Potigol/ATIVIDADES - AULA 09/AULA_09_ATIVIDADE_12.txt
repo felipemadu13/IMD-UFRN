@@ -1,0 +1,11 @@
+var x1 = leia_inteiro
+var i = 1
+
+imprima Feliz Nat
+enquanto i = x1 faça
+	imprima a
+    i = i + 1
+fim
+imprima l!
+
+#créditos: Jucelio Santos

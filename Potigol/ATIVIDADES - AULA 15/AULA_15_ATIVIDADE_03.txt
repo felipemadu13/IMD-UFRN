@@ -1,0 +1,18 @@
+var elementos := matriz[10,10]
+x1 := ""
+x2 := 99999999999999999999999999999999999
+var lin := ""
+var col := ""
+
+para linha de 0 até 9 faça
+    para coluna de 0 até 9 faça
+    	x1 := leia_inteiro
+        elementos[linha][coluna] := x1
+        se x1 < x2 então
+        	x2 := x1
+            lin := linha
+        	col := coluna
+        fim
+    fim
+fim
+escreva "{x2} está na linha {lin} e coluna {col}"

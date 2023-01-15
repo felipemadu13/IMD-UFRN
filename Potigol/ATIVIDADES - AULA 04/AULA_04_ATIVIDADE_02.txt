@@ -1,0 +1,19 @@
+var massa = leia_real
+var altura = leia_real
+var imc = massa / (altura * altura)
+
+se imc >= 40 então
+	imprima "Obesidade III (mórbida)"
+senãose imc >= 35 então
+    	imprima "Obesidade II (severa)"
+senãose imc >= 30 então
+		imprima "Obesidade I"
+senãose imc >= 25 então
+		imprima "Acima do peso"
+senãose imc >= 18.5 então
+		imprima "Peso normal"
+senãose imc >= 17 então
+		imprima "Abaixo do peso"
+senão
+		imprima "Muito abaixo do peso"
+fim
