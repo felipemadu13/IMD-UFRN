@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  header {
+    background-color: rgb(34, 2, 2);
+    color: white;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  section{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  #p1, #p2, #p3 {
+    margin: 1em;
+  }
+
+  
+  article {
+    flex: 8;
+    background-color:rgb(239, 243, 226);
+    box-sizing: border-box;
+    padding: 20px;
+    margin-right: 10em;
+    margin-left: 10em;
+  }
+  
+  footer {
+    background-color: rgb(34, 2, 2);
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer a{
+    color: white;
+  }

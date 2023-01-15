@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Vídeos do IMD/UFRN</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstr
+ap.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+                <h2 class="page-header">Vídeos do IMD/UFRN</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="span3">
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=m0XLzn5e3CA">Institucional
+                            IMD</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=_0fVH-7Q6uQ">Parque
+                            Metrópole</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=LHpQ_V3uxRk">Talento
+                            Metrópole</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="http://www.teaching-materials.org/common/youtube.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+
+        // Adicionar Imagens
+        var links = $('a');
+        var array = $.makeArray(links);
+        array.forEach(adicionar);
+
+        function adicionar(a) {
+            var linkVideo = $(a);
+            var url = linkVideo.attr('href');
+            var thumb = youtube.generateThumbnailUrl(url);
+            
+            var imagem = $('<img>');
+            imagem.attr('src', thumb);
+
+            linkVideo.prepend(imagem[0]);   
+        }
+
+        // Esconder imagem ao carregar a página
+        $(document).ready(function () {
+            $("img").hide();
+        });
+
+        // Criando uma array para img
+        var image = $('img');
+        var arrayImagens = $.makeArray(image);
+
+        // Hide/Show Imagem 0
+        $(array[0]).on({
+            mouseenter: function(){
+                $(arrayImagens[0]).show(2000);
+            },
+            mouseleave: function(){
+                $(arrayImagens[0]).hide(2000);
+            },
+        });
+
+        // Hide/Show Imagem 1
+         $(array[1]).on({
+            mouseenter: function(){
+                $(arrayImagens[1]).show(2000);
+            },
+            mouseleave: function(){
+                $(arrayImagens[1]).hide(2000);
+            },
+        });
+
+        // Hide/Show Imagem 2
+        $(array[2]).on({
+            mouseenter: function(){
+                $(arrayImagens[2]).show(2000);
+            },
+            mouseleave: function(){
+                $(arrayImagens[2]).hide(2000);
+            },
+        });
+
+       
+
+    </script>
+</body>
+
+</html>

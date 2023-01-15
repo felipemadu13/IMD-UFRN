@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+ div {
+     /* margin-left: 25%;
+     margin-right: 10%; */
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ }
+
+label {
+    display: flex;
+    align-self: stretch;
+    margin-left: 10%;
+}
+
+input {
+    width: 80%;
+    padding: 15px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    display: block;   
+}
+
+select {
+    width: 80%;
+    padding: 15px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    display: block;
+}
+
+input[type=submit] {
+    width: 20%;
+    display: inline;
+    margin-left: 10%;
+}
+
+input[type=reset] {
+    width: 20%;
+    display: inline;
+}
+
+footer{
+    text-align: center;
+}

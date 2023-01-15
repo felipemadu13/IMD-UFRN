@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="front_aula_07_08_ex001.css">
+    <title>DEI - Aula 07</title>
+</head>
+<body>
+    <h3>Cadastro de Produtos</h3>
+    <hr>
+    <br>
+    <form action="https://autoria-form.herokuapp.com/" method="post">
+        <div>
+            <label for="SKU">SKU:</label>
+            <input type="text" name="SKU" id="SKU">
+            <label for="produto">Produto:</label>
+            <input type="text" name="produto" id="produto">
+            <label for="peso">Peso:</label>
+            <input type="number" name="peso" id="peso">
+            <label for="unidade">Unidade:</label>
+            <select name="unidade" id="unidade">
+                <option value="Kg">quilograma (kg)</option>
+                <option value="g">grama (g)</option>
+                <option value="t">tonelada (t)</option>
+            </select>
+            <label for="largura">Largura(cm):</label>
+            <input type="number" name="largura" id="largura">
+            <label for="altura">Altura(cm):</label>
+            <input type="number" name="altura" id="altura">
+            <label for="profundidade">Profundidade(cm):</label>
+            <input type="number" name="profundidade" id="profundidade">
+        </div>
+            
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </form>
+    <footer>
+        <p>T02W - Informática para internet</p> 
+        <p>Felipe Madureira de Almeida</p>
+    </footer>
+    
+</body>
+</html>

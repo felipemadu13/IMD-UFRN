@@ -1,0 +1,21 @@
+body {
+    background-color: #F22727;
+    color: white;
+}
+
+article {
+    font-size: 1.5em;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    max-width: 800px;
+    max-height: 400px;
+}
+
+div.card {
+    color:grey;
+}
