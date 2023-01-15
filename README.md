@@ -1,6 +1,9 @@
 # IMD-UFRN
  Exercícios resolvidos das matérias do curso técnico em Tecnologia da Informação (IMD/UFRN)
  
+  ## Lógica de Programação (Potigol)
+  * Lógica de Programação
+ 
  ## Programação Estruturada (JavaScript)
 * [Programação Estruturada](https://github.com/felipemadu13/JavaScript_IMD/blob/94230343aaab673439acb24e331e77aa378643f5/pe.md)
 
