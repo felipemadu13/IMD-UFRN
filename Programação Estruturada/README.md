@@ -19,20 +19,20 @@
 * Exercício 06
 
  ## Aula 03 - Atividade Moodle
- * [Atividade 01 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/f8f0ccd8f9213c656e1caaaa052eef491a5f5145/Atividades_Moodle/Aula%2003/Atividade_03-1/Atividade_03_1.html)
- * [Atividade 01 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/f8f0ccd8f9213c656e1caaaa052eef491a5f5145/Atividades_Moodle/Aula%2003/Atividade_03-1/Atividade_03_1.js)
- * [Atividade 02 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-2/Atividade_03_2.html)
- * [Atividade 02 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-2/Atividade_03_2.js)
- * [Atividade 03 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-3/Atividade_03_3.html)
- * [Atividade 03 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-3/Atividade_03_3.js)
- * [Atividade 04 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-4/Atividade_03_4.html)
- * [Atividade 04 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-4/Atividade_03_4.js)
- * [Atividade 05 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-5/Atividade_03_5.html)
- * [Atividade 05 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-5/Atividade_03_5.js)
- * [Atividade 06 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-6/Atividade_03_6.html)
- * [Atividade 06 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-6/Atividade_03_6.js)
- * [Atividade 07 - HTML](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-7/Atividade_03_7.html)
- * [Atividade 07 - JS](https://github.com/felipemadu13/JavaScript_IMD/blob/a562590ab0d8d158f2acf4752ee2f48f12bed9a7/Atividades_Moodle/Aula%2003/Atividade_03-7/Atividade_03_7.js)
+* Atividade 01
+* Atividade 01
+* Atividade 02
+* Atividade 02
+* Atividade 03
+* Atividade 03
+* Atividade 04
+* Atividade 04
+* Atividade 05
+* Atividade 05
+* Atividade 06
+* Atividade 06
+* Atividade 07
+* Atividade 07
  
  ## Aula 04 - Atividade Moodle
  * [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/fdab2752820e9bc869f6e60bada88db93a36fc6b/Atividades_Moodle/Aula%2004/Atividade_04-1/index.html)
