@@ -73,28 +73,28 @@
 * Atividade 09 - Todos os Números Perfeitos
 
 ## Aula 11 ##
-* [Atividade 01 - Alunos da turma](https://github.com/felipemadu13/Potigol/blob/ab24a8b96fd944636159d99b53373b97384ed848/ATIVIDADES%20-%20AULA%2011/AULA_11_ATIVIDADE_01.txt)
-* [Atividade 02 - Lendo e imprimindo dados organizados](https://github.com/felipemadu13/Potigol/blob/ab24a8b96fd944636159d99b53373b97384ed848/ATIVIDADES%20-%20AULA%2011/AULA_11_ATIVIDADE_02.txt)
-* [Atividade 03 - Trabalhando com vetores](https://github.com/felipemadu13/Potigol/blob/ab24a8b96fd944636159d99b53373b97384ed848/ATIVIDADES%20-%20AULA%2011/AULA_11_ATIVIDADE_03.txt)
+* Atividade 01 - Alunos da turma
+* Atividade 02 - Lendo e imprimindo dados organizados
+* Atividade 03 - Trabalhando com vetores
 
 ## Aula 12 ##
-* [Atividade 01 - Preenchendo e Lendo um Vetor I](https://github.com/felipemadu13/Potigol/blob/859296031306958acbda040b5608193e35982b9a/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_01.txt)
-* [Atividade 02 - Preenchendo e Lendo um Vetor II](https://github.com/felipemadu13/Potigol/blob/859296031306958acbda040b5608193e35982b9a/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_02.txt)
-* [Atividade 03 - Menor e Posição](https://github.com/felipemadu13/Potigol/blob/859296031306958acbda040b5608193e35982b9a/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_03.txt)
-* [Atividade 04 - Preenchimento de Vetor I](https://github.com/felipemadu13/Potigol/blob/859296031306958acbda040b5608193e35982b9a/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_04.txt)
-* [Atividade 05 - Preenchendo e Lendo um Vetor III](https://github.com/felipemadu13/Potigol/blob/1e3b0b20278f5cd0d0242db862c4cfd950dfd351/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_05.txt)
-* [Atividade 06 - Seleção em Vetor I](https://github.com/felipemadu13/Potigol/blob/1e3b0b20278f5cd0d0242db862c4cfd950dfd351/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_06.txt)
-* [Atividade 07 - Seleção em Vetor II](https://github.com/felipemadu13/Potigol/blob/1e3b0b20278f5cd0d0242db862c4cfd950dfd351/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_07.txt)
-* [Atividade 08 - Divisão no Vetor](https://github.com/felipemadu13/Potigol/blob/1e3b0b20278f5cd0d0242db862c4cfd950dfd351/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_08.txt)
-* [Atividade 09 - Ordenação de Um Vetor](https://github.com/felipemadu13/Potigol/blob/1e3b0b20278f5cd0d0242db862c4cfd950dfd351/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_09.txt)
+* Atividade 01 - Preenchendo e Lendo um Vetor I
+* Atividade 02 - Preenchendo e Lendo um Vetor II
+* Atividade 03 - Menor e Posição
+* Atividade 04 - Preenchimento de Vetor I
+* Atividade 05 - Preenchendo e Lendo um Vetor III
+* Atividade 06 - Seleção em Vetor I
+* Atividade 07 - Seleção em Vetor II
+* Atividade 08 - Divisão no Vetor
+* Atividade 09 - Ordenação de Um Vetor
 
 ## Aula 13 ##
-* [Atividade 01 - Preenchendo e imprimindo o conteúdo de uma matriz](https://github.com/felipemadu13/Potigol/blob/62b31a572756dd28775edde4e16c72c2c0c5122b/ATIVIDADES%20-%20AULA%2013/AULA_13_ATIVIDADE_01.txt)
-* [Atividade 02 - Preenchendo e imprimindo o conteúdo de uma matriz 2](https://github.com/felipemadu13/Potigol/blob/62b31a572756dd28775edde4e16c72c2c0c5122b/ATIVIDADES%20-%20AULA%2013/AULA_13_ATIVIDADE_02.txt)
-* [Atividade 03 - Somando em uma matriz](https://github.com/felipemadu13/Potigol/blob/62b31a572756dd28775edde4e16c72c2c0c5122b/ATIVIDADES%20-%20AULA%2013/AULA_13_ATIVIDADE_03.txt)
+* Atividade 01 - Preenchendo e imprimindo o conteúdo de uma matriz
+* Atividade 02 - Preenchendo e imprimindo o conteúdo de uma matriz 2
+* Atividade 03 - Somando em uma matriz
 
 ## Aula 14 ##
-* [Definindo Mais Funções](https://github.com/felipemadu13/Potigol/blob/42c0adcd396c28f7b7c527059b97f0a0247fea1a/ATIVIDADES%20-%20AULA%2014/PAGINA_05.txt)
+* Definindo Mais Funções
 
 ## Aula 15 ##
 * [Atividade 01 - Preenchendo e Lendo uma Matriz I](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_01.txt)
