@@ -2,10 +2,10 @@
  Respostas das atividades on-line e presenciais da disciplina de "Programação Orientada a Objetos" do curso de "Informática pra internet" da UFRN.
  
 ## Aula 01 - Atividade Moodle
-* [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/47457d6591cba57582d44b61ab80f79b493f8708/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2001/atividade_01.txt)
+* Atividade 01
 
 ## Aula 02 - Atividade Moodle
-* [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/0672a938d3f53cc5a9b7b3f99f46b48a2822a641/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2002/Atividade%2001/atividade_01.ts)
+* Atividade 01
 
 ## AP Semana 10 - Aula 01 e 02
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/c8b9dd383ce985837541224c24dcf51ae7412756/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2010/poo_aula_01_02_ex001.js)
@@ -15,8 +15,8 @@
 * Sem atividades
 
 ## Aula 04 - Atividade Moodle
-* [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/19d8774f8c86797f017aba75d4ec940b1f79d9bc/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2004/Atividade_01.txt)
-* [Atividade 02](https://github.com/felipemadu13/JavaScript_IMD/blob/d913de531f2aeb9f8f2ffd8d1952aee6f76f3e2d/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2004/Atividade_02.ts)
+* Atividade 01
+* Atividade 02
 
 ## AP Semana 11 - Aula 03
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/b77ce737a2edb73afa06cedf0d4d2dbdc6790ea8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_03_ex001.js)
@@ -25,13 +25,13 @@
 * [Exercício 01](https://github.com/felipemadu13/JavaScript_IMD/blob/b77ce737a2edb73afa06cedf0d4d2dbdc6790ea8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_04_ex001.js)
 
 ## Aula 05 - Atividade Moodle
-* [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/430f0a67648f53afa0c53d596e7d5c7b7d78726a/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2005/Atividade_01.txt)
-* [Atividade 02 - Guerreiro](https://github.com/felipemadu13/JavaScript_IMD/blob/430f0a67648f53afa0c53d596e7d5c7b7d78726a/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2005/Atividade_02/Guerreiro.ts)
-* [Atividade 02 - Mago](https://github.com/felipemadu13/JavaScript_IMD/blob/430f0a67648f53afa0c53d596e7d5c7b7d78726a/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2005/Atividade_02/Mago.ts)
-* [Atividade 02 - Personagens](https://github.com/felipemadu13/JavaScript_IMD/blob/430f0a67648f53afa0c53d596e7d5c7b7d78726a/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2005/Atividade_02/Personagens.ts)
+* Atividade 01
+* Atividade 02 - Guerreiro
+* Atividade 02 - Mago
+* Atividade 02 - Personagens
 
 ## Aula 06 - Atividade Moodle
-* [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/da79ca3060229ddf1b274060d166cdfe7c344467/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2006/Atividade_01.txt)
+* Atividade 01
 
 ## AP Semana 12- Aula 05
 * [Exercício 01 - Animal.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/c9c1cfd753a90ca4dd91a01e9085333a829cf60b/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_05_ex001/Animal.ts)
