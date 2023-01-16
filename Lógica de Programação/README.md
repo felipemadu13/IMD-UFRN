@@ -97,13 +97,13 @@
 * Definindo Mais Funções
 
 ## Aula 15 ##
-* [Atividade 01 - Preenchendo e Lendo uma Matriz I](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_01.txt)
-* [Atividade 02 - Preenchendo e Lendo uma Matriz II](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_02.txt)
-* [Atividade 03 - Menor Número e Posição](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_03.txt)
-* [Atividade 04 - Preenchimento de Matriz I](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_04.txt)
+* Atividade 01 - Preenchendo e Lendo uma Matriz I
+* Atividade 02 - Preenchendo e Lendo uma Matriz II
+* Atividade 03 - Menor Número e Posição
+* Atividade 04 - Preenchimento de Matriz I
 * Atividade 05 - Preenchendo uma Matriz 10x3 _(Atividade não realizada)_
-* [Atividade 06 - Função Produto](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_06.txt)
-* [Atividade 07 - Função Fatorial](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_07.txt)
-* [Atividade 08 - Função do Maior](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_08.txt)
-* [Atividade 09 - Função do Par](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_09.txt)
-* [Atividade 10 - Função do Primo](https://github.com/felipemadu13/Potigol/blob/150617d6d9db4f64c768c8c850ba33ee9b3a906c/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_10.txt)
+* Atividade 06 - Função Produto
+* Atividade 07 - Função Fatorial
+* Atividade 08 - Função do Maior
+* Atividade 09 - Função do Par
+* Atividade 10 - Função do Primo
