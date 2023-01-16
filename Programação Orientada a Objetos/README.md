@@ -46,23 +46,23 @@
 * Exercício 01 - Teste
 * 
 ## Aula 07 - Atividade Moodle
-* [Atividade 01 - CelularTijolo.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/732b0570688476cca41900f535210aad73b3ddd8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_01/CelularTijolo.ts)
-* [Atividade 01 - CelularFlip.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/732b0570688476cca41900f535210aad73b3ddd8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_01/CelularFlip.ts)
-* [Atividade 01 - CelularSmart.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/732b0570688476cca41900f535210aad73b3ddd8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_01/CelularSmart.ts)
-* [Atividade 01 - app.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/732b0570688476cca41900f535210aad73b3ddd8/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_01/app.ts)
-* [Atividade 02 - CelularTijolo.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/00fab20484309841ddf50503328af1eab26a9de6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_02/CelularTijolo.ts)
-* [Atividade 02 - CelularFlip.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/00fab20484309841ddf50503328af1eab26a9de6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_02/CelularFlip.ts)
-* [Atividade 02 - CelularSmart.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/00fab20484309841ddf50503328af1eab26a9de6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_02/CelularSmart.ts)
-* [Atividade 02 - app.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/00fab20484309841ddf50503328af1eab26a9de6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_02/app.ts)
+* Atividade 01 - CelularTijolo.ts
+* Atividade 01 - CelularFlip.ts
+* Atividade 01 - CelularSmart.ts
+* Atividade 01 - app.ts
+* Atividade 02 - CelularTijolo.ts
+* Atividade 02 - CelularFlip.ts
+* Atividade 02 - CelularSmart.ts
+* Atividade 02 - app.ts
 
 ## Aula 08 - Atividade Moodle
-* [Atividade 01](https://github.com/felipemadu13/JavaScript_IMD/blob/daf71e21d69aad3d4ff0056487ea8572f9c4dbb0/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_01.txt)
-* [Atividade 02 - app.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/app.ts)
-* [Atividade 02 - Circulo.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/Circulo.ts)
-* [Atividade 02 - FiguraEquilatero.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/FiguraEquilatero.ts)
-* [Atividade 02 - FiguraGeometrica.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/FiguraGeometrica.ts)
-* [Atividade 02 - Quadrado.ts](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/Quadrado.ts)
-* [Atividade 02 - Triangulo](https://github.com/felipemadu13/JavaScript_IMD/blob/5fb26a3a52f70304d274a91351cccb4aacd995b6/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/Triangulo.ts)
+* Atividade 01
+* Atividade 02 - app.ts
+* Atividade 02 - Circulo.ts
+* Atividade 02 - FiguraEquilatero.ts
+* Atividade 02 - FiguraGeometrica.ts
+* Atividade 02 - Quadrado.ts
+* Atividade 02 - Triangulo
 
 ## AP Semana 13 - Aula 07
 * Exercício 01
