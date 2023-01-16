@@ -7,15 +7,16 @@
  * Exercício 03
  
  ## AP Semana 02 - Aula 02 e 03
- * [Exercício 1](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/b8a8cf58c29c8d989ca72b34f8ecec2f2fd77325/Atividades_Presenciais/Semana%2002/front_aula_2_3_ex001.html)
- * [Exercício 2 - HTML 1](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/b8a8cf58c29c8d989ca72b34f8ecec2f2fd77325/Atividades_Presenciais/Semana%2002/front_aula_2_3_ex002_pag1.html)
- * [Exercício 2 - HTML 2](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/b8a8cf58c29c8d989ca72b34f8ecec2f2fd77325/Atividades_Presenciais/Semana%2002/front_aula_2_3_ex002_pag2.html)
- * [Exercício 2 - CSS](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/b8a8cf58c29c8d989ca72b34f8ecec2f2fd77325/Atividades_Presenciais/Semana%2002/front_aula_2_3_ex002_css.css)
+ * Exercício 01
+ * Exercício 02 - HTML1
+ * Exercício 02 - HTML2
+ * Exercício 02 - CSS
+
  
  ## AP Semana 03 - Aula 04 e 05
- * [Aula 04 - Exercício 01](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/8f8f2f40b86327878d67e8792e680f2589d85523/Atividades_Presenciais/Semana%2003/front_aula_4_ex001.html)
- * [Aula 04 - Exercício 02](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/8f8f2f40b86327878d67e8792e680f2589d85523/Atividades_Presenciais/Semana%2003/front_aula_4_ex002.html)
- * [Aula 05 - Exercício 01](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/8f8f2f40b86327878d67e8792e680f2589d85523/Atividades_Presenciais/Semana%2003/front_aula_5_ex001.html)
+ * Aula 04 - Exercício 01
+ * Aula 04 - Exercício 02
+ * Aula 05 - Exercício 01
  
  ## AP Semana 04 - Aula 06
  * [Exercício 01 - HTML](https://github.com/felipemadu13/HTML5_CSS3_IMD/blob/3dceb55da26d828a50d7278eb1d1d8df762560de/Atividades_Presenciais/Semana%2004/front_aula_5_ex001_html.html)
