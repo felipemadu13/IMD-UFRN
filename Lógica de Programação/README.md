@@ -73,37 +73,37 @@
 * [Atividade 09 - Todos os Números Perfeitos](https://github.com/felipemadu13/IMD-UFRN/blob/5bc07c1402d65a378d5d0e09c8085cf1f5e1ede7/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_09.txt)
 
 ## Aula 11 ##
-* Atividade 01 - Alunos da turma
-* Atividade 02 - Lendo e imprimindo dados organizados
-* Atividade 03 - Trabalhando com vetores
+* [Atividade 01 - Alunos da turma](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2011/AULA_11_ATIVIDADE_01.txt)
+* [Atividade 02 - Lendo e imprimindo dados organizados](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2011/AULA_11_ATIVIDADE_02.txt)
+* [Atividade 03 - Trabalhando com vetores](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2011/AULA_11_ATIVIDADE_03.txt)
 
 ## Aula 12 ##
-* Atividade 01 - Preenchendo e Lendo um Vetor I
-* Atividade 02 - Preenchendo e Lendo um Vetor II
-* Atividade 03 - Menor e Posição
-* Atividade 04 - Preenchimento de Vetor I
-* Atividade 05 - Preenchendo e Lendo um Vetor III
-* Atividade 06 - Seleção em Vetor I
-* Atividade 07 - Seleção em Vetor II
-* Atividade 08 - Divisão no Vetor
-* Atividade 09 - Ordenação de Um Vetor
+* [Atividade 01 - Preenchendo e Lendo um Vetor I](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_01.txt)
+* [Atividade 02 - Preenchendo e Lendo um Vetor II](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_02.txt)
+* [Atividade 03 - Menor e Posição](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_03.txt)
+* [Atividade 04 - Preenchimento de Vetor I](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_04.txt)
+* [Atividade 05 - Preenchendo e Lendo um Vetor III](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_05.txt)
+* [Atividade 06 - Seleção em Vetor I](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_06.txt)
+* [Atividade 07 - Seleção em Vetor II](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_07.txt)
+* [Atividade 08 - Divisão no Vetor](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_08.txt)
+* [Atividade 09 - Ordenação de Um Vetor](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2012/AULA_12_ATIVIDADE_09.txt)
 
 ## Aula 13 ##
-* Atividade 01 - Preenchendo e imprimindo o conteúdo de uma matriz
-* Atividade 02 - Preenchendo e imprimindo o conteúdo de uma matriz 2
-* Atividade 03 - Somando em uma matriz
+* [Atividade 01 - Preenchendo e imprimindo o conteúdo de uma matriz](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2013/AULA_13_ATIVIDADE_01.txt)
+* [Atividade 02 - Preenchendo e imprimindo o conteúdo de uma matriz 2](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2013/AULA_13_ATIVIDADE_02.txt)
+* [Atividade 03 - Somando em uma matriz](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2013/AULA_13_ATIVIDADE_03.txt)
 
 ## Aula 14 ##
-* Definindo Mais Funções
+* [Definindo Mais Funções](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2014/PAGINA_05.txt)
 
 ## Aula 15 ##
-* Atividade 01 - Preenchendo e Lendo uma Matriz I
-* Atividade 02 - Preenchendo e Lendo uma Matriz II
-* Atividade 03 - Menor Número e Posição
-* Atividade 04 - Preenchimento de Matriz I
+* [Atividade 01 - Preenchendo e Lendo uma Matriz I](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_01.txt)
+* [Atividade 02 - Preenchendo e Lendo uma Matriz II](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_02.txt)
+* [Atividade 03 - Menor Número e Posição](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_03.txt)
+* [Atividade 04 - Preenchimento de Matriz I](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_04.txt)
 * Atividade 05 - Preenchendo uma Matriz 10x3 _(Atividade não realizada)_
-* Atividade 06 - Função Produto
-* Atividade 07 - Função Fatorial
-* Atividade 08 - Função do Maior
-* Atividade 09 - Função do Par
-* Atividade 10 - Função do Primo
+* [Atividade 06 - Função Produto](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_06.txt)
+* [Atividade 07 - Função Fatorial](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_07.txt)
+* [Atividade 08 - Função do Maior](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_08.txt)
+* [Atividade 09 - Função do Par](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_09.txt)
+* [Atividade 10 - Função do Primo](https://github.com/felipemadu13/IMD-UFRN/blob/e53fdbd69ff302fd762789981514b273dd34bf30/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2015/AULA_15_ATIVIDADE_10.txt)
