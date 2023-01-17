@@ -62,15 +62,15 @@
 * [Atividade 12 - Feliz Natal!](https://github.com/felipemadu13/IMD-UFRN/blob/15962cc79c2e704f26dc80d0d23b4fcf6f6a16ca/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2009/AULA_09_ATIVIDADE_12.txt)
 
 ## Aula 10 ##
-* Atividade 01 - Comece pelo Desafio! Vá na sequência de 6.
-* Atividade 02 - Imprimindo pontos
-* Atividade 03 - Construindo um retângulo de pontos
-* Atividade 04 - Triângulo
-* Atividade 05 - Primo ou composto!
-* Atividade 06 - Triângulo 2
-* Atividade 07 - Sequência interrompida
-* Atividade 08 - Caçando todos os primos
-* Atividade 09 - Todos os Números Perfeitos
+* [Atividade 01 - Comece pelo Desafio! Vá na sequência de 6.](https://github.com/felipemadu13/IMD-UFRN/blob/5bc07c1402d65a378d5d0e09c8085cf1f5e1ede7/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_01.txt)
+* [Atividade 02 - Imprimindo pontos](https://github.com/felipemadu13/IMD-UFRN/blob/5bc07c1402d65a378d5d0e09c8085cf1f5e1ede7/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_02.txt)
+* [Atividade 03 - Construindo um retângulo de pontos](https://github.com/felipemadu13/IMD-UFRN/blob/5bc07c1402d65a378d5d0e09c8085cf1f5e1ede7/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_03.txt)
+* [Atividade 04 - Triângulo](https://github.com/felipemadu13/IMD-UFRN/blob/5bc07c1402d65a378d5d0e09c8085cf1f5e1ede7/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_04.txt)
+* [Atividade 05 - Primo ou composto!](https://github.com/felipemadu13/IMD-UFRN/blob/5bc07c1402d65a378d5d0e09c8085cf1f5e1ede7/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_05.txt)
+* [Atividade 06 - Triângulo 2](https://github.com/felipemadu13/IMD-UFRN/blob/5bc07c1402d65a378d5d0e09c8085cf1f5e1ede7/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_06.txt)
+* [Atividade 07 - Sequência interrompida](https://github.com/felipemadu13/IMD-UFRN/blob/5bc07c1402d65a378d5d0e09c8085cf1f5e1ede7/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_07.txt)
+* [Atividade 08 - Caçando todos os primos](https://github.com/felipemadu13/IMD-UFRN/blob/5bc07c1402d65a378d5d0e09c8085cf1f5e1ede7/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_08.txt)
+* [Atividade 09 - Todos os Números Perfeitos](https://github.com/felipemadu13/IMD-UFRN/blob/5bc07c1402d65a378d5d0e09c8085cf1f5e1ede7/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2010/AULA_10_ATIVIDADE_09.txt)
 
 ## Aula 11 ##
 * Atividade 01 - Alunos da turma
