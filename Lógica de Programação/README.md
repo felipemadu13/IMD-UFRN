@@ -2,7 +2,7 @@
  Exercícios do Técnico em Tecnologia da Informação 2022.1 - IMD
 
 ## Aula 01 ##
-* Atividade 02 - Olá Mundo!
+* [Atividade 02 - Olá Mundo!](https://github.com/felipemadu13/IMD-UFRN/blob/855daba0c5f16fabdf83b9bdcf2cd52e7d858bbe/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/ATIVIDADES%20-%20AULA%2001/AULA_01_ATIVIDADE_02.txt)
 
 ## Aula 02 ##
 * Atividade 01 - Entrada e saída!
