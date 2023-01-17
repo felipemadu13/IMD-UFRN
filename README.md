@@ -3,7 +3,7 @@
  
 ## Módulo Básico
 ### Lógica de Programação (Potigol)
-* Lógica de Programação
+* [Lógica de Programação](https://github.com/felipemadu13/IMD-UFRN/blob/2534a2a944c092d221b15e6441fb431f5a709f6c/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/README.md)
  
 ## Módulo Intermédiario
 
