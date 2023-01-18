@@ -2,7 +2,7 @@
  Exercícios de Desenvolvimento Front-End I do IMD
  
  ## AP Semana 01 - Aula 01
- * Exercício 01
+ * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/eb2cb2bd1b2549e8cef2e02d740c4e02527da816/Desenvolvimento%20Front-End%20I/Semana%2001/front_aula1_ex001.html)
  * Exercício 02
  * Exercício 03
  
