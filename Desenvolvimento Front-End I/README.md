@@ -34,23 +34,23 @@
  * [Exercício 01 - HEADER](https://github.com/felipemadu13/IMD-UFRN/blob/49278b1b2fd5d786133f44f43cd9e28647421fba/Desenvolvimento%20Front-End%20I/Semana%2006/front_aula_09_ex001_header.jpg)
  
   ## AP Semana 07 - Aula 10 e 11
-  * Aula 10 - Exercício 01 - HTML
-  * Aula 10 - Exercício 01 - MP3
-  * Aula 10 - Exercício 02 - HTML
-  * Aula 10 - Exercício 02 - MP4
-  * Aula 10 - Exercício 02 - THUMB
-  * Aula 11 - Exercício 01 - HTML
-  * Aula 11 - Exercício 01 - CSS
-  * Aula 11 - Exercício 01 - LOGO
+  * [Aula 10 - Exercício 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2007/front_aula_10_ex001.html)
+  * [Aula 10 - Exercício 01 - MP3](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2007/front_aula_10_ex001.mp3)
+  * [Aula 10 - Exercício 02 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2007/front_aula_10_ex002.html)
+  * [Aula 10 - Exercício 02 - MP4](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2007/front_aula_10_ex002.mp4)
+  * [Aula 10 - Exercício 02 - THUMB](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2007/front_aula_10_ex002_thumb.jpg)
+  * [Aula 11 - Exercício 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2007/front_aula_11_ex001.html)
+  * [Aula 11 - Exercício 01 - CSS](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2007/front_aula_11_ex001.css)
+  * [Aula 11 - Exercício 01 - LOGO](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2007/front_aula_11_ex001_logo.png)
   
  ## AP Semana 08 - Aula 12 e 13
- * Exercício 01 - HTML
- * Exercício 01 - CSS
- * Exercício 01 - LOGO
+ * [Exercício 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2008/front_aula_12_13_ex001.html)
+ * [Exercício 01 - CSS](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2008/front_aula_12_13_ex001.css)
+ * [Exercício 01 - LOGO](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2008/front_aula_12_13_ex001_logo.png)
  
   ## AP Semana 08 - Aula 14 e 15
-  * Exercício 01 - HTML
-  * Exercício 01 - CSS
-  * Exercício 01 - HTML - CONTATO
-  * Exercício 01 - IMAGENS
+  * [Exercício 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2009/front_aula_14_15_ex001.html)
+  * [Exercício 01 - CSS](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2009/front_aula_14_15_ex001.css)
+  * [Exercício 01 - HTML - CONTATO](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2009/front_aula_14_15_ex001_contato.html)
+  * [Exercício 01 - IMAGENS](https://github.com/felipemadu13/IMD-UFRN/blob/c49a3d8867ccd517dba65b25fa94c273f62e1117/Desenvolvimento%20Front-End%20I/Semana%2009/imagens.rar)
   
