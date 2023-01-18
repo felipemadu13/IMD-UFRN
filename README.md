@@ -8,7 +8,7 @@
 ## Módulo Intermédiario
 
 ### Desenvolvimento Front-End I (HTML, CSS)
-* Desenvolvimento Front-End I
+* [Desenvolvimento Front-End I](https://github.com/felipemadu13/IMD-UFRN/blob/9b617b2ce5f5d275ec2a09a6ad54d46c2cac6138/Desenvolvimento%20Front-End%20I/README.md)
 
 ### Programação Estruturada (JavaScript)
 * Programação Estruturada
