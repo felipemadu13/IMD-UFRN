@@ -22,16 +22,16 @@
  * [Exercício 02 - CSS](https://github.com/felipemadu13/IMD-UFRN/blob/045c328a9e4db207175cb7d498303759c5a837ec/Desenvolvimento%20Front-End%20I/Semana%2004/front_aula_6_ex001_css.css)
 
  ## AP Semana 05 - Aula 07 e 08
- * Exercício 01 - HTML
- * Exercício 01 - CSS
- * Exercício 02 - HTML
- * Exercício 02 - CSS
+ * [Exercício 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/49278b1b2fd5d786133f44f43cd9e28647421fba/Desenvolvimento%20Front-End%20I/Semana%2005/front_aula_07_08_ex001.html)
+ * [Exercício 01 - CSS](https://github.com/felipemadu13/IMD-UFRN/blob/49278b1b2fd5d786133f44f43cd9e28647421fba/Desenvolvimento%20Front-End%20I/Semana%2005/front_aula_07_08_ex001.css)
+ * [Exercício 02 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/49278b1b2fd5d786133f44f43cd9e28647421fba/Desenvolvimento%20Front-End%20I/Semana%2005/front_aula_07_08_ex002.html)
+ * [Exercício 02 - CSS](https://github.com/felipemadu13/IMD-UFRN/blob/49278b1b2fd5d786133f44f43cd9e28647421fba/Desenvolvimento%20Front-End%20I/Semana%2005/front_aula_07_08_ex002.css)
  
  ## AP Semana 06 - Aula 09
- * Exercício 01 - HTML
- * Exercício 01 - CSS
- * Exercício 01 - FACEBOOK LOGO
- * Exercício 01 - HEADER
+ * [Exercício 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/49278b1b2fd5d786133f44f43cd9e28647421fba/Desenvolvimento%20Front-End%20I/Semana%2006/front_aula_09_ex001.html)
+ * [Exercício 01 - CSS](https://github.com/felipemadu13/IMD-UFRN/blob/49278b1b2fd5d786133f44f43cd9e28647421fba/Desenvolvimento%20Front-End%20I/Semana%2006/front_aula_09_ex001.css)
+ * [Exercício 01 - FACEBOOK LOGO](https://github.com/felipemadu13/IMD-UFRN/blob/49278b1b2fd5d786133f44f43cd9e28647421fba/Desenvolvimento%20Front-End%20I/Semana%2006/front_aula_09_ex001_facebook.png)
+ * [Exercício 01 - HEADER](https://github.com/felipemadu13/IMD-UFRN/blob/49278b1b2fd5d786133f44f43cd9e28647421fba/Desenvolvimento%20Front-End%20I/Semana%2006/front_aula_09_ex001_header.jpg)
  
   ## AP Semana 07 - Aula 10 e 11
   * Aula 10 - Exercício 01 - HTML
