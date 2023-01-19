@@ -44,11 +44,11 @@
 
  
 ## AP Semana 02 - Aula 03 e 04
-* Exercício 01
-* Exercício 02
-* Exercício 03
-* Exercício 04
-* Exercício 05
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/a0e44e6feb81e9aca72433890dd8e81f66d2a9cb/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2002/prog_aula_3_4_ex001.html)
+* [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/a0e44e6feb81e9aca72433890dd8e81f66d2a9cb/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2002/prog_aula_3_4_ex002.html)
+* [Exercício 03](https://github.com/felipemadu13/IMD-UFRN/blob/a0e44e6feb81e9aca72433890dd8e81f66d2a9cb/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2002/prog_aula_3_4_ex003.html)
+* [Exercício 04](https://github.com/felipemadu13/IMD-UFRN/blob/a0e44e6feb81e9aca72433890dd8e81f66d2a9cb/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2002/prog_aula_3_4_ex004.html)
+* [Exercício 05](https://github.com/felipemadu13/IMD-UFRN/blob/a0e44e6feb81e9aca72433890dd8e81f66d2a9cb/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2002/prog_aula_3_4_ex005.html)
  
 ## Aula 05 - Atividade Moodle
 * [Atividade 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/7925486dee0fb50c881c3dd2dfa6f0c7d10e6f1d/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2005/Atividade_05-1/Atividade_05_1.html)
@@ -60,9 +60,9 @@
 
  
 ## AP Semana 03 - Aula 05
-* Exercício 01
-* Exercício 02
-* Exercício 02 - COM IF
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/a0e44e6feb81e9aca72433890dd8e81f66d2a9cb/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2003/prog_aula_5_ex001.html)
+* [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/a0e44e6feb81e9aca72433890dd8e81f66d2a9cb/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2003/prog_aula_5_ex002_01.html)
+* [Exercício 02 - COM IF](https://github.com/felipemadu13/IMD-UFRN/blob/a0e44e6feb81e9aca72433890dd8e81f66d2a9cb/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2003/prog_aula_5_ex002_02.html)
 
  
 ## Aula 06 - Atividade Moodle
