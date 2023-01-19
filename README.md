@@ -11,7 +11,7 @@
 * [Desenvolvimento Front-End I](https://github.com/felipemadu13/IMD-UFRN/blob/9b617b2ce5f5d275ec2a09a6ad54d46c2cac6138/Desenvolvimento%20Front-End%20I/README.md)
 
 ### Programação Estruturada (JavaScript)
-* Programação Estruturada
+* [Programação Estruturada](https://github.com/felipemadu13/IMD-UFRN/blob/4aff5d888652f2cea3b980d270f8c829f81a8fba/Programa%C3%A7%C3%A3o%20Estruturada/README.md)
 
 ### Desenvolvimento Front-End II (DOM, JSON, jQuery)
 * Desenvolvimento Front-End II
