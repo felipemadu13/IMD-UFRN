@@ -218,5 +218,5 @@
 * Exercício 02
  
 ## Aula 15 - Atividade Moodle
-* Atividade 01
+* Sem atividade
 
