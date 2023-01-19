@@ -5,10 +5,10 @@
  * [Atividade 01](https://github.com/felipemadu13/IMD-UFRN/blob/25922a923515f9cafe51d7f55df4065e5ff5bfe1/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2001/Atividade_01/Atividade_01.html)
 
 ## Aula 02 - Atividade Moodle
-* Atividade 01
-* Atividade 02
-* Atividade 03
-* Atividade 04
+* [Atividade 01](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2002/Atividade_02-1/Atividade_02-1.html)
+* [Atividade 02](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2002/Atividade_02-2/Atividade_02-2.html)
+* [Atividade 03](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2002/Atividade_02-3/Atividade_02-3.html)
+* [Atividade 04](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2002/Atividade_02-4/Atividade_02-4.html)
 
 ## AP Semana 01 - Aula 01 e 02
 * Exercício 01
@@ -19,20 +19,20 @@
 * Exercício 06
 
  ## Aula 03 - Atividade Moodle
-* Atividade 01 - HTML
-* Atividade 01 - JS
-* Atividade 02 - HTML
-* Atividade 02 - JS
-* Atividade 03 - HTML
-* Atividade 03 - JS
-* Atividade 04 - HTML
-* Atividade 04 - JS
-* Atividade 05 - HTML
-* Atividade 05 - JS
-* Atividade 06 - HTML
-* Atividade 06 - JS
-* Atividade 07 - HTML
-* Atividade 07 - JS
+* [Atividade 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-1/Atividade_03_1.html)
+* [Atividade 01 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-1/Atividade_03_1.js)
+* [Atividade 02 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-2/Atividade_03_2.html)
+* [Atividade 02 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-2/Atividade_03_2.js)
+* [Atividade 03 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-3/Atividade_03_3.html)
+* [Atividade 03 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-3/Atividade_03_3.js)
+* [Atividade 04 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-4/Atividade_03_4.html)
+* [Atividade 04 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-4/Atividade_03_4.js)
+* [Atividade 05 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-5/Atividade_03_5.html)
+* [Atividade 05 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-5/Atividade_03_5.js)
+* [Atividade 06 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-6/Atividade_03_6.html)
+* [Atividade 06 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-6/Atividade_03_6.js)
+* [Atividade 07 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-7/Atividade_03_7.html)
+* [Atividade 07 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/8a6b71640959ed765757224532079ee9f5e30b44/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2003/Atividade_03-7/Atividade_03_7.js)
  
  ## Aula 04 - Atividade Moodle
 * Atividade 01
