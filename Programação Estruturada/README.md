@@ -80,9 +80,9 @@
 * [Atividade 06 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/bdc9c43cc001d796451b4a9f8a1875cb683b684c/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2006/Atividade_06-6/Atividade_06_6.js)
 
 ## AP Semana 04 - Aula 06
-* Exercício 01
-* Exercício 02
-* Exercício 03
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/eeb81300673091ae2f13a3602a0a20e92f97dea8/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2004/prog_aula_6_ex001.html)
+* [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/eeb81300673091ae2f13a3602a0a20e92f97dea8/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2004/prog_aula_6_ex002.html)
+* [Exercício 03](https://github.com/felipemadu13/IMD-UFRN/blob/eeb81300673091ae2f13a3602a0a20e92f97dea8/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2004/prog_aula_6_ex003.html)
     
 ## Aula 07 - Atividade Moodle
 * [Atividade 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/7fdf50b9f1853224f2723eb04f8ec1f9e55e9620/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2007/Atividade_07-1/Atividade_07_1.html)
@@ -113,11 +113,11 @@
 * [Atividade 06 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/daf78d8dc62a2ae9e8672195f5fd01ce3c97efae/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2008/Atividade_08-6/Atividade_08_6.js)
 
 ## AP Semana 05 - Aula 07 e 08
-* Exercício 01
-* Exercício 02
-* Exercício 03
-* Exercício 04
-* Exercício 05
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/eeb81300673091ae2f13a3602a0a20e92f97dea8/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex001.html)
+* [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/eeb81300673091ae2f13a3602a0a20e92f97dea8/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex002.html)
+* [Exercício 03](https://github.com/felipemadu13/IMD-UFRN/blob/eeb81300673091ae2f13a3602a0a20e92f97dea8/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex003.html)
+* [Exercício 04](https://github.com/felipemadu13/IMD-UFRN/blob/eeb81300673091ae2f13a3602a0a20e92f97dea8/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex004.html)
+* [Exercício 05](https://github.com/felipemadu13/IMD-UFRN/blob/eeb81300673091ae2f13a3602a0a20e92f97dea8/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2005/prog_aula_07_08_ex005.html)
 
 ## Aula 09 - Atividade Moodle
 * [Atividade 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/024d607806f86e63888f59284e9a5581fe836c46/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2009/Atividade_09-1/Atividade_09_1.html)
