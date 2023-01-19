@@ -184,9 +184,9 @@
 * [Atividade 06 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/04b5efd66bd38f4b74b60b06424f805c8ce95236/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2012/Atividade_12-6/Atividade_12_6.js)
   
 ## AP Semana 07 - Aula 11 e 12
-* Exercício 01
-* Exercício 02
-* Exercício 03
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/402cbeef6338381b3f64b568cfe16b5878e96dd5/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2007/prog_aula_11_12_ex001.html)
+* [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/402cbeef6338381b3f64b568cfe16b5878e96dd5/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2007/prog_aula_11_12_ex002.html)
+* [Exercício 03](https://github.com/felipemadu13/IMD-UFRN/blob/402cbeef6338381b3f64b568cfe16b5878e96dd5/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2007/prog_aula_11_12_ex003.html)
   
 ## Aula 13 - Atividade Moodle
 * [Atividade 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/0080866f1700a665ecf3ad77652dad57681981bf/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2013/Atividade_13-1/Atividade_13_1.html)
@@ -214,9 +214,9 @@
 * [Atividade 05 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/d0f24cae149573751b25e1ded813ba087f61832c/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Moodle/Aula%2014/Atividade_14-5/Atividade_14_5.js)
   
 ## AP Semana 08 - Aula 13 e 14
-* Exercício 01
-* Exercício 02
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/402cbeef6338381b3f64b568cfe16b5878e96dd5/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2008/prog_aula_13_14_ex001.html)
+* [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/402cbeef6338381b3f64b568cfe16b5878e96dd5/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2008/prog_aula_13_14_ex002.html)
  
-## Aula 15 - Atividade Moodle
-* Sem atividade
+## AP Semana 09 - Aula 15
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/402cbeef6338381b3f64b568cfe16b5878e96dd5/Programa%C3%A7%C3%A3o%20Estruturada/Atividades_Presenciais/Semana%2009/prog_aula_15_ex001.html)
 
