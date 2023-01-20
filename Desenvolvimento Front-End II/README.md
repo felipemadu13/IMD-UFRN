@@ -20,23 +20,23 @@
  * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/adb61406118f038521273fcc79998d3fb0348036/Desenvolvimento%20Front-End%20II/Semana%2011/frontii_aula_05_ex001.html)
 
  ## AP Semana 12 - Aula 06 e 07
- * Exercício 01 - HTML
- * Exercício 01 - JS
- * Exercício 02
+ * [Exercício 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/828643457b097593efe7fa7937831e4341a46211/Desenvolvimento%20Front-End%20II/Semana%2012/frontii_aula_06_07_ex001.html)
+ * [Exercício 01 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/828643457b097593efe7fa7937831e4341a46211/Desenvolvimento%20Front-End%20II/Semana%2012/frontii_aula_06_07_ex001.js)
+ * [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/828643457b097593efe7fa7937831e4341a46211/Desenvolvimento%20Front-End%20II/Semana%2012/frontii_aula_06_07_ex002.html)
 
  ## AP Semana 13 - Aula 08 e 09
- * Exercício 01
- * Exercício 02
+ * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/828643457b097593efe7fa7937831e4341a46211/Desenvolvimento%20Front-End%20II/Semana%2013/frontii_aula_08_09_ex001.html)
+ * [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/828643457b097593efe7fa7937831e4341a46211/Desenvolvimento%20Front-End%20II/Semana%2013/frontii_aula_08_09_ex002.html)
 
 ## AP Semana 14 - Aula 10 e 11
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/828643457b097593efe7fa7937831e4341a46211/Desenvolvimento%20Front-End%20II/Semana%2014/frontii_aula_10_11_ex001.html)
 
 ## AP Semana 15 - Aula 12 e 13
-* Exercício 01
-* Exercício 02
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/828643457b097593efe7fa7937831e4341a46211/Desenvolvimento%20Front-End%20II/Semana%2015/frontii_aula_12_13_ex001.html)
+* [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/828643457b097593efe7fa7937831e4341a46211/Desenvolvimento%20Front-End%20II/Semana%2015/frontii_aula_12_13_ex002.html)
 
 ## AP Semana 16 - Aula 14 e 15
-* Exercício 01 - HTML
-* Exercício 01 - CSS
-* Exercício 01 - JS
+* [Exercício 01 - HTML](https://github.com/felipemadu13/IMD-UFRN/blob/828643457b097593efe7fa7937831e4341a46211/Desenvolvimento%20Front-End%20II/Semana%2016/index.html)
+* [Exercício 01 - CSS](https://github.com/felipemadu13/IMD-UFRN/blob/828643457b097593efe7fa7937831e4341a46211/Desenvolvimento%20Front-End%20II/Semana%2016/styles.css)
+* [Exercício 01 - JS](https://github.com/felipemadu13/IMD-UFRN/blob/828643457b097593efe7fa7937831e4341a46211/Desenvolvimento%20Front-End%20II/Semana%2016/index.js)
 
