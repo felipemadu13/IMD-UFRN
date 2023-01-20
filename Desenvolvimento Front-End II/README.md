@@ -2,7 +2,7 @@
  Exercícios de Desenvolvimento Front-End II do IMD/UFRN
  
  ## AP Semana 10 - Aula 01
- * Exercício 01
+ * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/501306793e616e2004b1ae693089fed76b200096/Desenvolvimento%20Front-End%20II/Semana%2010/frontii_aula_01_ex001.js)
  * Exercício 02
 
  ## AP Semana 10 - Aula 02
