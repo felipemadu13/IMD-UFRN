@@ -13,11 +13,11 @@
  * [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/2987c2c7b9ee0a3d6f5418347065256042fde02a/Desenvolvimento%20Front-End%20II/Semana%2010/frontii_aula_03_ex002.js)
 
  ## AP Semana 11 - Aula 04
- * Exercício 01
- * Exercício 02
+ * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/adb61406118f038521273fcc79998d3fb0348036/Desenvolvimento%20Front-End%20II/Semana%2011/frontii_aula_04_ex001.js)
+ * [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/adb61406118f038521273fcc79998d3fb0348036/Desenvolvimento%20Front-End%20II/Semana%2011/frontii_aula_04_ex002.js)
 
  ## AP Semana 11 - Aula 05
- * Exercício 01
+ * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/adb61406118f038521273fcc79998d3fb0348036/Desenvolvimento%20Front-End%20II/Semana%2011/frontii_aula_05_ex001.html)
 
  ## AP Semana 12 - Aula 06 e 07
  * Exercício 01 - HTML
