@@ -14,7 +14,7 @@
 * [Programação Estruturada](https://github.com/felipemadu13/IMD-UFRN/blob/4aff5d888652f2cea3b980d270f8c829f81a8fba/Programa%C3%A7%C3%A3o%20Estruturada/README.md)
 
 ### Desenvolvimento Front-End II (DOM, JSON, jQuery)
-* Desenvolvimento Front-End II
+* [Desenvolvimento Front-End II](https://github.com/felipemadu13/IMD-UFRN/blob/aa3c2674fb7c0b3b6d26c6eee50c8f224608dac4/Desenvolvimento%20Front-End%20II/README.md)
 
 ### Programação Orientada a Objetos (TypeScript)
 * Programação Orientada a Objetos
