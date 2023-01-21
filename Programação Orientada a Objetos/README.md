@@ -8,8 +8,8 @@
 * [Atividade 01](https://github.com/felipemadu13/IMD-UFRN/blob/e8176a89cff54a6c2d405526625b5d9d2e2e3d19/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2002/atividade_01.ts)
 
 ## AP Semana 10 - Aula 01 e 02
-* Exercício 01
-* Exercício 02
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2010/poo_aula_01_02_ex001.js)
+* [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2010/poo_aula_01_02_ex002.js)
 
 ## Aula 03 - Atividade Moodle
 * Sem atividades
@@ -19,10 +19,10 @@
 * [Atividade 02](https://github.com/felipemadu13/IMD-UFRN/blob/e8176a89cff54a6c2d405526625b5d9d2e2e3d19/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2004/Atividade_02.ts)
 
 ## AP Semana 11 - Aula 03
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_03_ex001.js)
 
 ## AP Semana 11 - Aula 04
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2011/poo_aula_04_ex001.js)
 
 ## Aula 05 - Atividade Moodle
 * [Atividade 01](https://github.com/felipemadu13/IMD-UFRN/blob/e8176a89cff54a6c2d405526625b5d9d2e2e3d19/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2005/Atividade_01.txt)
@@ -34,17 +34,17 @@
 * [Atividade 01](https://github.com/felipemadu13/IMD-UFRN/blob/e8176a89cff54a6c2d405526625b5d9d2e2e3d19/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2006/Atividade_01.txt)
 
 ## AP Semana 12- Aula 05
-* Exercício 01 - Animal
-* Exercício 01 - Cidade
-* Exercício 01 - Pessoa
-* Exercício 01 - Teste
+* [Exercício 01 - Animal](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_05_ex001/Animal.ts)
+* [Exercício 01 - Cidade](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_05_ex001/Cidade.ts)
+* [Exercício 01 - Pessoa](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_05_ex001/Pessoa.ts)
+* [Exercício 01 - Teste](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_05_ex001/teste.ts)
 
 ## AP Semana 12 - Aula 06
-* Exercício 01 - Computador
-* Exercício 01 - Desktop
-* Exercício 01 - Laptop
-* Exercício 01 - Teste
-* 
+* [Exercício 01 - Computador](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_06_ex001/Computador.ts)
+* [Exercício 01 - Desktop](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_06_ex001/Desktop.ts)
+* [Exercício 01 - Laptop](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_06_ex001/Laptop.ts)
+* [Exercício 01 - Teste](https://github.com/felipemadu13/IMD-UFRN/blob/7f52921a381f43d5d20447366e2f8068da4e99ef/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2012/poo_aula_06_ex001/teste.ts)
+
 ## Aula 07 - Atividade Moodle
 * [Atividade 01 - CelularTijolo.ts](https://github.com/felipemadu13/IMD-UFRN/blob/e8176a89cff54a6c2d405526625b5d9d2e2e3d19/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_01/CelularTijolo.ts)
 * [Atividade 01 - CelularFlip.ts](https://github.com/felipemadu13/IMD-UFRN/blob/e8176a89cff54a6c2d405526625b5d9d2e2e3d19/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2007/Atividade_01/CelularFlip.ts)
