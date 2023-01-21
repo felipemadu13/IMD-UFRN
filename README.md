@@ -17,6 +17,6 @@
 * [Desenvolvimento Front-End II](https://github.com/felipemadu13/IMD-UFRN/blob/aa3c2674fb7c0b3b6d26c6eee50c8f224608dac4/Desenvolvimento%20Front-End%20II/README.md)
 
 ### Programação Orientada a Objetos (TypeScript)
-* Programação Orientada a Objetos
+* [Programação Orientada a Objetos](https://github.com/felipemadu13/IMD-UFRN/blob/e870c184f1c9e8ab1265a356f6b0d517d66f04d9/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/README.md)
 
 ## Módulo Avançado
