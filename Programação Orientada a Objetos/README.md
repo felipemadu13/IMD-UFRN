@@ -65,12 +65,11 @@
 * [Atividade 02 - Triangulo](https://github.com/felipemadu13/IMD-UFRN/blob/e8176a89cff54a6c2d405526625b5d9d2e2e3d19/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Moodle/Aula%2008/Atividade_02/Triangulo.ts)
 
 ## AP Semana 13 - Aula 07
-* Exercício 01
-
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2013/poo_aula_07_ex001.ts)
 
 ## AP Semana 13 - Aula 08
-* Exercício 02
-* 
+* [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2013/poo_aula_08_ex001.ts)
+
 ## Aula 09 - Atividade Moodle
 * Sem atividades
 
@@ -78,13 +77,13 @@
 * Sem atividades
 
 ## AP Semana 14 - Aula 09
-* Exercício 01 - app.ts
-* Exercício 02 - Jogador.ts
-* Exercício 03 - Volante.ts
-* Exercício 04 - Controlave.ts
+* [Exercício 01 - app.ts](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2014/poo_aula_09_ex001/app.ts)
+* [Exercício 02 - Jogador.ts](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2014/poo_aula_09_ex001/Jogador.ts)
+* [Exercício 03 - Volante.ts](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2014/poo_aula_09_ex001/Volante.ts)
+* [Exercício 04 - Controlave.ts](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2014/poo_aula_09_ex001/Controlavel.ts)
 
 ## AP Semana 14 - Aula 10
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2014/poo_aula_10_ex001/poo_aula_10_ex001.ts)
 
 ## Aula 11 - Atividade Moodle
 * Sem atividades
@@ -93,10 +92,10 @@
 * Sem atividades
 
 ## AP Semana 15 - Aula 11
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2015/poo_aula_11_ex001.ts)
 
 ## AP Semana 15 - Aula 12
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2015/poo_aula_12_ex001.ts)
 
 ## Aula 13 - Atividade Moodle
 * Sem atividades
@@ -108,14 +107,14 @@
 * Sem atividades
 
 ## AP Semana 16 - Aula 13
-* Exercício 01 - app.ts
-* Exercício 01 - Pessoas.ts
+* [Exercício 01 - app.ts](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_13_ex001/app.ts)
+* [Exercício 01 - Pessoas.ts](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_13_ex001/pessoa.ts)
 
 ## AP Semana 16 - Aula 14
-* Exercício 01 - app.ts
-* Exercício 01 - Pessoa.ts
+* [Exercício 01 - app.ts](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_14_ex001/app.ts)
+* [Exercício 01 - Livro.t](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_14_ex001/livro.ts)s
 
 ## AP Semana 16 - Aula 15
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_15_ex001.pdf)
 
 
