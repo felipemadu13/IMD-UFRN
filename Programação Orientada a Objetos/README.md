@@ -112,7 +112,7 @@
 
 ## AP Semana 16 - Aula 14
 * [Exercício 01 - app.ts](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_14_ex001/app.ts)
-* [Exercício 01 - Livro.t](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_14_ex001/livro.ts)s
+* [Exercício 01 - Livro.ts](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_14_ex001/livro.ts)
 
 ## AP Semana 16 - Aula 15
 * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/54b9335bfbb405c6353d8ad0574d50ac81fda543/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/Atividades_Presenciais/Semana%2016/poo_aula_15_ex001.pdf)
