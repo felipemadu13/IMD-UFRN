@@ -1,4 +1,6 @@
-# IMD-UFRN
+# <img height="100" src="https://user-images.githubusercontent.com/106445418/214917987-fa109ff1-a399-4414-8e93-68d121cbef71.png"/>
+
+ 
  Exercícios resolvidos das matérias do curso técnico em Tecnologia da Informação - Informática para Internet (IMD/UFRN)
  
 ## Módulo Básico
