@@ -1,0 +1,28 @@
+GET http://localhost:8080
+
+###
+GET http://localhost:8080/usuarios
+
+###
+GET http://localhost:8080/usuarios/
+
+
+###
+POST http://localhost:8080/usuarios
+Content-Type: application/json
+
+{
+    "email": "bananagmail.com",
+    "senha": "12234"
+}
+
+###
+PUT http://localhost:8080/usuarios?id=
+Content-Type: application/json
+
+{
+    "nome": "Carlos da Silva"
+}
+
+###
+DELETE http://localhost:8080/usuarios?id=
