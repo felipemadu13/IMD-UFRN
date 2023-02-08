@@ -4,8 +4,6 @@ const { v4: uuidv4 } = require('uuid')
 const postMid = require('../middleware/validarPost.middleware')
 const { Post } = require('../models')
 
-const posts = {}
-
 router.post('/', postMid)
 router.put('/', postMid)
 
@@ -26,17 +24,6 @@ router.post('/', async (req, res) => {
     res.json({msg: "Post adicionado com sucesso!"})
 })
 
-router.delete('/', async (req, res) => {
-    const id = req.query.id
-    const post = await Post.findByPk(id)
-    if (post){
-        await post.destroy()
-        res.json({msg: "Post deletado com sucesso!"})
-    }else{
-        res.status(400).json({msg: "Post não encontrado!"})
-    }
-})
-
 router.put('/', async (req, res) => {
     const id = req.query.id
     const post = await Post.findByPk(id)
@@ -45,6 +32,17 @@ router.put('/', async (req, res) => {
         post.texto = req.body.texto
         await post.save()
         res.json({msg: "Post atualizado com sucesso!"})
+    }else{
+        res.status(400).json({msg: "Post não encontrado!"})
+    }
+})
+
+router.delete('/', async (req, res) => {
+    const id = req.query.id
+    const post = await Post.findByPk(id)
+    if (post){
+        await post.destroy()
+        res.json({msg: "Post deletado com sucesso!"})
     }else{
         res.status(400).json({msg: "Post não encontrado!"})
     }

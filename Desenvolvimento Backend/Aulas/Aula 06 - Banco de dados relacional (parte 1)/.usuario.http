@@ -1,10 +1,8 @@
-GET http://localhost:8080
-
 ###
 GET http://localhost:8080/usuarios
 
 ###
-GET http://localhost:8080/usuarios/
+GET http://localhost:8080/usuarios/1
 
 
 ###
@@ -12,17 +10,18 @@ POST http://localhost:8080/usuarios
 Content-Type: application/json
 
 {
-    "email": "bananagmail.com",
-    "senha": "12234"
+    "email": "banana@test.com",
+    "senha": "bananateste"
 }
 
 ###
-PUT http://localhost:8080/usuarios?id=
+PUT http://localhost:8080/usuarios?id=1
 Content-Type: application/json
 
 {
-    "nome": "Carlos da Silva"
+    "email": "bananabarco@test.com",
+    "senha": "bananabanana"
 }
 
 ###
-DELETE http://localhost:8080/usuarios?id=
+DELETE http://localhost:8080/usuarios?id=1
