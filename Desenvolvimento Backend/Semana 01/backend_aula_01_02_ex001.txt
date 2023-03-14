@@ -1,0 +1,5 @@
+Faça um breve relato sobre a tecnologia Node.js destacando suas vantagens, diferenciais e características.
+
+O Node.js é um runtime JavaScript server-side. Node.js foi construído a partir do motor(engine) do Google Chrome, o V8. Seu principal uso é para criar servidores web.
+Entre as principais vantagens do Node.js está a possibilidade de usar somente uma linguagem de programação do front-end ao back-end. Realizar operações com JSON de maneira seamless (continua). E uso da biblioteca NPM, que possui diversos módulos que auxiliam na construção de uma API.
+Um dos diferenciais do Node é o Event Loop, um modelo de execução de código que monitora a fila de eventos e execução de instruções. Isso faz com que tarefas assíncronas sejam executadas de forma paralela, sem prejudicar o andamento do programa.
