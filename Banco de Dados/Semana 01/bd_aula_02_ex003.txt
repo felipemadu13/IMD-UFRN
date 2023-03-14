@@ -1,0 +1,3 @@
+O que é Cardinalidade em banco de dados?
+A cardinalidade está relacionada com o número de ocorrências entre uma entidade A e seu relacionamento com uma entidade B. Um exemplo seria uma agência de publicidade do qual um profissional de atendimento teria uma cartela de clientes (relação 1:N) e o cliente só teria um atendente (1:1).
+

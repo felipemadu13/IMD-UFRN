@@ -1,0 +1,11 @@
+Exercício 1 
+Quais são os níveis de abstração de dados existentes? Descreva cada um deles.
+
+Os bancos de dados podem ser formados por três níveis de abstração:
+
+Nível de visão do usuário: são as partes acessadas pelo usuário de acordo com sua necessidade individual ou de grupo de usuários.
+
+Nível conceitual: onde as informações são representadas em um nível conceitual. Definindo quais são os dados armazenados, seus relacionamentos e seus atributos.
+
+Nível físico: nível mais baixo de abstração que define a forma que os dados vão ser armazenados fisicamente.
+
