@@ -9,4 +9,12 @@
  * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/9bbcedf3885037da1f00bf666f1b1194294d9da8/Banco%20de%20Dados/Semana%2001/bd_aula_02_ex001.txt)
  * [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/9bbcedf3885037da1f00bf666f1b1194294d9da8/Banco%20de%20Dados/Semana%2001/bd_aula_02_ex002.txt)
  * [Exercício 03](https://github.com/felipemadu13/IMD-UFRN/blob/9bbcedf3885037da1f00bf666f1b1194294d9da8/Banco%20de%20Dados/Semana%2001/bd_aula_02_ex003.txt)
+ 
+  ## AP Semana 02 - Aula 03
+  * Exercício 01
+  * Exercício 02
+  
+  ## AP Semana 02 - Aula 04
+  * Exercício 01
+  * Exercício 02
 
