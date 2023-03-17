@@ -1,0 +1,4 @@
+
+Dentro do conceito de banco de dados, os atributos simples são aqueles que são indivisíveis, por exemplo: nome, sexo e salário. Já atributos compostos podem ser divididos, como por exemplo o endereço, que pode ser dividido em rua, bairro, CEP, estado, país.
+
+No mapeando de atributos simples do modelo ER para MR, relacionamos um atributo ao seu tipo de dado. Por exemplo, se temos o sexo de uma pessoa, podemos usar o tipo VARCHAR(). Já os atributos compostos do modelo ER, devem ser divididos em atributos simples no MR e por sua vez mapeados com os seus respectivos tipos.

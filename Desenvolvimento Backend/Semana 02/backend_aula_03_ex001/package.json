@@ -1,0 +1,14 @@
+{
+  "name": "backend02",
+  "version": "1.0.0",
+  "description": "Questão 02 da Atividade Presencial de Desevolvimento Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imd"
+  ],
+  "author": "Felipe Madureira",
+  "license": "ISC"
+}
