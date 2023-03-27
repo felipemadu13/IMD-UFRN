@@ -9,6 +9,5 @@
  * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/0287c2270e7675b6a0607e177ce473e8828259c8/Desenvolvimento%20Backend/Semana%2002/backend_aula_02_ex001.txt)
  * [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/0287c2270e7675b6a0607e177ce473e8828259c8/Desenvolvimento%20Backend/Semana%2002/backend_aula_03_ex001/index.js)
  
- 
  ## AP Semana 03 - Aula 05 e 06
- * Exercício 01
+ * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/1aac454badada63ba6f382df0fbe618b9b211d5a/Desenvolvimento%20Backend/Semana%2003/backend_aula_04_05_ex001/index.js)
