@@ -1,0 +1,24 @@
+{
+  "name": "q01",
+  "version": "1.0.0",
+  "description": "Questão 01 da Aula 04 de Desenvolvimento Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "server"
+  ],
+  "author": "Felipe Madureira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}

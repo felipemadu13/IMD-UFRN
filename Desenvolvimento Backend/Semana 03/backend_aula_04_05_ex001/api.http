@@ -1,0 +1,24 @@
+GET http://localhost:3000/produtos
+
+###
+POST http://localhost:3000/produtos
+Content-type: application/json
+
+{
+    "Nome": "Camiseta Sandman",
+    "Descrição": "Camiseta Cor Preta",
+    "Preço": "54,00"
+}
+
+###
+PUT http://localhost:3000/produtos/
+Content-type: application/json
+
+{
+    "Nome": "Camiseta Sandman - Morte",
+    "Descrição": "Camiseta Cor Preto/Branco",
+    "Preço": "72,00"
+}
+
+###
+DELETE http://localhost:3000/produtos/
