@@ -23,7 +23,7 @@
 
 ## Módulo Avançado
 ### Banco de Dados
-* [Banco de Dados](https://github.com/felipemadu13/IMD-UFRN/blob/d3a53873a8096b7dc618e8e841d90cfa8c552323/Banco%20de%20Dados/README.md)
+* [Banco de Dados](https://github.com/felipemadu13/IMD-UFRN/blob/6fbecd914bd0b710d30d37f033a353c7b932aeda/Banco%20de%20Dados/README.md)
 
 ### Desenvolvimento Backend
 * [Desenvolvimento Backend](https://github.com/felipemadu13/IMD-UFRN/blob/712e5a0ada22494cdbaeb4aa88b8c6c9db114545/Desenvolvimento%20Backend/README.md)
