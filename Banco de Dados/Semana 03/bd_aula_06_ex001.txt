@@ -1,0 +1,1 @@
+Anomalias são falhas de projeto que podem levar a inconsistências no banco de dados. Há três tipos de anomalias: anomalia de inserção, de remoção e de atualização. Para evitar este problema, foram desenvolvidas as práticas de normalização.

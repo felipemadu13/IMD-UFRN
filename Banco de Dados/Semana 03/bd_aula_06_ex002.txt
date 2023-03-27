@@ -1,0 +1,1 @@
+A anomalia de inserção ocorre quando um dado inserido gera uma inconsistência no banco de dados. Um exemplo poderia ser uma tabela “funcionário”, da qual, ao mudar de endereço, o funcionário ficou com dois registros dentro da tabela. Um com seus dados, mas o endereço antigo e outro com seus dados e o endereço novo.
