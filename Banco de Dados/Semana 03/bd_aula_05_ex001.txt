@@ -1,5 +1,0 @@
-O relacionamento entre uma entidade A que pode ser relacionar com uma ou mais entidades B é o do tipo de um-para-muitos. A transformação desse relacionamento de um modelo ER para MR, acontece com os seguintes passos:
-
-Mapear as entidades
-Inserir um atributo na tabela B com o mesmo nome e tipo do atributo chave primária da tabela A.
-Na tabela B, definir como chave estrangeira o atributo de mesmo nome da chave primária da tabela A, e referenciar este atributo com a chave primária da tabela A.

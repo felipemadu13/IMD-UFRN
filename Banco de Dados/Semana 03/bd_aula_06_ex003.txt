@@ -1,1 +1,0 @@
-O processo de normalização proposto por Dr. Codd é fundamental para evitar inconsistências de dados ainda na fase de desenvolvimento. Este processo previne duplicações no banco de dados, permitindo mais espaço físico de armazenamento, melhor organização e redução de impactos negativos.

@@ -1,2 +1,0 @@
-Qual a definição de Entidade?
-Entidade é uma representação abstrata de um objeto do mundo real que pode ser identificado de forma única.Um exemplo poderia ser a entidade “Fornecedor” dentro do banco de dados de uma empresa. 

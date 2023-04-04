@@ -1,1 +1,0 @@
-Os atributos chaves são aqueles que servem para identificar de forma única uma tabela. Dentro do modelo ER, os atributos chaves são identificados por um sublinhado e são transformados em chaves primárias no modelo relacional.

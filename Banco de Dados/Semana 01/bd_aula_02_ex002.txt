@@ -1,2 +1,0 @@
-O que é um relacionamento um-para-muitos?
-Em bancos de dados, um relacionamento de um-para-muitos é a relação entre duas entidades em que uma entidade A pode ser relacionada a várias entidades B. Um exemplo seria um blog em que um autor(entidade A) poderia ter vários posts (entidade B) escritos no blog.
