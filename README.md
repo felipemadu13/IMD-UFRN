@@ -23,7 +23,7 @@
 
 ## Módulo Avançado
 
-### Desenvolvimento Backend
+### Desenvolvimento Backend (Node, Express, Sequelize)
 * [Desenvolvimento Backend](https://github.com/felipemadu13/IMD-UFRN/blob/2caad55fd6c0a27c5ed4ce41fbe31f5bac434085/Desenvolvimento%20Backend/README.md)
 
 ### Plataformas de aplicações Web
