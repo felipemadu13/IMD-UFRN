@@ -14,3 +14,6 @@
 
  ## AP Semana 04 - Aula 05 e 06
  * Exercício 01
+
+ ## AP Semana 05 - Aula 07 e 08
+ * Exercício 01
