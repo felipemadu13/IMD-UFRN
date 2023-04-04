@@ -22,13 +22,11 @@
 * [Programação Orientada a Objetos](https://github.com/felipemadu13/IMD-UFRN/blob/e870c184f1c9e8ab1265a356f6b0d517d66f04d9/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/README.md)
 
 ## Módulo Avançado
-### Banco de Dados
-* [Banco de Dados](https://github.com/felipemadu13/IMD-UFRN/blob/6fbecd914bd0b710d30d37f033a353c7b932aeda/Banco%20de%20Dados/README.md)
 
 ### Desenvolvimento Backend
 * [Desenvolvimento Backend](https://github.com/felipemadu13/IMD-UFRN/blob/9c5a3b5b19b599b49f778cca3176257e7c149002/Desenvolvimento%20Backend/README.md)
 
-### Plataformas de aplicações web
+### Plataformas de aplicações Web
 * Plataformas de aplicaçãoes web
 
 ### Desenvolvimento para Dispositivos Móveis
