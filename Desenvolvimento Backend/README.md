@@ -16,4 +16,4 @@
  * [Exercício](https://github.com/felipemadu13/IMD-UFRN/blob/77b17987d02fb9d46ffd34b94c13c261125d325b/Desenvolvimento%20Backend/Semana%2004/Backend_A06_Q01/index.js)
 
  ## AP Semana 05 - Aula 07 e 08
- * Exercício 01
+ * [Exercício 01 e 02](https://github.com/felipemadu13/IMD-UFRN/blob/257ea4173bf0f01c694ac808d0457bda7753f018/Desenvolvimento%20Backend/Semana%2005/Backend_A08_Q01/src/index.js)
