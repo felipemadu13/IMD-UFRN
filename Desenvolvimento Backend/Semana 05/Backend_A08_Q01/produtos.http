@@ -1,0 +1,15 @@
+GET http://localhost:3000/produtos
+
+###
+POST http://localhost:3000/produtos
+Content-Type: application/json
+
+{
+ "nome": "Camisa Sem Etiqueta",
+ "descricao": "fuderosa",
+ "preco": "87",
+ "tags": ["teste","teste"]
+}
+
+###
+DELETE http://localhost:3000/produtos/
