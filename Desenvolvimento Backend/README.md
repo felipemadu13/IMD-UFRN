@@ -19,4 +19,4 @@
  * [Exercício 01 e 02](https://github.com/felipemadu13/IMD-UFRN/blob/257ea4173bf0f01c694ac808d0457bda7753f018/Desenvolvimento%20Backend/Semana%2005/Backend_A08_Q01/src/index.js)
 
 ## AP Semana 06 - Aula 09 e 10
-* Exercício 01 e 02
+* [Exercício 01 e 02](https://github.com/felipemadu13/IMD-UFRN/blob/c879f3b95c02db1a488a87be0ac7dbe2326d2442/Desenvolvimento%20Backend/Semana%2006/Backend_A10_Q01/index.js)
