@@ -1,0 +1,15 @@
+<%- contentFor('body') %>
+
+<% produtos.forEach(function (produtos) { %>
+
+<h4><%=produtos.nome%></h4>
+<img src="<%=produtos.foto%>">
+
+<% if (!produtos.foto) { %>
+    <img src="static/uploads/imagem_padrao.jpg">
+  <% } %>
+
+<p><%=produtos.descricao%></p>
+<p>R$<%=produtos.preco%></p>
+
+<% }) %>
