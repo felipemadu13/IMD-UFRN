@@ -1,0 +1,39 @@
+###
+
+GET http://localhost:8080/
+
+###
+
+GET http://localhost:8080/api/produtos
+
+###
+
+GET http://localhost:8080/api/produtos/8
+
+###
+
+POST http://localhost:8080/api/produtos
+Content-Type: application/json
+
+{
+    "nome": "Jogo de Panelas Tramontina Antiaderente - de Alumínio Vermelho 10 Peças",
+    "descricao": "Hoje em dia, seja por lazer ou necessidade, todos nós nos aventuramos na cozinha não é mesmo? E para que tudo saia como planejamos, precisamos sempre contar com utensílios adequados e de qualidade. Por isso vale a pena conferir o Jogo de Panelas Turim da Tramontina. Feita em alumínio revestido com antiaderente Starflon T1 interno, esse belíssimo jogo de panelas na cor vermelha proporciona um cozimento uniforme de seus alimentos e é muito fácil de lavar, pois o revestimento faz com que os alimentos não grudem. Com 10 peças, esse jogo certamente fará parte de grandes momentos na sua cozinha!",
+    "preco": 299.99,
+    "tags": ["home", "panela"]
+}
+
+###
+
+PUT http://localhost:8080/api/produtos/5
+Content-Type: application/json
+
+{
+    "nome": "Tinta Fosco Interior Rende e Cobre Muito Standard 20L - Suvinil",
+    "preco": 339.9,
+    "precoPromocao": 1.99
+}
+
+###
+
+DELETE http://localhost:8080/api/produtos/8
+
