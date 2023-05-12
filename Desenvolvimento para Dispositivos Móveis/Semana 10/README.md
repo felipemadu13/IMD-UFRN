@@ -2,3 +2,5 @@
 Respostas das atividades presenciais da matéria *"Desenvolvimento para Dispositivos Móveis* 
 
  ## AP Semana 10 - Aula 01
+* Exercício 01
+* Exercício 02
