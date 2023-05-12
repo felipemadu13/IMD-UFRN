@@ -27,7 +27,7 @@
 * [Desenvolvimento Backend](https://github.com/felipemadu13/IMD-UFRN/blob/84b6760724be3024c4cf7380b3b4eb3b86587866/Desenvolvimento%20Backend/README.md)
 
 ### Plataformas de aplicações Web
-* Plataformas de aplicações web
+* Plataformas de Aplicações web
 
 ### Desenvolvimento para Dispositivos Móveis
 * Desenvolvimento para Dispositivos Móveis
