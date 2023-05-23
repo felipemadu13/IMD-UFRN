@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+     <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+    <style>
+        #paddingCorrection {
+            padding-left: 1.5rem;
+            min-height: 3rem;
+        }
+        #flexCorrection {
+            display: flex;
+            justify-content: space-between
+        }
+
+    </style>
+            
+    <title>Aplicações Web - 03</title>
+</head>
+<body>
+    <div class="container">
+        <h3>Registrar compra</h3>
+        <div class="row">
+            <div class="col s6">
+            <h4>Produtos Disponíveis</h4>
+                <ul class="collection">
+                    <li class="collection-item avatar" id="paddingCorrection">
+                        Whisky Jim Beam Black, Bourbon, 1L <br>
+                        Estoque: 10
+                        <a class="secondary-content">
+                            <button class="btn waves-effect waves-light purple darken-2" type="submit" name="action">Adicionar
+                                <i class="material-icons right">control_point</i>
+                            </button>
+                        </a>
+                    </li>
+                    <li class="collection-item avatar" id="paddingCorrection">
+                        Martini Rosso 750Ml Martini Sabor <br>
+                        Estoque: 12
+                        <a class="secondary-content">
+                            <button class="btn waves-effect waves-light purple darken-2" type="submit" name="action">Adicionar
+                                <i class="material-icons right">control_point</i>
+                            </button>
+                        </a>
+                    </li>
+                    <li class="collection-item avatar" id="paddingCorrection">
+                        Vodka Absolut 1000 Ml <br>
+                        Estoque: 05
+                        <a class="secondary-content">
+                            <button class="btn waves-effect waves-light purple darken-2" type="submit" name="action">Adicionar
+                                <i class="material-icons right">control_point</i>
+                            </button>
+                        </a>
+                    </li>
+                    <li class="collection-item avatar" id="paddingCorrection">
+                        Gin Tanqueray London Dry, 750ml <br>
+                        Estoque: 06
+                        <a class="secondary-content">
+                            <button class="btn waves-effect waves-light purple darken-2" type="submit" name="action">Adicionar
+                                <i class="material-icons right">control_point</i>
+                            </button>
+                        </a>
+                    </li>
+                    <li class="collection-item avatar" id="paddingCorrection">
+                        Ballantine's Whisky 12 anos 750ml <br>
+                        Estoque: 03
+                        <a class="secondary-content">
+                            <button class="btn waves-effect waves-light purple darken-2" type="submit" name="action">Adicionar
+                                <i class="material-icons right">control_point</i>
+                            </button>
+                        </a>
+                    </li>
+            </div>
+            
+            <div class="col s6">
+            <h4>Produtos adicionados</h4>
+                <ul class="collection avatar">
+                    <li class="collection-item valign-wrapper" id="flexCorrection">
+                        Whisky Jim Beam Black, Bourbon, 1L<br>Quantidade: 2
+                        <span class="badge">
+                            <i class="material-icons purple-text text-darken-2">remove_circle_outline</i>
+                        </span>
+                    </li>
+                    <li class="collection-item valign-wrapper" id="flexCorrection">
+                        Martini Rosso 750Ml Martini Sabor<br>Quantidade: 3
+                        <span class="badge">
+                            <i class="material-icons purple-text text-darken-2">remove_circle_outline</i>
+                        </span>
+                    </li>
+                    <li class="collection-item valign-wrapper" id="flexCorrection">
+                        Gin Tanqueray London Dry, 750ml<br>Quantidade: 6
+                        <span class="badge">
+                            <i class="material-icons purple-text text-darken-2">remove_circle_outline</i>
+                        </span>
+                    </li>
+                </ul>
+            </div>
+            <div class="col s4 offset-s10">
+                <button class="btn waves-effect waves-light purple darken-2" type="submit" name="action">FINALIZAR COMPRA
+                    <i class="material-icons right">chevron_right</i>
+                </button>
+            </div>
+        </div>
+    </div>
+    </body>
+    </html>
