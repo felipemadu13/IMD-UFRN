@@ -6,4 +6,4 @@ Respostas das atividades presenciais da matéria *"Plataformas de Aplicações W
 * [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/4c037b977183e36cc4e8cba0150ce061297c7c22/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2010/WEB_A01_Q01_Q02/WEB_A01_Q02.html)
 
 ## AP Semana 11 - Aula 03
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/146e2e0b06a203f53e05887647a560c055a5f71f/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2011/WEB_A03_Q01/index.html)
