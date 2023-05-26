@@ -27,7 +27,7 @@
 * [Desenvolvimento Backend](https://github.com/felipemadu13/IMD-UFRN/blob/84b6760724be3024c4cf7380b3b4eb3b86587866/Desenvolvimento%20Backend/README.md)
 
 ### Plataformas de aplicações Web
-* [Plataformas de Aplicações web](https://github.com/felipemadu13/IMD-UFRN/tree/4f4f8f1d70c32b9c19f32d61a50d34e87e3abad2/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2010/WEB_A01_Q01_Q02)
+* [Plataformas de Aplicações web](https://github.com/felipemadu13/IMD-UFRN/blob/d1c87b5ae6875d62852199e6617b858ddcd11596/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/README.md)
 
 ### Desenvolvimento para Dispositivos Móveis (React Native)
 * [Desenvolvimento para Dispositivos Móveis](https://github.com/felipemadu13/IMD-UFRN/blob/c12b97e36dd979f907b34829d5f9cb572327eccf/Desenvolvimento%20para%20Dispositivos%20M%C3%B3veis/README.md)
