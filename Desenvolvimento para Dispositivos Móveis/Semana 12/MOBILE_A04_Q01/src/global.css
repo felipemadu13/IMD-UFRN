@@ -1,0 +1,23 @@
+:root {
+    --white: #FFFFFF;
+    --dark-blue: #001d3d;
+    --blue: #0f2baa;
+    --dark-yellow: #fca311;
+}
+
+body {
+    background: var(--dark-blue);
+    color: var(--white);
+    font-size: 32px;
+}
+
+input[type=submit] {
+    background-color: var(--dark-yellow);
+  }
+
+li {
+    background-color: var(--blue);
+    padding: 20px;
+    border: 1px solid black;
+
+}
