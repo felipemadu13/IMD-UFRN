@@ -11,3 +11,6 @@ Respostas das atividades presenciais da matéria *"Plataformas de Aplicações W
 ## AP Semana 12 - Aula 04 e 05
 * [Exercício 01 - Aula 04](https://github.com/felipemadu13/IMD-UFRN/blob/9910eed5ae3982a1cc8775fa7dbadaba73e09541/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2012/WEB_A04_Q01/views/pages/homepage.ejs)
 * [Exercício 01 - Aula 05](https://github.com/felipemadu13/IMD-UFRN/blob/9910eed5ae3982a1cc8775fa7dbadaba73e09541/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2012/WEB_A05_Q01/index.php)
+
+## AP Semana 12 - Aula 06
+* Exercício 01
