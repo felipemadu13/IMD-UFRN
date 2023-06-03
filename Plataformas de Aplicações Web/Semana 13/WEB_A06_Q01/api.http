@@ -1,0 +1,17 @@
+###
+GET http://localhost:3000/soma?valor1=10&valor2=5
+# Resultado: 15
+
+###
+GET http://localhost:3000/subtracao?valor1=10&valor2=5
+# Resultado: 5
+
+###
+GET http://localhost:3000/divisao?valor1=10&valor2=5
+# Resultado: 2
+
+###
+GET http://localhost:3000/multiplicacao?valor1=10&valor2=5
+# Resultado: 50
+
+
