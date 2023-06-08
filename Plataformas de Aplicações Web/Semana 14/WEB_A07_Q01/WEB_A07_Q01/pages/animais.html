@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+  <title>Animais</title>
+  <script>
+    async function escolherTipoAnimal() {
+      // obtém o valor do tipo de animal escolhido ('caes' ou 'gatos')
+      const tipoAnimal = document.getElementById('tipoAnimal').value;
+
+      if (tipoAnimal == '') return; // finaliza se nenhum tipo foi escohido
+
+      // cria uma URL com o caminho correto para o tipo escolhido
+      // 'dados/caes.json' ou 'dados/gatos.json'
+      const animaisJSONURL = `dados/${tipoAnimal}.json`;
+
+      // usa o fetch para obter o conteúdo do documento JSON da url gerada
+      const resultado = await fetch(animaisJSONURL);
+
+      if (resultado.ok) {
+        // Caso a requisição do documento tenha sido realizada com sucesso
+        // coloca o conteúdo json do documento (um array de animais) na variável "animais".
+        const animais = await resultado.json();
+
+        // chama a função listarAnimais com o array recebido do documento json.
+        listarAnimais(animais);
+      }
+    }
+
+    async function listarAnimais(animais) {
+      // obtém o elemento UL com a lista de animais
+      const animaisUL = document.getElementById('animaisUL');
+
+      // limpa todo os LI da lista de animais (limpa a lista UL)
+      animaisUL.innerHTML = "";
+
+      // para cada animal do array passado
+      for (const animal of animais) {
+        // cria um novo elemento LI,
+        const novoLI = document.createElement('LI');
+
+        // adiciona o nome - raça do animal como conteúdo do LI
+        novoLI.innerHTML = `${animal.nome} - ${animal.raca}`;
+
+        // e adiciona o LI como novo filho da lista de animais
+        animaisUL.appendChild(novoLI);
+      }
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h1>Animais</h1>
+    <select id="tipoAnimal" onChange="escolherTipoAnimal()" class="form-select">
+      <option value="">Escolha um tipo abaixo</option>
+      <option value="caes">Cães</option>
+      <option value="gatos">Gatos</option>
+    </select>
+
+    <ul id="animaisUL">
+    </ul>
+
+  </div>
+</body>
+</html>
