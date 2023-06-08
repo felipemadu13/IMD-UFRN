@@ -16,5 +16,5 @@ Respostas das atividades presenciais da matéria *"Plataformas de Aplicações W
 * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/800edebbf8d9ae68be96790d5543fa284ba6a95b/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2013/WEB_A06_Q01/index.js)
 
 ## AP Semana 14 - Aula 07 e 08
-* Exercício 01 - Aula 07
-* Exercício 01 - Aula 08
+* [Exercício 01 - Aula 07](https://github.com/felipemadu13/IMD-UFRN/blob/4933f766b2e0aab9816c047bd3fc1ee9dd5c2de0/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2014/WEB_A07_Q01/WEB_A07_Q01/index.js)
+* [Exercício 01 - Aula 08](https://github.com/felipemadu13/IMD-UFRN/tree/4933f766b2e0aab9816c047bd3fc1ee9dd5c2de0/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2014/WEB_A08_Q01/WEB_A08_Q01)
