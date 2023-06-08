@@ -15,5 +15,8 @@ Respostas das atividades presenciais da matéria *"Desenvolvimento para Disposit
  ## AP Semana 12 - Aula 04
  * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/213147ed7fecfdfa5c23e7af4ddf88dbaa67b8bd/Desenvolvimento%20para%20Dispositivos%20M%C3%B3veis/Semana%2012/MOBILE_A04_Q01/src/ToDo.jsx)
 
-## AP Semana 12 - Aula 05 e 06
+## AP Semana 13 - Aula 05 e 06
 * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/8ab266cd92f067df3f3b30cbec257625ee5c47d3/Desenvolvimento%20para%20Dispositivos%20M%C3%B3veis/Semana%2013/MOBILE_A06_Q01/App.js)
+
+## AP Semana 14 - Aula 07
+* Exercício 01
