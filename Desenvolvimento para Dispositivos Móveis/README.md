@@ -20,3 +20,13 @@ Respostas das atividades presenciais da matéria *"Desenvolvimento para Disposit
 
 ## AP Semana 14 - Aula 07
 * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/c4ea0124464885056002004d3630d3af63ae355e/Desenvolvimento%20para%20Dispositivos%20M%C3%B3veis/Semana%2014/MOBILE_A07_Q01/App.js)
+
+## AP Semana 15 - Aula 08
+* Exercício 01
+
+## AP Semana 15 - Aula 08
+* Exercício 01 - A
+* Exercício 01 - B
+* Exercício 01 - C
+* Exercício 02
+  
