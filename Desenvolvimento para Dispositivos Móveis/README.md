@@ -24,9 +24,12 @@ Respostas das atividades presenciais da matéria *"Desenvolvimento para Disposit
 ## AP Semana 15 - Aula 08
 * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/fdc920e148588e4d32c469306b09bb01bea9e377/Desenvolvimento%20para%20Dispositivos%20M%C3%B3veis/Semana%2015/MOBILE_A08_Q01/App.js)
 
-## AP Semana 15 - Aula 08
+## AP Semana 15 - Aula 09
 * [Exercício 01 - A](https://github.com/felipemadu13/IMD-UFRN/blob/f166f534c04601e274b28ab7713df9804c722a82/Desenvolvimento%20para%20Dispositivos%20M%C3%B3veis/Semana%2015/MOBILE_A09_Q01/dm_ap_aula_09_a/App.js)
 * [Exercício 01 - B](https://github.com/felipemadu13/IMD-UFRN/blob/f166f534c04601e274b28ab7713df9804c722a82/Desenvolvimento%20para%20Dispositivos%20M%C3%B3veis/Semana%2015/MOBILE_A09_Q01/dm_ap_aula_09_b/App.js)
 * [Exercício 01 - C](https://github.com/felipemadu13/IMD-UFRN/blob/f166f534c04601e274b28ab7713df9804c722a82/Desenvolvimento%20para%20Dispositivos%20M%C3%B3veis/Semana%2015/MOBILE_A09_Q01/dm_ap_aula_09_c/App.js)
 * [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/f166f534c04601e274b28ab7713df9804c722a82/Desenvolvimento%20para%20Dispositivos%20M%C3%B3veis/Semana%2015/MOBILE_A09_Q02/App.js)
+
+## AP Semana 16 - Aula 10
+* Exercício 01
   
