@@ -31,5 +31,5 @@ Respostas das atividades presenciais da matéria *"Desenvolvimento para Disposit
 * [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/f166f534c04601e274b28ab7713df9804c722a82/Desenvolvimento%20para%20Dispositivos%20M%C3%B3veis/Semana%2015/MOBILE_A09_Q02/App.js)
 
 ## AP Semana 16 - Aula 10
-* Exercício 01
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/bc8262803adbf46325ab4e5c724fd760065c4ae3/Desenvolvimento%20para%20Dispositivos%20M%C3%B3veis/Semana%2016/MOBILE_A10_Q01/App.js)
   
