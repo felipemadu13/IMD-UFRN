@@ -1,0 +1,28 @@
+<h1>Login</h1>
+
+<% if (error) { %>
+
+<div style="color: red">
+  Erro no E-Mail/senha
+
+</div>
+
+<% } %>
+
+<form method="POST" action="/auth/sign_in">
+
+E-Mail: <input type="email" name="email" /><br/>
+
+Senha: <input type="password" name="password" /><br/>
+
+<input type="submit" value="Entrar"/><br/>
+
+</form>
+
+<h3>Admin</h3>
+<p>email: jb@natalstore.com</p>
+<p>password: senhajb</p>
+
+<h3>Usuário Comum</h3>
+<p>email: rick08@natalstore.com</p>
+<p>password: senharick08</p>

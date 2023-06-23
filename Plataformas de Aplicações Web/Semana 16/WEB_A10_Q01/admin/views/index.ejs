@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Plataforma <%= title %></p>
+    <p>Logado como <%= employee.name %></p>
+    <p>
+      <a href="/auth/sign_out">Sair do sistema</a>
+    </p>
+    <% if (employee.is_admin) { %>
+
+      <div style="color: red">
+        Usuário é um administrador  
+      </div>
+      
+    <% } %>
+    <% if (!employee.is_admin) { %>
+
+      <div style="color: red">
+        Usuário Comum
+      </div>
+      
+    <% } %>
+
+
+  </body>
+
+</html>
