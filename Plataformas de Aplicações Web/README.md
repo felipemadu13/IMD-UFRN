@@ -27,3 +27,6 @@ Respostas das atividades presenciais da matéria *"Plataformas de Aplicações W
 
 ## AP Semana 16 - Aula 11
 * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/045d7538005c204d46e8557931373b6f3a08dcd7/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2016/WEB_A11_Q01/app.js)
+
+## AP Semana 17 - Aula 12
+* Exercício 01
