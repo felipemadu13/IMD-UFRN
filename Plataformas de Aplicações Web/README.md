@@ -34,3 +34,6 @@ Respostas das atividades presenciais da matéria *"Plataformas de Aplicações W
 ## AP Semana 18 - Aula 13 e 14
 * [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/395e5b8301efe330fa721490e0e776854a287a04/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2018/WEB_A13_Q01/pdv/src/App.js)
 * [Exercício 02](https://github.com/felipemadu13/IMD-UFRN/blob/395e5b8301efe330fa721490e0e776854a287a04/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2018/WEB_A14_Q01/src/routes/q01.svelte)
+
+## AP Semana 19 - Aula 15
+* [Exercício 01](https://github.com/felipemadu13/IMD-UFRN/blob/624852846e321b4068b344c6a93bb8d0281f1655/Plataformas%20de%20Aplica%C3%A7%C3%B5es%20Web/Semana%2019/WEB_A15_Q01/src/routes/a15q01.svelte)
